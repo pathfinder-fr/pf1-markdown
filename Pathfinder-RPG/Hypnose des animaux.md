@@ -27,4 +27,4 @@ Categories:
 
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir description) ; **Résistance à la magie** oui
 
-Les gestes hypnotiques du personnage et son chant scandé incitent les [animaux](./type Animal.md) et les [créatures magiques](./type Créature magique.md) à ne rien faire d’autre que le regarder. Seules les créatures ayant 1 ou 2 en [Intelligence](./Intelligence.md) peuvent être affectées. Le personnage [fascine](./Fasciné.md) un total de 2d6 [DV](./DV.md) de créatures, en commençant par les [animaux](./type Animal.md) les plus proches de lui.
+Les gestes hypnotiques du personnage et son chant scandé incitent les [animaux](./type Animal.md) et les [créatures magiques](./type Créature magique.md) à ne rien faire d’autre que le regarder. Seules les créatures ayant 1 ou 2 en [Intelligence](./Intelligence.md) peuvent être affectées. Le personnage [fascine](./Fasciné.md) un total de 2d6 [DV](./../Ressources/DV.md) de créatures, en commençant par les [animaux](./type Animal.md) les plus proches de lui.

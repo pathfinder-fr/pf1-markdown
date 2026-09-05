@@ -4,6 +4,7 @@ Title: aptitudes de la voie du maréchal
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Aptitudes de la voie du Maréchal Mythique
 ---
 
->>> Aptitudes de la voie du Maréchal Mythique
+>>> [Aptitudes de la voie du Maréchal Mythique](./Aptitudes de la voie du Maréchal Mythique.md)

@@ -4,6 +4,7 @@ Title: tacticien
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Chevalier#TACTICIEN
 ---
 
->>> Chevalier#TACTICIEN
+>>> [Chevalier#TACTICIEN](./Chevalier.md#TACTICIEN)

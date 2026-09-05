@@ -32,7 +32,7 @@ Les nagajis sont une race d’humanoïdes ophidiens à la peau écailleuse imita
 {s:MR}Il est possible de prendre le trait racial suivant à la place d’un trait racial existant de nagaji. Consultez votre MJ avant de choisir cette option.
 
 <u>*Remplace « perception du serpent » :*</u>
-- **Regard hypnotique (Mag).** Le regard du nagaji est si intense qu’il fige quiconque le croise. Une fois par jour, il peut tenter d’hypnotiser une seule cible, comme s’il s’agissait du sort *[hypnose](./Hypnose.md)* ([niveau de lanceur de sorts](./NLS.md) égal au nombre de [DV](./DV.md) du nagaji). Le [DD](./DD.md) de cet effet est égal à 11 + le modificateur de [Charisme](./Charisme.md) du nagaji). Les effets de ce regard fascinant ne durent qu’un seul round. Ce trait racial remplace perception du serpent.
+- **Regard hypnotique (Mag).** Le regard du nagaji est si intense qu’il fige quiconque le croise. Une fois par jour, il peut tenter d’hypnotiser une seule cible, comme s’il s’agissait du sort *[hypnose](./Hypnose.md)* ([niveau de lanceur de sorts](./NLS.md) égal au nombre de [DV](./../Ressources/DV.md) du nagaji). Le [DD](./DD.md) de cet effet est égal à 11 + le modificateur de [Charisme](./Charisme.md) du nagaji). Les effets de ce regard fascinant ne durent qu’un seul round. Ce trait racial remplace perception du serpent.
 
 <u>*Remplace « résistant » :*</u>
 - {s:cs}{s:ISR}**Affinité avec les serpents.** Les [prêtres](./Prêtre.md) nagajis du [domaine des Reptiles](./Domaine des Reptiles.md) considèrent leur [niveau de lanceur de sorts](./NLS.md) comme supérieur de 1 dans le cadre de leurs pouvoirs et sorts de domaine. Il s'agit d'un bonus racial. Ce trait racial remplace résistant.

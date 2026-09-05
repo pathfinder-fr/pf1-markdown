@@ -2,6 +2,7 @@
 Name: Pathfinder-RPG.Sphinx B3
 Title: Les sphinx (doublon)
 LastModified: 2021-04-11 10:44
+RedirectTo: Sphinx
 ---
 
->>> Sphinx
+>>> [Sphinx](./../Golarion/Sphinx.md)

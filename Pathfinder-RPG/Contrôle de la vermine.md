@@ -16,7 +16,7 @@ Categories:
 **Temps d’incantation** 1 [action simple](./Action simple.md)
 **Composantes** [V, G, FD/M](./composantes.md) (un scarabée)
 **Portée** courte (7,50 m + 1,50 m/2 niveaux)
-**Cible** jusqu’à 1 [DV](./DV.md) de vermine/niveau, les vermines ne devant pas être espacées de plus de 9 m les unes des autres
+**Cible** jusqu’à 1 [DV](./../Ressources/DV.md) de vermine/niveau, les vermines ne devant pas être espacées de plus de 9 m les unes des autres
 **Durée** 1 heure/niveau
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** non
 

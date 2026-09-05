@@ -4,6 +4,7 @@ Title: Ébloui
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: États préjudiciables#Ébloui
 ---
 
->>> États préjudiciables#Ébloui
+>>> [États préjudiciables#Ébloui](./États préjudiciables.md#Ébloui)

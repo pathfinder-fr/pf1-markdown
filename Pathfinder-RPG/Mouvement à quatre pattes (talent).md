@@ -4,6 +4,7 @@ Title: Mouvement à quatre pattes (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#QUATREPATTES
 ---
 
->>> Talents#QUATREPATTES
+>>> [Talents#QUATREPATTES](./Talents.md#QUATREPATTES)

@@ -65,7 +65,7 @@ Les anges se répartissent en une hiérarchie connue sous le nom de Triade des c
 compose exclusivement de planétars à quatre ailes, puis viennent enfin les solars à six ailes, qui sont les dirigeants de la race des anges, les plus grands et les plus puissants d’entre eux pouvant même s’opposer
 directement à la volonté d’un demi-dieu si cela s’avère nécessaire.
 
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs Empyréens](./../Golarion/Seigneurs empyréens.md).***</li></ul>
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs Empyréens](./Seigneurs empyréens.md).***</li></ul>
 
 ### Les anges déchus
 Plusieurs religions parlent d’anges qui se sont rebellés contre leur créateur ou laissés gagner par la corruption et le Mal. Seuls les anges dotés d’une fierté démesurée ou d’une faible volonté succombent à ce destin heureusement rare, mais malheureusement possible. Une fois exilés hors des royaumes du Bien et poursuivis par leurs anciens frères, les anges déchus deviennent des proies faciles pour les fiélons. Ils perdent un peu de la grâce et de la lumière qui caractérisent leurs pairs immaculés mais on dit qu’ils possèdent une sorte de beauté tragique. Parfois, un ange déchu suffisamment fort et malin rejoint les légions de l’Enfer et se transforme en diable ou devient un démon des Abysses, puis il se forge une place dans cet horrible royaume ou se met au service d’un démon plus puissant.

@@ -4,6 +4,7 @@ Title: mensonge convaincant
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#MENSONGECONVAINCANT
 ---
 
->>> Talents#MENSONGECONVAINCANT
+>>> [Talents#MENSONGECONVAINCANT](./Talents.md#MENSONGECONVAINCANT)

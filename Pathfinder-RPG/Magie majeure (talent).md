@@ -4,6 +4,7 @@ Title: Magie majeure (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#MAGIEMAJEURE
 ---
 
->>> Talents#MAGIEMAJEURE
+>>> [Talents#MAGIEMAJEURE](./Talents.md#MAGIEMAJEURE)

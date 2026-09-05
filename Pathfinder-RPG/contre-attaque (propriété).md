@@ -5,6 +5,7 @@ LastModified: 2020-02-20 20:30
 Categories:
 - Propriété arme
 - Redirection
+RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Contre-attaque
 ---
 
->>> Descriptions individuelles des propriétés spéciales des armes#Contre-attaque
+>>> [Descriptions individuelles des propriétés spéciales des armes#Contre-attaque](./Descriptions individuelles des propriétés spéciales des armes.md#Contre-attaque)

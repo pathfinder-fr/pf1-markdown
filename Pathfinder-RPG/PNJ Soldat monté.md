@@ -4,6 +4,7 @@ Title: Soldat monté
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Armée#SOLDATMONTE
 ---
 
->>> Armée#SOLDATMONTE
+>>> [Armée#SOLDATMONTE](./Armée.md#SOLDATMONTE)

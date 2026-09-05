@@ -36,9 +36,9 @@ Le personnage ne peut pas faire de sacrifices plus importants que ceux indiqués
 |- CLASS="titre"
 | Type || Sacrifice || Bonus obtenu || Valeur en po
 |- CLASS="premier"
-| Trésors || 100 po/[DV](./DV.md) de la cible || +1 || Égale
+| Trésors || 100 po/[DV](./../Ressources/DV.md) de la cible || +1 || Égale
 |-
-| Vies<sup>1</sup> || une créature vivante avec un nombre de [DV](./DV.md) égal à ceux de la cible || +2 || 200 po/DV
+| Vies<sup>1</sup> || une créature vivante avec un nombre de [DV](./../Ressources/DV.md) égal à ceux de la cible || +2 || 200 po/DV
 |-
 | Corps/esprit<sup>1</sup> || [Diminution permanente](./affaiblissement temporaire (capacité).md) de 1 point de caractéristique || +4 || 500 po/point
 |-

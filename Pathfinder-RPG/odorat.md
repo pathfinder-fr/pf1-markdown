@@ -4,6 +4,7 @@ Title: odorat
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: odorat (capacité)
 ---
 
->>> odorat (capacité)
+>>> [odorat (capacité)](./Odorat (capacité).md)

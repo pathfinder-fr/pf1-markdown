@@ -4,6 +4,7 @@ Title: faux ami (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#FAUXAMI
 ---
 
->>> Talents#FAUXAMI
+>>> [Talents#FAUXAMI](./Talents.md#FAUXAMI)

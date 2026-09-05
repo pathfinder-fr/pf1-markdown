@@ -5,6 +5,7 @@ LastModified: 2020-02-18 10:33
 Categories:
 - Art de la guerre
 - Redirection
+RedirectTo: Pouvoirs de rage#PROJECTILEENRAGE
 ---
 
->>> Pouvoirs de rage#PROJECTILEENRAGE
+>>> [Pouvoirs de rage#PROJECTILEENRAGE](./Pouvoirs de rage.md#PROJECTILEENRAGE)

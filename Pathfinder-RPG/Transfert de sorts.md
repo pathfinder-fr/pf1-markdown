@@ -19,7 +19,7 @@ Categories:
 **Durée** [permanente](./Présentation des sorts.md#DUREE) jusqu’à utilisation ([T](./Présentation des sorts.md#DUREE))
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui (inoffensif)
 ---
-Au terme de l’incantation, le [prêtre](./Prêtre.md) transfère à la créature de son choix un ou plusieurs sorts qu’il a préparés. Le bénéficiaire, qui doit avoir un minimum de 5 en [Intelligence](./Intelligence.md) et de 9 en [Sagesse](./Sagesse.md), peut alors lancer ces sorts comme s’il les avait préparés normalement. Le lanceur ne peut transmettre que des [abjurations](./Abjuration.md), des [divinations](./Divination.md) et des [invocations](./Invocation.md) ([guérison](./guérison.md)) de cette manière. Le nombre de sorts transférés (et leur niveau) dépend uniquement du nombre de [DV](./DV.md) de la créature ; Le lanceur de sorts aura beau lancer *transfert de sorts* à plusieurs reprises il ne pourra pas dépasser cette limite.
+Au terme de l’incantation, le [prêtre](./Prêtre.md) transfère à la créature de son choix un ou plusieurs sorts qu’il a préparés. Le bénéficiaire, qui doit avoir un minimum de 5 en [Intelligence](./Intelligence.md) et de 9 en [Sagesse](./Sagesse.md), peut alors lancer ces sorts comme s’il les avait préparés normalement. Le lanceur ne peut transmettre que des [abjurations](./Abjuration.md), des [divinations](./Divination.md) et des [invocations](./Invocation.md) ([guérison](./guérison.md)) de cette manière. Le nombre de sorts transférés (et leur niveau) dépend uniquement du nombre de [DV](./../Ressources/DV.md) de la créature ; Le lanceur de sorts aura beau lancer *transfert de sorts* à plusieurs reprises il ne pourra pas dépasser cette limite.
 
 {| CLASS="tablo centre autoalt"
 |- CLASS="titre"
@@ -32,7 +32,7 @@ Au terme de l’incantation, le [prêtre](./Prêtre.md) transfère à la créatu
 | 5+ || 1 ou 2 sorts du 1er [niveau](./Niveau de sort.md) et 1 du 2e [niveau](./Niveau de sort.md)
 |}
 
-Les caractéristiques variables du sort (portée, durée, zone d’effet, etc.) sont calculées à partir du [niveau du lanceur de sorts](./NLS.md), pas du nombre de [DV](./DV.md) de la créature qui le reçoit.
+Les caractéristiques variables du sort (portée, durée, zone d’effet, etc.) sont calculées à partir du [niveau du lanceur de sorts](./NLS.md), pas du nombre de [DV](./../Ressources/DV.md) de la créature qui le reçoit.
 
 Dès que le personnage a lancé *transfert de sorts*, il perd un sort du 4e [niveau](./Niveau de sort.md) tant que le bénéficiaire n’a pas lancé tous les sorts qu’il a reçus (ou tant qu’il est en vie). Son dieu tient le [prêtre](./Prêtre.md) pour responsable de l’utilisation qui est faite des sorts transmis. Si pour une raison ou pour une autre le quota de sorts du 4e [niveau](./Niveau de sort.md) du [prêtre](./Prêtre.md) diminue et tombe en dessous du nombre de *transferts de sorts* qu’il a lancés et qui sont actifs, les sorts qu’il a le plus récemment transférés disparaissent de l’esprit du bénéficiaire.
 

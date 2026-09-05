@@ -378,7 +378,7 @@ Une arme ayant une propriété spéciale doit posséder un bonus d’altération
 | *[Vaillante](./vaillante (propriété).md)* || <sup>A&E</sup> || Corps-à-corps || Lorsqu’un porteur [chevalier](./Chevalier.md) [défie](./Chevalier.md#DEFI) une créature, il lui inflige 1d6 points de dégâts supplémentaire avec l’arme et elle confère lui un bonus de +2 aux tests de [désarmement](./désarmement.md) et de [destruction](./destruction.md) effectuées contre cette créature, ainsi qu’un bonus de +4 au [DMD](./DMD.md) contre ces mêmes manœuvres effectuées par cette dernière. || bonus de +1
 
 |- CLASS="premier"
-| *[Vampirique](./vampirique (propriété).md)* || <sup>*WMH*</sup> || Corps-à-corps tranchantes ou perforantes || Après 24 heures de port, et la première fois qu'il touche une créature vivante au combat à chaque tour, l'arme rend au porteur un nombre de points de vie égal à la moitié des dégâts infligés (jusqu'à son nombre de [DV](./DV.md), avec un maximum de 2 points de vie par DV chaque jour). || bonus de +1
+| *[Vampirique](./vampirique (propriété).md)* || <sup>*WMH*</sup> || Corps-à-corps tranchantes ou perforantes || Après 24 heures de port, et la première fois qu'il touche une créature vivante au combat à chaque tour, l'arme rend au porteur un nombre de points de vie égal à la moitié des dégâts infligés (jusqu'à son nombre de [DV](./../Ressources/DV.md), avec un maximum de 2 points de vie par DV chaque jour). || bonus de +1
 
 |- CLASS="premier"
 | *[Vicieuse](./vicieuse (propriété).md)* || <sup>A&E</sup> || Corps-à-corps || Inflige 1d6 points de dégâts au porteur et 2d6 points de dégâts à la cible au toucher. || bonus de +1

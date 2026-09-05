@@ -4,6 +4,7 @@ Title: Saignement
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: États préjudiciables#Saignement
 ---
 
->>> États préjudiciables#Saignement
+>>> [États préjudiciables#Saignement](./États préjudiciables.md#Saignement)

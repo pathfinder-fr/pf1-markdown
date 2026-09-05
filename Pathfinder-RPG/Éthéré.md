@@ -4,6 +4,7 @@ Title: Éthéré
 LastModified: 2020-03-10 17:01
 Categories:
 - Redirection
+RedirectTo: forme éthérée
 ---
 
->>> forme éthérée
+>>> [forme éthérée](./Forme éthérée.md)

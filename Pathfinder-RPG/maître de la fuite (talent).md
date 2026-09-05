@@ -4,6 +4,7 @@ Title: maître de la fuite
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#MAITREDELAFUITE
 ---
 
->>> Talents#MAITREDELAFUITE
+>>> [Talents#MAITREDELAFUITE](./Talents.md#MAITREDELAFUITE)

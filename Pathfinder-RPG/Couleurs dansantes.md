@@ -31,9 +31,9 @@ Categories:
 Un cône de couleurs vives et tourbillonnantes jaillit de la main tendue du personnage, provoquant étourdissement, cécité temporaire ou perte de connaissance chez les créatures affectées. Le sort affecte chaque cible en fonction de ses DV :
 
 
-- **Jusqu’à 2 [DV](./DV.md).** [Perte de connaissance](./Inconscient.md), [cécité](./Aveuglé.md) et [étourdissement](./Étourdi.md) durant 2d4 [rounds](./round.md), puis [cécité](./Aveuglé.md) et [étourdissement](./Étourdi.md) durant 1d4 [rounds](./round.md) puis [étourdissement](./Étourdi.md) durant 1 [round](./round.md) (seules les créatures vivantes peuvent [perdre connaissance](./Inconscient.md)).
-- **3 ou 4 [DV](./DV.md).** [Cécité](./Aveuglé.md) et [étourdissement](./Étourdi.md) durant 1d4 [rounds](./round.md), puis [étourdissement](./Étourdi.md) durant 1 [round](./round.md).
-- **5 [DV](./DV.md) ou plus.** [Étourdissement](./Étourdi.md) durant 1 [round](./round.md).
+- **Jusqu’à 2 [DV](./../Ressources/DV.md).** [Perte de connaissance](./Inconscient.md), [cécité](./Aveuglé.md) et [étourdissement](./Étourdi.md) durant 2d4 [rounds](./round.md), puis [cécité](./Aveuglé.md) et [étourdissement](./Étourdi.md) durant 1d4 [rounds](./round.md) puis [étourdissement](./Étourdi.md) durant 1 [round](./round.md) (seules les créatures vivantes peuvent [perdre connaissance](./Inconscient.md)).
+- **3 ou 4 [DV](./../Ressources/DV.md).** [Cécité](./Aveuglé.md) et [étourdissement](./Étourdi.md) durant 1d4 [rounds](./round.md), puis [étourdissement](./Étourdi.md) durant 1 [round](./round.md).
+- **5 [DV](./../Ressources/DV.md) ou plus.** [Étourdissement](./Étourdi.md) durant 1 [round](./round.md).
 
 Les êtres dépourvus de vision ne sont pas affectés par *couleurs dansantes*.
 

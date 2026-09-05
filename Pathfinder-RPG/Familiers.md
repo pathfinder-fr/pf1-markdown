@@ -171,9 +171,9 @@ basés sur le touché, l'odorat, et le goût.
 ### Profil des familiers
 Pour déterminer le profil du familier, partez de celui d’une créature de la même espèce (comme présenté dans le *[Bestiaire](./Liste alphabétique des monstres.md)*) puis apportez-y les modifications suivantes.
 
-**Dés de vie.** Pour tous les effets liés au nombre de [DV](./DV.md), substituez le niveau du maître au nombre de [DV](./DV.md) du familier (ou conservez le nombre de [DV](./DV.md) de la créature s’il est plus élevé).
+**Dés de vie.** Pour tous les effets liés au nombre de [DV](./../Ressources/DV.md), substituez le niveau du maître au nombre de [DV](./../Ressources/DV.md) du familier (ou conservez le nombre de [DV](./../Ressources/DV.md) de la créature s’il est plus élevé).
 
-**Points de vie.** Quel que soit son nombre de [DV](./DV.md), le familier a la moitié des points de vie de son maître (en arrondissant à l’entier inférieur et sans compter les [points de vie temporaires](./points de vie temporaires.md)).
+**Points de vie.** Quel que soit son nombre de [DV](./../Ressources/DV.md), le familier a la moitié des points de vie de son maître (en arrondissant à l’entier inférieur et sans compter les [points de vie temporaires](./points de vie temporaires.md)).
 
 **Attaques.** Utilisez le [bonus de base à l’attaque](./BBA.md) du maître (en tenant compte de toutes ses classes) et ajoutez-y le modificateur de [Force](./Force.md) ou de [Dextérité](./Dextérité.md) du familier (prenez le plus élevé des deux) pour déterminer les bonus d’attaque au corps à corps correspondant aux attaques naturelles du familier. Les dégâts infligés sont les mêmes que pour un animal de l’espèce du familier.
 

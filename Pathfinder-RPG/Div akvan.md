@@ -6,6 +6,7 @@ Categories:
 - Monstre
 - Règle officielle
 - Src Bestiaire 3
+RedirectTo: Akvan
 ---
 
->>> Akvan
+>>> [Akvan](./Akvan.md)

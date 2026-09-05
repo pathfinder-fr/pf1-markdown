@@ -26,6 +26,6 @@ Categories:
 
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
 
-Ce sort calme les animaux, les rendant dociles et inoffensifs. Seuls les animaux ordinaires (ayant 1 ou 2 en [Intelligence](./Intelligence.md)) peuvent être affectés. Tous doivent être de la même espèce et se trouver dans une sphère de 9 m de rayon. Le nombre de [dés de vie](./DV.md) affectés est égal à 2d4 + [niveau de lanceur de sorts](./niveau de lanceur de sorts.md).
+Ce sort calme les animaux, les rendant dociles et inoffensifs. Seuls les animaux ordinaires (ayant 1 ou 2 en [Intelligence](./Intelligence.md)) peuvent être affectés. Tous doivent être de la même espèce et se trouver dans une sphère de 9 m de rayon. Le nombre de [dés de vie](./../Ressources/DV.md) affectés est égal à 2d4 + [niveau de lanceur de sorts](./niveau de lanceur de sorts.md).
 
 Les créatures affectées restent là où elles se trouvent et ne cherchent ni à attaquer ni à s’enfuir, mais ne sont pas [sans défense](./Sans défense.md) et réagissent si on les attaque. La moindre menace met immédiatement un terme à l’effet de l’[enchantement](./Enchantement.md).

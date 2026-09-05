@@ -209,7 +209,7 @@ S’il est devenu stable sans aide extérieure, il risque de recommencer à perd
 {s:Reference|Vidédesonénergie}
 #### Vidé de son énergie
 
-Le personnage a contracté un ou plusieurs [niveaux négatifs](./niveau négatif.md), qui peuvent devenir permanents. S’il a au moins autant de niveaux négatifs que de [DV](./DV.md), il meurt instantanément.
+Le personnage a contracté un ou plusieurs [niveaux négatifs](./niveau négatif.md), qui peuvent devenir permanents. S’il a au moins autant de niveaux négatifs que de [DV](./../Ressources/DV.md), il meurt instantanément.
 
 {s:um}
 ### Règle optionnelle : les avantages des états préjudiciables

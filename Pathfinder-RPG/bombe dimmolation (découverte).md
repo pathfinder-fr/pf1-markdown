@@ -4,6 +4,7 @@ Title: Bombe d'immolation (découverte)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: découvertes#BOMBEDIMMOLATION
 ---
 
->>> découvertes#BOMBEDIMMOLATION
+>>> [découvertes#BOMBEDIMMOLATION](./découvertes.md#BOMBEDIMMOLATION)

@@ -14,7 +14,7 @@ LastModified: 2012-05-14 19:59
 {s:BDTexte|**Init** +5 ; **Sens** [vision dans le noir](./../Pathfinder-RPG/vision dans le noir.md) 18 m (12 {s:c}) ; [Perception](./../Pathfinder-RPG/Perception.md) +6}
 {s:BDSousTitre|Défense}
 {s:BDTexte|**CA** 21, contact 12, pris au dépourvu 19 (armure +6, Dex +1, naturelle +2)}
-{s:BDTexte|**pv** 17 (3 [DV](./../Pathfinder-RPG/DV.md) ; 3d8+3)}
+{s:BDTexte|**pv** 17 (3 [DV](./../Ressources/DV.md) ; 3d8+3)}
 {s:BDTexte|**Réf** +2, **Vig** +4, **Vol** +4 ; résistance à la canalisation +4}
 {s:BDTexte|**Immunités** froid, [traits des morts-vivants](./../Pathfinder-RPG/Traits des morts-vivants.md) ; **RD** 5/contondant }
 {s:BDSousTitre|Attaque}

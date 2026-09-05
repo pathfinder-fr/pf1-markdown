@@ -20,7 +20,7 @@ Voir un exemple : le [pétitionnaire humain](./Pétitionnaire humain.md).
 - **Taille et type.** Le type de la créature devient [Extérieur](./type Extérieur.md). Elle perd tous ses sous-types. Sa taille ne change pas.
 - **Sens.** Les pétitionnaires perdent tous les sens inhabituels dont ils jouissaient mais gagnent la capacité de [vision dans le noir](./vision dans le noir.md) avec une portée de 18 mètres (12 cases).
 - **CA.** Le pétitionnaire perd tous les bonus raciaux à la [CA](./CA.md).
-- **DV.** Le pétitionnaire perd tous ses [DV](./DV.md) raciaux et tous ses DV de classe et gagne 2 DV raciaux (d10) en tant qu’[Extérieur](./type Extérieur.md).
+- **DV.** Le pétitionnaire perd tous ses [DV](./../Ressources/DV.md) raciaux et tous ses DV de classe et gagne 2 DV raciaux (d10) en tant qu’[Extérieur](./type Extérieur.md).
 - **Jets de sauvegarde.** Le pétitionnaire a de bons jets de Réflexes et de Vigueur. Ses bonus de base aux [jets de sauvegarde](./jet de sauvegarde.md) sont : Réf +3, Vig +3, Vol +0.
 - **Capacités défensives.** Le pétitionnaire perd toutes les capacités défensives de la créature de base. Il est immunisé contre les [effets mentaux](./effet mental.md).
 - **Attaques.** Le [BBA](./BBA.md) du pétitionnaire est de +2, valeur qui doit encore être modifiée par sa [taille](./taille.md) et sa [Force](./Force.md). Il perd toutes ses attaques naturelles et gagne une attaque de coup dont les dégâts sont déterminés en fonction de sa taille.

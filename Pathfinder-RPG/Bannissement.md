@@ -29,7 +29,7 @@ Categories:
 
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
 
-*Bannissement* est une version plus puissante de *[renvoi](./Renvoi.md)* qui permet de chasser les créatures [extraplanaires](./sous-type extraplanaire.md) du [plan](./Plans.md) d’origine du personnage. Il est possible de bannir jusqu’à 2 [DV](./DV.md) de créatures par [niveau de lanceur de sorts](./NLS.md).
+*Bannissement* est une version plus puissante de *[renvoi](./Renvoi.md)* qui permet de chasser les créatures [extraplanaires](./sous-type extraplanaire.md) du [plan](./Plans.md) d’origine du personnage. Il est possible de bannir jusqu’à 2 [DV](./../Ressources/DV.md) de créatures par [niveau de lanceur de sorts](./NLS.md).
 
 Pour augmenter ses chances de renvoyer une créature, le lanceur de sorts doit lui montrer un objet ou une substance qu’elle craint ou déteste. Chacun de ces objets confère un bonus de +1 au test de [niveau de lanceur de sorts](./NLS.md) visant à vaincre la [résistance à la magie](./RM.md) de la créature (si besoin) et augmente de +2 le [DD](./DD.md) du [jet de sauvegarde](./jet de sauvegarde.md).
 

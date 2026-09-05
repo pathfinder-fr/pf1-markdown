@@ -4,6 +4,7 @@ Title: folie
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Santé mentale
 ---
 
->>> Santé mentale
+>>> [Santé mentale](./Santé mentale.md)

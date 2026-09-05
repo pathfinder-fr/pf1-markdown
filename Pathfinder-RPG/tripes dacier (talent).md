@@ -4,6 +4,7 @@ Title: tripes d'acier
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#TRIPESDACIER
 ---
 
->>> Talents#TRIPESDACIER
+>>> [Talents#TRIPESDACIER](./Talents.md#TRIPESDACIER)

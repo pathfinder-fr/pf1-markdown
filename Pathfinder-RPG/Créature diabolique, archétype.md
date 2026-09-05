@@ -13,7 +13,7 @@ Categories:
 <div class="BD">
 {s:BDTitre|Créer une créature diabolique|FP +1}
 {s:BDTexte|*Source : Bestiaire 4 page 44*}
-« Créature diabolique » est un archétype acquis que l’on peut ajouter à n’importe quelle créature possédant 5 [DV](./DV.md) ou plus et dotée de valeurs d’[Intelligence](./Intelligence.md), de [Sagesse](./Sagesse.md) et de [Charisme](./Charisme.md) de 3 ou plus. Nous l’appellerons ensuite créature de base. Elle conserve ses statistiques et ses pouvoirs spéciaux, à l’exception des éléments suivants.
+« Créature diabolique » est un archétype acquis que l’on peut ajouter à n’importe quelle créature possédant 5 [DV](./../Ressources/DV.md) ou plus et dotée de valeurs d’[Intelligence](./Intelligence.md), de [Sagesse](./Sagesse.md) et de [Charisme](./Charisme.md) de 3 ou plus. Nous l’appellerons ensuite créature de base. Elle conserve ses statistiques et ses pouvoirs spéciaux, à l’exception des éléments suivants.
 
 - ** FP.** Comme la créature de base +1.
 - **Alignement.** Mauvais. Une créature diabolique émet la même aura de Mal qu’un extérieur Mauvais.

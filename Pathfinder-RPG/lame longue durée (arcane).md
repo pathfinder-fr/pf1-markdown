@@ -4,6 +4,7 @@ Title: lame longue durée
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: arcanes#LAMELONGUEDUREE
 ---
 
->>> arcanes#LAMELONGUEDUREE
+>>> [arcanes#LAMELONGUEDUREE](./arcanes.md#LAMELONGUEDUREE)

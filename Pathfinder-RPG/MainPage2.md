@@ -55,7 +55,7 @@ LastModified: 2015-04-24 17:00
 <li>[Le druide](./Druide.md) *([compagnons animaux](./Compagnons animaux.md), [domaines animaux et environnementaux](./Domaines animaux et environnementaux.md))*</li>
 <li>[L'ensorceleur](./Ensorceleur.md) *([lignages](./Lignages.md))*</li>
 <li>[Le guerrier](./Guerrier.md)</li>
-<li>[Le magicien](./Magicien.md) *([écoles de magie](./../Golarion/Écoles de magie.md), [familiers](./Familiers.md), [découvertes arcaniques](./Découvertes arcaniques.md))*</li>
+<li>[Le magicien](./Magicien.md) *([écoles de magie](./Écoles de magie.md), [familiers](./Familiers.md), [découvertes arcaniques](./Découvertes arcaniques.md))*</li>
 <li>[Le moine](./Moine.md) *([voeux](./Voeux.md))*</li>
 <li>[Le paladin](./Paladin.md)</li>
 <li>[Le prêtre](./Prêtre.md) *([domaines](./Domaines.md), [variantes de canalisation](./Variantes de canalisation.md))*</li>

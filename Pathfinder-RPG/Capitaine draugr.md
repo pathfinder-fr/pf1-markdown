@@ -20,7 +20,7 @@ Categories:
 {s:BDtexte|**Init** +4 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +11}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 20, contact 14, pris au dépourvu 16 (armure +2, Dex +4, naturelle +4)}
-{s:BDtexte|**pv** 39 (5 [DV](./DV.md) ; 3d8+2d8+17)}
+{s:BDtexte|**pv** 39 (5 [DV](./../Ressources/DV.md) ; 3d8+2d8+17)}
 {s:BDtexte|**Réf** +8, **Vig** +4, **Vol** +6}
 {s:BDtexte|**Capacités défensives** [esquive totale](./Roublard.md#ESQUIVETOTALE) ; **RD** 5/contondant ou tranchant ; **Immunités** [traits des morts-vivants](./Traits des morts-vivants (capacité).md) ; **Résistances** feu 10}
 {s:BDsoustitre|Attaque}

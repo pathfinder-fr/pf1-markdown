@@ -48,7 +48,7 @@ La sueur et la poussière ne s’accumulent pas sur une armure *confortable* qui
 {s:BDTitre|Contrôle des morts-vivants|{s:AE}}
 **Aura** [Nécromancie](./Nécromancie.md) puissante ; **NLS** 13 ; **Emplacement** [propriété d'armure](./Armures magiques.md) ; **Prix** +49.000 po ; **Poids** —
 (((Description)))
-Une armure ou un bouclier de *contrôle des morts-vivants* semble entièrement fait d’ossements. Cet aspect esthétique n’a cependant aucune incidence sur la solidité de l’objet. Le porteur peut contrôler jusqu’à 26 [DV](./DV.md) de morts-vivants par jour, comme s’il utilisait le sort *[contrôle des morts-vivants](./Contrôle des morts-vivants.md)*. Le personnage perd le contrôle de ces morts-vivants à l’aube suivante.
+Une armure ou un bouclier de *contrôle des morts-vivants* semble entièrement fait d’ossements. Cet aspect esthétique n’a cependant aucune incidence sur la solidité de l’objet. Le porteur peut contrôler jusqu’à 26 [DV](./../Ressources/DV.md) de morts-vivants par jour, comme s’il utilisait le sort *[contrôle des morts-vivants](./Contrôle des morts-vivants.md)*. Le personnage perd le contrôle de ces morts-vivants à l’aube suivante.
 (((Création)))
 **Conditions** [Création d’armes et armures magiques](./Création darmes et armures magiques.md), *[contrôle des morts-vivants](./Contrôle des morts-vivants.md)* ; **Coût** 24.500 po
 </div>

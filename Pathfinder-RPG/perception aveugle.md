@@ -4,6 +4,7 @@ Title: perception aveugle
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: perception aveugle (capacité)
 ---
 
->>> perception aveugle (capacité)
+>>> [perception aveugle (capacité)](./Perception aveugle (capacité).md)

@@ -4,6 +4,7 @@ Title: Faveur
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Glossaire Mythique#FAVEUR
 ---
 
->>> Glossaire Mythique#FAVEUR
+>>> [Glossaire Mythique#FAVEUR](./Glossaire Mythique.md#FAVEUR)

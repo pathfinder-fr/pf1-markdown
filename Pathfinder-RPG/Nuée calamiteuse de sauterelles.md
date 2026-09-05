@@ -6,6 +6,7 @@ Categories:
 - Monstre mythique
 - Redirection
 - Src Bestiaire 5
+RedirectTo: Nuée calamiteuse#_2
 ---
 
->>> Nuée calamiteuse#_2
+>>> [Nuée calamiteuse#_2](./Nuée calamiteuse.md#_2)

@@ -403,7 +403,7 @@ Ce pouvoir fonctionne comme le compagnon animal du druide (qui fait partie du po
 
 Le chasseur a un niveau effectif de druide égal à son niveau de chasseur. Si le personnage a droit à un compagnon animal grâce à plusieurs classes, ses niveaux effectifs de druide se cumulent quand il s’agit de déterminer les statistiques et les pouvoirs de son compagnon.
 
-Le chasseur peut enseigner à son compagnon les tours de l’archétype de [tirailleur](./Tirailleur (rôdeur).md) au lieu des tours habituels. Le compagnon animal peut utiliser ces tours lorsqu'on lui en donne l'ordre un nombre de fois par jour égal à la moitié de ses [DV](./DV.md) plus son modificateur de [Sagesse](./Sagesse.md).
+Le chasseur peut enseigner à son compagnon les tours de l’archétype de [tirailleur](./Tirailleur (rôdeur).md) au lieu des tours habituels. Le compagnon animal peut utiliser ces tours lorsqu'on lui en donne l'ordre un nombre de fois par jour égal à la moitié de ses [DV](./../Ressources/DV.md) plus son modificateur de [Sagesse](./Sagesse.md).
 
 Si le chasseur libère son compagnon de ses obligations ou si le compagnon périt, le chasseur peut s’attacher les services d’un autre en priant sans interruption lors d’une cérémonie de 24 heures dans l’environnement où vit le compagnon recherché. Tant que le compagnon animal du chasseur est mort, tous les animaux qu’il convoque avec *[convocation d’alliés naturels](./Convocation dalliés naturels.md)* restent avec lui une minute par niveau au lieu d’un round par niveau. Le chasseur ne peut avoir qu’un seul sort de convocation d’alliés naturels ainsi actif à la fois. S’il utilise de nouveau ce pouvoir, la convocation d’alliés naturels précédente prend fin immédiatement.
 

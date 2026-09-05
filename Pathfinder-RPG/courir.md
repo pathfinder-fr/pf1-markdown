@@ -4,6 +4,7 @@ Title: courir
 LastModified: 2026-07-21 19:49
 Categories:
 - Redirection
+RedirectTo: Actions complexes#COURIR
 ---
 
->>> Actions complexes#COURIR
+>>> [Actions complexes#COURIR](./Actions complexes.md#COURIR)

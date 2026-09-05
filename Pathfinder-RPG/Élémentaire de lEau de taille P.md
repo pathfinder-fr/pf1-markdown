@@ -4,6 +4,7 @@ Title: Élémentaire de l'Eau de taille P
 LastModified: 2020-09-17 02:05
 Categories:
 - Redirection
+RedirectTo: Élémentaire de lEau#_0
 ---
 
->>> Élémentaire de lEau#_0
+>>> [Élémentaire de lEau#_0](./Élémentaire de lEau.md#_0)

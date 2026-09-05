@@ -4,6 +4,7 @@ Title: Talents de maître roublard
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Roublard#TALENTDEMAITREROUBLARD
 ---
 
->>> Roublard#TALENTDEMAITREROUBLARD
+>>> [Roublard#TALENTDEMAITREROUBLARD](./Roublard.md#TALENTDEMAITREROUBLARD)

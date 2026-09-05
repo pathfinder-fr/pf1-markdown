@@ -4,6 +4,7 @@ Title: pointes pour armure (arme)
 LastModified: 2021-03-02 16:55
 Categories:
 - Redirection
+RedirectTo: Descriptions individuelles des armes#Armureàpointes
 ---
 
->>> Descriptions individuelles des armes#Armureàpointes
+>>> [Descriptions individuelles des armes#Armureàpointes](./Descriptions individuelles des armes.md#Armureàpointes)

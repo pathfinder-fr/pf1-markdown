@@ -4,6 +4,7 @@ Title: Bois flexible
 LastModified: 2020-11-18 21:13
 Categories:
 - Redirection
+RedirectTo: Matériaux spéciaux#BOISFLEXIBLE
 ---
 
->>> Matériaux spéciaux#BOISFLEXIBLE
+>>> [Matériaux spéciaux#BOISFLEXIBLE](./Matériaux spéciaux.md#BOISFLEXIBLE)

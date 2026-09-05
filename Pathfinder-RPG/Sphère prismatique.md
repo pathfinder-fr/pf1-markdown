@@ -19,7 +19,7 @@ Categories:
 ---
 Ce sort ressemble à *[mur prismatique](./Mur prismatique.md)* mais il fait apparaître un globe immobile, opaque et scintillant autour du personnage qu’il protège contre toute forme d’attaque. La sphère arbore toutes les couleurs du spectre.
 
-La [cécité](./Aveuglé.md) qu’elle provoque chez les créatures ayant 8 [DV](./DV.md) ou moins dure 2d4x10 minutes.
+La [cécité](./Aveuglé.md) qu’elle provoque chez les créatures ayant 8 [DV](./../Ressources/DV.md) ou moins dure 2d4x10 minutes.
 
 Le lanceur de sorts peut sortir de la sphère et y revenir sans risque. Quand il est à l’intérieur, les parois de la sphère arrêtent tout ce qui essaie d’entrer ou de sortir (sorts compris). Les créatures qui souhaitent attaquer le personnage alors qu’il se trouve à l’intérieur de la sphère subissent les effets de chaque couleur, les unes après les autres.
 
@@ -45,7 +45,7 @@ Lorsqu’il lance ce sort, le personnage crée instantanément un [rayons prisma
 **Durée** 10 minutes/[niveau](./niveau.md) ([T](./Présentation des sorts.md#DUREE))
 **Jet de sauvegarde** voir texte ; **Résistance à la magie** voir texte
 ---
-Ce sort fait apparaître un plan opaque et vertical dont les couleurs arc-en-ciel sont toujours changeantes. Il protège le lanceur de sort contre tous les types d’attaque. Le mur est immobile et le mage peut rester à côté (ou même le franchir) sans risque. Par contre, toute autre créature de moins de 8 [DV](./DV.md) est automatiquement [aveuglée](./Aveuglé.md) pendant 2d4 [rounds](./round.md) si elle a la mauvaise idée de regarder la barrière de couleurs alors qu’elle se trouve à moins de six mètres (4 cases) de celle-ci.
+Ce sort fait apparaître un plan opaque et vertical dont les couleurs arc-en-ciel sont toujours changeantes. Il protège le lanceur de sort contre tous les types d’attaque. Le mur est immobile et le mage peut rester à côté (ou même le franchir) sans risque. Par contre, toute autre créature de moins de 8 [DV](./../Ressources/DV.md) est automatiquement [aveuglée](./Aveuglé.md) pendant 2d4 [rounds](./round.md) si elle a la mauvaise idée de regarder la barrière de couleurs alors qu’elle se trouve à moins de six mètres (4 cases) de celle-ci.
 
 Le mur mesure au maximum 1,20 m de long et 60 cm de haut par [niveau de lanceur de sorts](./niveau de lanceur de sorts.md). Si on le lance à un endroit occupé par une créature, le sort échoue.
 

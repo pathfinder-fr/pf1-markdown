@@ -35,7 +35,7 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire, bande (2-4), ou groupe (2-4 plus 4-12 [zombis](./Zombi humain.md))}
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
-{s:BDTexte|**Création de rejetons (Sur).** Lorsqu'un mohrg tue une créature [humanoïde](./type Humanoïde.md), celle-ci se relève immédiatement sous la forme d'un [zombi](./Zombi, archétype.md) rapide placé sous son contrôle. Le soudain afflux d'énergie négative créé lorsque la victime meurt et se transforme en [zombi](./Zombi, archétype.md) a un effet bénéfique sur le morgh : chaque fois qu'il crée un [zombi](./Zombi, archétype.md), il guérit de 1d6 points de vie par [DV](./DV.md) de la créature tuée et agit au cours du round suivant la création du rejeton comme s'il était affecté par un sort de *[rapidité](./Rapidité.md)*.}
+{s:BDTexte|**Création de rejetons (Sur).** Lorsqu'un mohrg tue une créature [humanoïde](./type Humanoïde.md), celle-ci se relève immédiatement sous la forme d'un [zombi](./Zombi, archétype.md) rapide placé sous son contrôle. Le soudain afflux d'énergie négative créé lorsque la victime meurt et se transforme en [zombi](./Zombi, archétype.md) a un effet bénéfique sur le morgh : chaque fois qu'il crée un [zombi](./Zombi, archétype.md), il guérit de 1d6 points de vie par [DV](./../Ressources/DV.md) de la créature tuée et agit au cours du round suivant la création du rejeton comme s'il était affecté par un sort de *[rapidité](./Rapidité.md)*.}
 </div>
 </td><td><div>''L’amas d’entrailles décolorées attaché au torse de ce squelette monte dans
 sa mâchoire et en ressort sous la forme d’une langue.''

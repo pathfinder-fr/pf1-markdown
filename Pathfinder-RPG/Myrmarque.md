@@ -4,6 +4,7 @@ Title: Myrmarque Formien (doublon)
 LastModified: 2021-04-25 01:57
 Categories:
 - Src Bestiaire 4
+RedirectTo: Myrmarque Formien
 ---
 
->>> Myrmarque Formien
+>>> [Myrmarque Formien](./Myrmarque formien.md)

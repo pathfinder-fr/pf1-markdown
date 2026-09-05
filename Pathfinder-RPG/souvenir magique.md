@@ -4,6 +4,7 @@ Title: souvenir magique
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Magus#SOUVENIRMAGIQUE
 ---
 
->>> Magus#SOUVENIRMAGIQUE
+>>> [Magus#SOUVENIRMAGIQUE](./Magus.md#SOUVENIRMAGIQUE)

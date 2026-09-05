@@ -699,7 +699,7 @@ Les dons de combat sont presque tous associés à des astuces martiales. Ce n’
 
 - **[Maître des écoles de combat](./Maître des écoles de combat.md).** Le personnage peut dépenser 2 points d’endurance en dehors de son tour pour changer d’école par une [action libre](./Action libre.md).
 
-- **[Maître des opérations](./Maître des opérations.md).** Le personnage peut dépenser 5 points d’endurance pour utiliser ce don contre une créature dotée d’un maximum de 5 [DV](./DV.md) de plus que lui.
+- **[Maître des opérations](./Maître des opérations.md).** Le personnage peut dépenser 5 points d’endurance pour utiliser ce don contre une créature dotée d’un maximum de 5 [DV](./../Ressources/DV.md) de plus que lui.
 
 - **[Maître des tonnerres jumeaux](./Maître des tonnerres jumeaux.md).** Quand le personnage utilise les [Tonnerres jumeaux](./Tonnerres jumeaux.md) pour infliger des dégâts supplémentaires à un adversaire, il peut dépenser 2 points d’endurance pour que cet adversaire soit [secoué](./Secoué.md) pendant 1d4 [rounds](./round.md).
 

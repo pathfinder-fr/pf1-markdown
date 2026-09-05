@@ -4,6 +4,7 @@ Title: aptitudes de voie du filou
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Aptitudes de la voie du Filou Mythique
 ---
 
->>> Aptitudes de la voie du Filou Mythique
+>>> [Aptitudes de la voie du Filou Mythique](./Aptitudes de la voie du Filou Mythique.md)

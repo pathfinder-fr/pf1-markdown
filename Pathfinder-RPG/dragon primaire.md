@@ -4,6 +4,7 @@ Title: Les dragons primaires
 LastModified: 2021-04-18 11:57
 Categories:
 - Src Bestiaire 2
+RedirectTo: Dragon
 ---
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
@@ -31,4 +32,4 @@ espèces, mais il existe d’autres catégories de dragons véritables. Les
 pages qui suivent présentent cinq dragons primaires, des créatures
 puissantes originaires des plans Élémentaires et du plan des Ombres.
 
->>> Dragon
+>>> [Dragon](./dragon.md)

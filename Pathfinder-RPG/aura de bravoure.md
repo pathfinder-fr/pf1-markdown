@@ -4,6 +4,7 @@ Title: aura de bravoure
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Paladin#AURADEBRAVOURE
 ---
 
->>> Paladin#AURADEBRAVOURE
+>>> [Paladin#AURADEBRAVOURE](./Paladin.md#AURADEBRAVOURE)

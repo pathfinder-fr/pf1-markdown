@@ -4,6 +4,7 @@ Title: balayage avec la queue
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Dragon#BALAYAGEQUEUE
 ---
 
->>> Dragon#BALAYAGEQUEUE
+>>> [Dragon#BALAYAGEQUEUE](./dragon.md#BALAYAGEQUEUE)

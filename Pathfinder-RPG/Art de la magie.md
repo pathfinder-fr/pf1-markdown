@@ -49,7 +49,7 @@ Les tests visant à identifier un sort ne peuvent pas être répétés. Si le te
 
 ### Spécial
 
-Les [magiciens](./Magicien.md) spécialisés dans une [école](./../Golarion/Écoles de magie.md) gagnent un bonus de +2 aux tests d’Art de la magie visant à identifier, apprendre ou préparer des sorts de leur école de spécialisation. Ils subissent également un malus de -5 aux mêmes tests lorsque ceux-ci portent sur des sorts des écoles opposées du spécialiste.
+Les [magiciens](./Magicien.md) spécialisés dans une [école](./Écoles de magie.md) gagnent un bonus de +2 aux tests d’Art de la magie visant à identifier, apprendre ou préparer des sorts de leur école de spécialisation. Ils subissent également un malus de -5 aux mêmes tests lorsque ceux-ci portent sur des sorts des écoles opposées du spécialiste.
 
 Les [elfes](./Elfe.md) bénéficient d’un bonus racial de +2 aux tests d’Art de la magie pour identifier les propriétés des objets magiques.
 

@@ -26,7 +26,7 @@ Les dons d’histoire reprennent une même terminologie au niveau des conditions
 
 **Adversaire de valeur.** C’est un adversaire ou un groupe d’adversaires avec un FP total de 10 ou de 3 niveaux de plus que votre niveau de personnage (prenez le plus élevé des deux). Si le terme désigne un adversaire particulier, vous déterminez son FP au moment où vous choisissez le don mais il évolue en même temps que vous. Sinon, vous déterminez le FP en fonction de votre niveau actuel. Un adversaire récurrent type gagne 1 FP à chaque fois que vous gagnez 1 ou 2 niveaux.
 
-**Niveau de personnage.** Normalement, cela désigne votre niveau de personnage actuel. Si vous êtes une créature que l’on représente par un FP au lieu d’un niveau de personnage (comme les monstres avec plus de 1 [DV](./DV.md)), utilisez votre FP en guise de niveau de personnage.
+**Niveau de personnage.** Normalement, cela désigne votre niveau de personnage actuel. Si vous êtes une créature que l’on représente par un FP au lieu d’un niveau de personnage (comme les monstres avec plus de 1 [DV](./../Ressources/DV.md)), utilisez votre FP en guise de niveau de personnage.
 
 **Défaite décisive.** Vous triomphez de votre adversaire, en le tuant, en le mettant KO ou en le faisant prisonnier par exemple. Vous devez jouer un rôle significatif dans le conflit qui permet de vaincre votre adversaire, même si ce n’est pas vous qui portez le coup de grâce. Si vous vous contentez de mettre votre adversaire en fuite, c’est au [MJ](./MJ.md) de décider si la défaite est décisive ou non. En général, si vous faites fuir votre ennemi sans lui faire de mal, sa défaite n’est pas décisive.
 

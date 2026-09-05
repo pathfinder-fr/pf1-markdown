@@ -51,5 +51,5 @@ plus de détails sur cette capacité et sur les autres traits des azatas.
 
 ### Les seigneurs empyréens azatas
 Parmi les seigneurs empyréens, les champions divins des plans supérieurs, on trouve plusieurs azatas uniques et puissants. Certains de ces êtres célestes contrôlent de grands royaumes et de vastes légions de suivants, alors que d’autres sont des voyageurs solitaires et des héros cherchant seulement à mettre leur intelligence, leur sagesse et leurs talents au service de la joie et de la liberté.
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs Empyréens](./../Golarion/Seigneurs empyréens.md).***</li></ul>
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs Empyréens](./Seigneurs empyréens.md).***</li></ul>
 {s:ImageDroite|Bestiaire/Azata-lillende.jpg|50%}

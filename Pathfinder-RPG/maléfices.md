@@ -232,7 +232,7 @@ Une sorcière qui dispose de ce maléfice place un sceau protecteur sur une cré
 
 {s:APG}{s:Reference|Sommeil}
 #### Sommeil (Sur)
-La sorcière peut plonger une créature qui se trouve dans les 9 m dans un *[sommeil profond](./Sommeil profond.md)*, comme avec le sort du même nom. La cible a droit à un [jet de Volonté](./jet de sauvegarde.md) pour annuler l’effet. Si elle échoue, elle s’endort pendant un nombre de [rounds](./round.md) égal au [niveau](./niveau.md) de la sorcière. Ce maléfice affecte les créatures quel que soit leur nombre de [DV](./DV.md). La créature ne se réveille pas à cause du bruit ni de la lumière, mais une tierce personne peut la réveiller par une [action simple](./Action simple.md). Tout dégât infligé à la cible met immédiatement un terme au maléfice. Que la créature ait réussi son [jet de sauvegarde](./jet de sauvegarde.md) ou non, elle ne peut plus subir ce maléfice pendant 24 heures.
+La sorcière peut plonger une créature qui se trouve dans les 9 m dans un *[sommeil profond](./Sommeil profond.md)*, comme avec le sort du même nom. La cible a droit à un [jet de Volonté](./jet de sauvegarde.md) pour annuler l’effet. Si elle échoue, elle s’endort pendant un nombre de [rounds](./round.md) égal au [niveau](./niveau.md) de la sorcière. Ce maléfice affecte les créatures quel que soit leur nombre de [DV](./../Ressources/DV.md). La créature ne se réveille pas à cause du bruit ni de la lumière, mais une tierce personne peut la réveiller par une [action simple](./Action simple.md). Tout dégât infligé à la cible met immédiatement un terme au maléfice. Que la créature ait réussi son [jet de sauvegarde](./jet de sauvegarde.md) ou non, elle ne peut plus subir ce maléfice pendant 24 heures.
 
 {s:UM}{s:Reference|Sorcièredumarais}
 #### Sorcière du marais (Mag)
@@ -399,7 +399,7 @@ cachées derrière des murs illusoires et fermées par des verrous magiques) et 
 
 {s:Reference|Malédictiondenonviolence}
 #### Malédiction de non-violence (Sur)
-Ce puissant maléfice empêche la cible de blesser autrui. Si elle échoue son jet de [Volonté](./Volonté.md), elle ne peut entreprendre d'actions violentes ou faire de mal à des créatures avec moins de [DV](./DV.md) qu'elle en possède. Si une créature se montre hostile envers la cible, elle peut également se montrer hostile envers elle, et envers elle seulement. C'est un effet permanent d'abjuration, qui ne peut être retiré qu'avec [souhait](./Souhait.md), [miracle](./Miracle.md) ou [délivrance des malédictions](./Délivrance des malédictions.md). Que la créature ait réussi son [jet de sauvegarde](./jet de sauvegarde.md) ou non, elle ne peut plus subir ce maléfice pendant 24 heures.
+Ce puissant maléfice empêche la cible de blesser autrui. Si elle échoue son jet de [Volonté](./Volonté.md), elle ne peut entreprendre d'actions violentes ou faire de mal à des créatures avec moins de [DV](./../Ressources/DV.md) qu'elle en possède. Si une créature se montre hostile envers la cible, elle peut également se montrer hostile envers elle, et envers elle seulement. C'est un effet permanent d'abjuration, qui ne peut être retiré qu'avec [souhait](./Souhait.md), [miracle](./Miracle.md) ou [délivrance des malédictions](./Délivrance des malédictions.md). Que la créature ait réussi son [jet de sauvegarde](./jet de sauvegarde.md) ou non, elle ne peut plus subir ce maléfice pendant 24 heures.
 </td><td width="1%">
 <td style="border-left:1px solid #4b3124;width=" width="1%"></td>
 </td><td width="49%">

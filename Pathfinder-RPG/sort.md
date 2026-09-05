@@ -4,6 +4,7 @@ Title: sort
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Vocabulaire courant#SORT
 ---
 
->>> Vocabulaire courant#SORT
+>>> [Vocabulaire courant#SORT](./Vocabulaire courant.md#SORT)

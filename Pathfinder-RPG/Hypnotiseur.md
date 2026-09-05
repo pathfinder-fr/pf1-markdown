@@ -458,7 +458,7 @@ Au niveau 5, l’hypnotiseur peut maintenir deux inductions implantées en même
 
 {s:Reference|PUISSANCEMENTALE}
 #### Puissance mentale (Ext)
-Au niveau 5, les effets mentaux de l’hypnotiseur affectent des créatures plus puissantes ou un plus grand nombre de créatures. La limite de [DV](./DV.md) et le nombre total de DV affectés par chaque sort d’enchantement ou d’illusion qu’il lance augmentent de 1.
+Au niveau 5, les effets mentaux de l’hypnotiseur affectent des créatures plus puissantes ou un plus grand nombre de créatures. La limite de [DV](./../Ressources/DV.md) et le nombre total de DV affectés par chaque sort d’enchantement ou d’illusion qu’il lance augmentent de 1.
 
 Dans le cas des sorts d’enchantement et d’illusion qui ciblent plus d’une créature, le nombre de créatures affectées augmente également de 1 (ainsi, un sort qui cible une créature par niveau est affecté par cette aptitude, mais pas un sort qui ne cible qu’une seule créature). Par exemple, un hypnotiseur de niveau 5 peut affecter 5 DV de créatures avec un sort de *[sommeil](./Sommeil.md)*, 2d4+1 DV de créatures avec un sort d’*[hypnose](./Hypnose.md)* et changer les catégories du sort *[couleurs dansantes](./Couleurs dansantes.md)* en « 3 DV ou moins », « 4 ou 5 DV » et « 6 DV ou plus ».
 

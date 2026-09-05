@@ -2,6 +2,7 @@
 Name: Pathfinder-RPG.armes courantes
 Title: armes courantes
 LastModified: 2011-05-28 20:10
+RedirectTo: Pathfinder-RPG.arme courante
 ---
 
->>> Pathfinder-RPG.arme courante
+>>> [Pathfinder-RPG.arme courante](./arme courante.md)

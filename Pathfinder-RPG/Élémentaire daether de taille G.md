@@ -6,6 +6,7 @@ Categories:
 - Monstre
 - Redirection
 - Src Bestiaire 5
+RedirectTo: Élémentaire daether#_2
 ---
 
->>> Élémentaire daether#_2
+>>> [Élémentaire daether#_2](./Élémentaire daether.md#_2)

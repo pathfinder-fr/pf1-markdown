@@ -16,7 +16,7 @@ Categories:
 - **Type.** Le type d'un animal mangeur d'hommes change pour devenir celui d'une créature magique. Il conserve ses sous-types à l'exception de ceux liés au alignements.
 - **Sens.** L'animal mangeur d'hommes gagne [Vision dans le noir](./vision dans le noir.md) à 18 mètres.
 - **Classe d’armure.** L’armure naturelle est augmentée de +2.
-- **Dés de vie.** Modifiez les [dés de vie](./DV.md) raciaux en d8. Les [dés de vie](./DV.md) de classe ne changent pas. En tant que [mort-vivant](./type Mort-vivant.md), le chevalier tombal utilise son modificateur de [Charisme](./Charisme.md) pour définir son nombre de points de vie supplémentaires.
+- **Dés de vie.** Modifiez les [dés de vie](./../Ressources/DV.md) raciaux en d8. Les [dés de vie](./../Ressources/DV.md) de classe ne changent pas. En tant que [mort-vivant](./type Mort-vivant.md), le chevalier tombal utilise son modificateur de [Charisme](./Charisme.md) pour définir son nombre de points de vie supplémentaires.
 - **Capacités défensives.** L'animal mangeur d'hommes gagne une RD 5/tranchant (s'il possède 11 DV ou moins) ou 10/tranchant (s'il possède 12 DV ou plus)
 - **Corps à corps.** Un animal mangeur d'hommes gagne une attaque de morsure. Les [dégâts](./Attaques naturelles (capacité).md#TABLEATTAQUENATURELLE) infligés par cette attaque dépendent de la taille de la créature. Si la créature de base possède déjà une attaque de morsure, elle gagne [Arme naturelle supérieure](./Arme naturelle supérieure.md) (morsure) et [Science du critique](./Science du critique.md) (morsure) en dons supplémentaires. Elle ajoute également 1,5  fois son bonus de FOR aux dégâts (ou deux fois s'il s'agit de son unique attaque naturelle).
 - **Caractéristiques.** Con +4, Int +2, Sag +4, Cha +4.

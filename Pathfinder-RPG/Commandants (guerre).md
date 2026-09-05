@@ -17,13 +17,13 @@ La feuille de combat de masse de l’armée est dotée d’un emplacement réser
 
 **Profession (soldat).** Le rang du commandant en [Profession](./Profession.md) (soldat). Divisez-le par 5 (0 au minimum) et ajoutez ce nombre aux tests de [moral](./Combat de masse.md#MORAL) de l’armée.
 
-**Prestige.** Le [niveau](./niveau.md) de personnage du commandant + son modificateur de [Charisme](./Charisme.md). Si le commandant est un monstre, utilisez ses [DV](./DV.md) au lieu de son niveau. S’il a le don [Prestige](./Prestige.md), augmentez la valeur de 3. Cette valeur entre dans les conditions requises pour certains bienfaits.
+**Prestige.** Le [niveau](./niveau.md) de personnage du commandant + son modificateur de [Charisme](./Charisme.md). Si le commandant est un monstre, utilisez ses [DV](./../Ressources/DV.md) au lieu de son niveau. S’il a le don [Prestige](./Prestige.md), augmentez la valeur de 3. Cette valeur entre dans les conditions requises pour certains bienfaits.
 
 **Bienfait.** Voici la liste des bienfaits que peut apporter le commandant. Il en connaît au maximum 1 plus 1 par tranche de 5 rangs en [Profession](./Profession.md) (soldat). Il se peut qu’un commandant fraîchement promu ou sans qualité exceptionnelle ne connaisse aucun bienfait mais il peut en apprendre en remportant des victoires. Si un membre du gouvernement fait office de commandant, il apporte automatiquement un bienfait lié à sa fonction (voir plus bas).
 
 Le commandant doit être avec son armée et actif s’il veut lui donner un bonus aux tests de [moral](./Combat de masse.md#MORAL) ou la faire profiter d’un bienfait. Être actif, cela veut dire passer au moins 3 jours par semaine avec elle. Une armée sans commandant perd 1 point de moral par semaine (que ce soit parce que le commandant est mort ou parce qu’il ne consacre pas assez de temps à son armée). Vous pouvez annuler cette perte hebdomadaire en doublant la [Consommation](./Royaumes et guerre.md#CONSOMMATION) de l’armée pour la semaine.
 
-Si vous avez une armée sans commandant et que vous n’avez personne pour remplir ce rôle, vous pouvez donner une promotion à un membre de cette armée qui devient un commandant ordinaire. Il a un modificateur de [Charisme](./Charisme.md) de 0, n’a pas de rang en [Profession](./Profession.md) (soldat) et une valeur de prestige basée sur le [niveau](./niveau.md) ou les [DV](./DV.md) d’une unité type de son armée.
+Si vous avez une armée sans commandant et que vous n’avez personne pour remplir ce rôle, vous pouvez donner une promotion à un membre de cette armée qui devient un commandant ordinaire. Il a un modificateur de [Charisme](./Charisme.md) de 0, n’a pas de rang en [Profession](./Profession.md) (soldat) et une valeur de prestige basée sur le [niveau](./niveau.md) ou les [DV](./../Ressources/DV.md) d’une unité type de son armée.
 
 {s:Reference|BIENFAITS}
 #### Les bienfaits

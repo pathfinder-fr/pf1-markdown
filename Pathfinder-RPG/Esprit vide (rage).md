@@ -4,6 +4,7 @@ Title: Esprit vide (rage)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: pouvoirs de rage#ESPRITVIDE
 ---
 
->>> pouvoirs de rage#ESPRITVIDE
+>>> [pouvoirs de rage#ESPRITVIDE](./Pouvoirs de rage.md#ESPRITVIDE)

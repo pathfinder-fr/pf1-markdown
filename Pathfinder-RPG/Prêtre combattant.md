@@ -485,7 +485,7 @@ Par une action rapide, le prêtre combattant peut dépenser une utilisation de c
 
 {s:Reference|DONSUPPLEMENTAIRE}
 #### Dons supplémentaires
-Au niveau 3 puis tous les trois niveaux, le prêtre combattant gagne un don supplémentaire, en plus de ceux obtenus grâce à son évolution normale. Il doit les choisir parmi les dons de combat. Il doit remplir les conditions requises mais considère ses niveaux de prêtre combattant comme [bonus de base à l’attaque](./BBA.md) (qu’il ajoute aux bonus de base à l’attaque obtenus grâce aux autres classes et [DV](./DV.md) raciaux) pour déterminer s'il en remplit les prérequis. Enfin, vis-à-vis de ces dons, le prêtre combattant peut choisir des dons nécessitant un nombre minimum de niveaux de guerrier, en considérant son niveau de prêtre combattant comme le niveau de guerrier.
+Au niveau 3 puis tous les trois niveaux, le prêtre combattant gagne un don supplémentaire, en plus de ceux obtenus grâce à son évolution normale. Il doit les choisir parmi les dons de combat. Il doit remplir les conditions requises mais considère ses niveaux de prêtre combattant comme [bonus de base à l’attaque](./BBA.md) (qu’il ajoute aux bonus de base à l’attaque obtenus grâce aux autres classes et [DV](./../Ressources/DV.md) raciaux) pour déterminer s'il en remplit les prérequis. Enfin, vis-à-vis de ces dons, le prêtre combattant peut choisir des dons nécessitant un nombre minimum de niveaux de guerrier, en considérant son niveau de prêtre combattant comme le niveau de guerrier.
 
 {s:Reference|CANALISATIONDENERGIE}
 #### Canalisation d’énergie (Sur)

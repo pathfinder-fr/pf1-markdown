@@ -200,7 +200,7 @@ Les sceptres sont des objets magiques proposant des [pouvoirs magiques](./pouvoi
 | [Puissants maléfices](./Sceptre de puissants maléfices.md) || <sup>MCA</sup> || Trois fois par jour, peut doubler les dégâts infligés ou soignés d’un [maléfice de sorcière](./Sorcière.md#MALEFICE). || 54 000 po
 
 |- CLASS="premier"
-| [Suzeraineté](./Sceptre de suzeraineté.md) || <sup>MJ, A&E</sup> || Permet de contrôler 300 [DV](./DV.md) de créatures dans un rayon de 36 m pendant un 500 minutes maximum (les créatures possédant une valeur d’[Intelligence](./Intelligence.md) de 12 ou plus ont droit à un [jets de sauvegarde](./Valeurs de combat.md#JETDESAUVEGARDE)). || 60 000 po
+| [Suzeraineté](./Sceptre de suzeraineté.md) || <sup>MJ, A&E</sup> || Permet de contrôler 300 [DV](./../Ressources/DV.md) de créatures dans un rayon de 36 m pendant un 500 minutes maximum (les créatures possédant une valeur d’[Intelligence](./Intelligence.md) de 12 ou plus ont droit à un [jets de sauvegarde](./Valeurs de combat.md#JETDESAUVEGARDE)). || 60 000 po
 
 |- CLASS="premier"
 | [Sécurité](./Sceptre de sécurité.md) || <sup>MJ, A&E</sup> || Peut transporter jusqu’à 99 créatures plus le porteur dans un espace non-dimensionnel hors du temps semblable à un paradis pendant un maximum de 200 jours divisé par le nombre de créatures s’y trouvant. || 61 000 po

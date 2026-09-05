@@ -4,6 +4,7 @@ Title: Crin de griffon
 LastModified: 2020-11-18 21:13
 Categories:
 - Redirection
+RedirectTo: Matériaux spéciaux#CRINDEGRIFFON
 ---
 
->>> Matériaux spéciaux#CRINDEGRIFFON
+>>> [Matériaux spéciaux#CRINDEGRIFFON](./Matériaux spéciaux.md#CRINDEGRIFFON)

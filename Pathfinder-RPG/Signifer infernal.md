@@ -74,7 +74,7 @@ Pour pouvoir devenir signifer infernal, le personnage doit satisfaire aux condit
 
 **Sorts.** Capacité à lancer des sorts de 3e niveau.
 
-**Spécial.** Le personnage doit tuer un [diable](./Diable.md) avec un nombre de [dés de vie](./DV.md) supérieur à son niveau de personnage. Cette victoire doit être observée par un [légionnaire infernal](./Chevalier infernal.md).
+**Spécial.** Le personnage doit tuer un [diable](./Diable.md) avec un nombre de [dés de vie](./../Ressources/DV.md) supérieur à son niveau de personnage. Cette victoire doit être observée par un [légionnaire infernal](./Chevalier infernal.md).
 
 ### Compétences de classe
 Voici les compétences de la classe du signifer infernal : [Art de la magie](./Art de la magie.md) (Int), [Connaissances](./Connaissances.md) (toutes) (Int), [Diplomatie](./Diplomatie.md) (Cha), [Intimidation](./Intimidation.md) (Cha), [Linguistique](./Linguistique.md) (Int), [Profession](./Profession.md) (Sag) et [Psychologie](./Psychologie.md) (Sag).

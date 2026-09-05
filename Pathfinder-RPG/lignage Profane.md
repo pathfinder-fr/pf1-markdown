@@ -25,7 +25,7 @@ Categories:
 
 **Nouveaux arcanes (Ext).** Au niveau 9, le personnage peut ajouter à son répertoire un sort provenant la liste des sorts d’[ensorceleur](./Ensorceleur.md) et de [magicien](./Magicien.md). Le sort choisi doit appartenir à un niveau de sort auquel l’[ensorceleur](./Ensorceleur.md) a accès. Il peut ajouter à nouveau un sort supplémentaire aux niveaux 13 et 17.
 
-**École privilégiée (Ext).** Au niveau 15, l’ensorceleur choisit une [école de magie](./../Golarion/Écoles de magie.md). Le [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) contre les sorts de l’[ensorceleur](./Ensorceleur.md) appartenant à cette école augmente de +2. Ce bonus se cumule avec celui provenant du don [École renforcée](./École renforcée.md).
+**École privilégiée (Ext).** Au niveau 15, l’ensorceleur choisit une [école de magie](./Écoles de magie.md). Le [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) contre les sorts de l’[ensorceleur](./Ensorceleur.md) appartenant à cette école augmente de +2. Ce bonus se cumule avec celui provenant du don [École renforcée](./École renforcée.md).
 
 **Apothéose magique (Ext).** Au niveau 20, la magie envahit tout le corps de l’[ensorceleur](./Ensorceleur.md). Lorsqu’il lance un sort en y appliquant les effets d’un [don de métamagie](./Dons.md#DONMETAMAGIE) qu’il connaît, la durée de l’incantation n’est pas modifiée (mais il doit toujours utiliser un emplacement de sort d’un niveau plus élevé). De plus, chaque fois qu’il utilise un objet magique à charges, il peut choisir de sacrifier des [emplacements de sorts](./emplacement de sort.md) pour réduire le nombre de charges consommées. Pour chaque tranche de trois niveaux de sorts sacrifiés, le coût en charges est réduit de un.
 

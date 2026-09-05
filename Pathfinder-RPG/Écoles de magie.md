@@ -6,11 +6,11 @@ Categories:
 - Règle officielle
 ---
 
-{s:MenuClasses}{s:MenuÉcoles}Un magicien peut choisir de se spécialiser dans une [école de magie](./../Golarion/Écoles de magie.md) afin d’acquérir des sorts et des pouvoirs supplémentaires associés à cette école. Ce choix doit être fait au niveau 1 et ne peut être modifié par la suite. Si le magicien ne choisit aucune école, il reçoit les avantages liés à l’[école universelle](./../Golarion/Écoles de magie.md#ECOLEUNIVERSELLE).
+{s:MenuClasses}{s:MenuÉcoles}Un magicien peut choisir de se spécialiser dans une [école de magie](./Écoles de magie.md) afin d’acquérir des sorts et des pouvoirs supplémentaires associés à cette école. Ce choix doit être fait au niveau 1 et ne peut être modifié par la suite. Si le magicien ne choisit aucune école, il reçoit les avantages liés à l’[école universelle](./Écoles de magie.md#ECOLEUNIVERSELLE).
 
-Un magicien qui choisit de se spécialiser dans une des huit [écoles de magie](./../Golarion/Écoles de magie.md) standard doit sélectionner deux autres écoles qui deviennent ses écoles opposées et représentent les domaines de connaissances qu’il décide de sacrifier pour se concentrer sur son domaine de prédilection. Un magicien peut préparer un sort appartenant à une de ses écoles opposées mais il doit alors utiliser deux [emplacements de sort](./emplacement de sort.md) du même niveau.
+Un magicien qui choisit de se spécialiser dans une des huit [écoles de magie](./Écoles de magie.md) standard doit sélectionner deux autres écoles qui deviennent ses écoles opposées et représentent les domaines de connaissances qu’il décide de sacrifier pour se concentrer sur son domaine de prédilection. Un magicien peut préparer un sort appartenant à une de ses écoles opposées mais il doit alors utiliser deux [emplacements de sort](./emplacement de sort.md) du même niveau.
 
-*Par exemple, un magicien dont une des écoles d’opposition est l’[Évocation](./../Golarion/Écoles de magie.md#EVOCATION) doit utiliser deux emplacements de sort de 3e niveau pour préparer une *[boule de feu](./Boule de feu.md)*. De plus, le spécialiste subit un malus de -4 à tous les tests de compétence pour [fabriquer un objet magique](./Création dobjets magiques.md) dont la création nécessite un sort appartenant à une de ses écoles d’opposition.*
+*Par exemple, un magicien dont une des écoles d’opposition est l’[Évocation](./Écoles de magie.md#EVOCATION) doit utiliser deux emplacements de sort de 3e niveau pour préparer une *[boule de feu](./Boule de feu.md)*. De plus, le spécialiste subit un malus de -4 à tous les tests de compétence pour [fabriquer un objet magique](./Création dobjets magiques.md) dont la création nécessite un sort appartenant à une de ses écoles d’opposition.*
 
 Un magicien généraliste peut préparer des sorts de n’importe quelle école sans aucune restriction.
 

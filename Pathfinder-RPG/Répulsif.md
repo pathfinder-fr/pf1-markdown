@@ -27,6 +27,6 @@ Categories:
 
 **Jet de sauvegarde** aucun ou [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (voir description) ; **Résistance à la magie** oui
 
-Cette incantation génère une barrière invisible qui repousse la [vermine](./type Vermine.md). Les créatures qui appartiennent à cette catégorie n’ont aucune chance de passer si leur nombre de [dés de vie](./DV.md) est inférieur au tiers du [niveau](./niveau.md) du personnage.
+Cette incantation génère une barrière invisible qui repousse la [vermine](./type Vermine.md). Les créatures qui appartiennent à cette catégorie n’ont aucune chance de passer si leur nombre de [dés de vie](./../Ressources/DV.md) est inférieur au tiers du [niveau](./niveau.md) du personnage.
 
 Au-delà, elles ont droit à un jet de [Volonté](./Volonté.md) pour surmonter l’effet du sort. Même en cas de succès, elles reçoivent 2d6 points de dégâts en traversant la barrière du *répulsif*. La douleur qu’elles ressentent en s’approchant de la zone suffit bien souvent à faire rebrousser chemin aux moins agressives.

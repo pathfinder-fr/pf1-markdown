@@ -4,6 +4,7 @@ Title: dépendance
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Drogues#DÉPENDANCE
 ---
 
->>> Drogues#DÉPENDANCE
+>>> [Drogues#DÉPENDANCE](./Drogues.md#DÉPENDANCE)

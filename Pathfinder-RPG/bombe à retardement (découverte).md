@@ -4,6 +4,7 @@ Title: bombe à retardement (découverte)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Découvertes#BOMBEARETARDEMENT
 ---
 
->>> Découvertes#BOMBEARETARDEMENT
+>>> [Découvertes#BOMBEARETARDEMENT](./découvertes.md#BOMBEARETARDEMENT)

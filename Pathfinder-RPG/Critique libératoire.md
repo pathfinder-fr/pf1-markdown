@@ -8,7 +8,7 @@ LastModified: 2019-01-26 12:17
 
 **Condition.** [BBA](./BBA.md) +9
 
-**Avantage.** Lorsque vous infligez un coup critique à un adversaire, vous pouvez utiliser une action rapide pour lancer *[dissipation de la magie](./Dissipation de la magie.md)* (en utilisant votre nombre de [DV](./DV.md) comme [niveau de lanceur](./NLS.md)) pour cibler les effets qui affectent l'esprit de cet adversaire. Vous n'avez pas besoin d'être conscient que votre adversaire est ou non sous l'emprise d'un tel effet. Bien que l'intention de cette aptitude est de libérer des adversaires mentalement dominés par un maître, tous les effets qui affectent l'esprit peuvent être dissipés, en incluant les effets bénéfiques que vos adversaires ont pu se lancer sur eux-mêmes.
+**Avantage.** Lorsque vous infligez un coup critique à un adversaire, vous pouvez utiliser une action rapide pour lancer *[dissipation de la magie](./Dissipation de la magie.md)* (en utilisant votre nombre de [DV](./../Ressources/DV.md) comme [niveau de lanceur](./NLS.md)) pour cibler les effets qui affectent l'esprit de cet adversaire. Vous n'avez pas besoin d'être conscient que votre adversaire est ou non sous l'emprise d'un tel effet. Bien que l'intention de cette aptitude est de libérer des adversaires mentalement dominés par un maître, tous les effets qui affectent l'esprit peuvent être dissipés, en incluant les effets bénéfiques que vos adversaires ont pu se lancer sur eux-mêmes.
 
 Ce sort fonctionne comme *dissipation de la magie* en ce qu'il affecte tous les effets affectant l'esprit, en commençant avec celui du plus haut niveau et se terminant lorsque vous parvenez à en dissiper un avec succès ou que vous ayez échoué à tous les dissiper.
 

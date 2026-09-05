@@ -4,6 +4,7 @@ Title: bonus de taille
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Valeurs de combat#TABMODTAILLE
 ---
 
->>> Valeurs de combat#TABMODTAILLE
+>>> [Valeurs de combat#TABMODTAILLE](./Valeurs de combat.md#TABMODTAILLE)

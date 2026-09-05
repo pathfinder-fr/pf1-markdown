@@ -5,6 +5,7 @@ LastModified: 2025-08-08 22:10
 Categories:
 - Objet mag propriété arme
 - Redirection
+RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Vorpale
 ---
 
->>> Descriptions individuelles des propriétés spéciales des armes#Vorpale
+>>> [Descriptions individuelles des propriétés spéciales des armes#Vorpale](./Descriptions individuelles des propriétés spéciales des armes.md#Vorpale)

@@ -14,7 +14,7 @@ Categories:
 « Vahana » est un archétype acquis qui s’ajoute sur n’importe quelle créature vivante de type [animal](./type Animal.md). Le vahana conserve les statistiques et pouvoirs spéciaux de la créature de base, à l’exception de ce qui suit.
 - **FP.** [FP](./FP.md) de la créature de base +2.
 - **Alignement.** Pas plus d’un cran d’écart par rapport à celui de la divinité qui l’a crée.
-- **Type.** La créature devient de type [créature magique](./type Créature magique.md) et obtient la [vision dans le noir](./vision dans le noir (capacité).md) à 18 mètres. Nul besoin de recalculer ses [DV](./DV.md), son [BBA](./BBA.md) ou ses jets de sauvegarde.
+- **Type.** La créature devient de type [créature magique](./type Créature magique.md) et obtient la [vision dans le noir](./vision dans le noir (capacité).md) à 18 mètres. Nul besoin de recalculer ses [DV](./../Ressources/DV.md), son [BBA](./BBA.md) ou ses jets de sauvegarde.
 - **CA.** L’armure naturelle augmente de 3.
 - **Capacités défensives.** Un vahana gagne une [résistance](./Résistance (capacité).md) de 10 contre l’acide, l’électricité, le feu et le froid, un [RD](./RD.md) 10/magie et une [résistance à la magie](./RM.md) égale à son [FP](./FP.md) + 11 (35 au maximum).
 - **Vitesse.** +9 mètres pour tous les types de déplacement (sans dépasser le double de la vitesse de la créature de base).

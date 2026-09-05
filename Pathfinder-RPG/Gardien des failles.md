@@ -118,7 +118,7 @@ Au niveau 7, un gardien des failles peut utiliser sa capacité de [contre-télé
 
 {s:reference|PURGEPLANAIRE}
 #### Purge planaire (Sur)
-Au niveau 8, une créature [extraplanaire](./sous-type extraplanaire.md) qui rate son [jet de sauvegarde](./JDS.md) contre la [canalisation planaire](./Gardien des failles.md#CANALISATIONPLANAIRE) d'un gardien des failles est immédiatement bannie vers son plan d’origine (comme avec le sort *[bannissement](./Bannissement.md)*, sans jet de sauvegarde). Les créatures extraplanaires avec un nombre de [dés de vie](./DV.md) supérieur à 2 fois le niveau de classe du gardien des failles ne sont pas affectées par cette capacité mais elles subissent les dégâts de la canalisation planaire normalement.
+Au niveau 8, une créature [extraplanaire](./sous-type extraplanaire.md) qui rate son [jet de sauvegarde](./JDS.md) contre la [canalisation planaire](./Gardien des failles.md#CANALISATIONPLANAIRE) d'un gardien des failles est immédiatement bannie vers son plan d’origine (comme avec le sort *[bannissement](./Bannissement.md)*, sans jet de sauvegarde). Les créatures extraplanaires avec un nombre de [dés de vie](./../Ressources/DV.md) supérieur à 2 fois le niveau de classe du gardien des failles ne sont pas affectées par cette capacité mais elles subissent les dégâts de la canalisation planaire normalement.
 
 {s:reference|CONTRETELEPORTATIONSUPERIEURE}
 #### Contre-téléportation supérieure (Sur)

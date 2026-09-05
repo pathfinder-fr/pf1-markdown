@@ -4,6 +4,7 @@ Title: Les dragons chromatiques
 LastModified: 2021-04-18 11:56
 Categories:
 - Src Bestiaire
+RedirectTo: Dragon
 ---
 
 <div style="float:right; background-color: #fff; padding: 0 0 8px 10px">
@@ -28,4 +29,4 @@ Categories:
 
 Les véritables dragons se répartissent en deux grandes catégories : les chromatiques et les métalliques. Les dragons chromatiques, qui sont presque tous maléfiques, ne cherchent qu’à assouvir leur désir insatiable de nourriture, de trésor et de carnage. Les dragons métalliques, généralement bons, ont tendance à protéger les régions dont ils sont responsables.
 
->>> Dragon
+>>> [Dragon](./dragon.md)

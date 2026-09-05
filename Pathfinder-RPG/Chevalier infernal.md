@@ -57,7 +57,7 @@ Pour devenir un Légionnaire infernal, il faut satisfaire aux conditions suivant
 
 **Arme et armures.** Port de l’armure lourde
 
-**Spécial.** Le personnage doit tuer un diable qui possède plus de [DV](./DV.md) que lui sous le regard d’un Légionnaire infernal.
+**Spécial.** Le personnage doit tuer un diable qui possède plus de [DV](./../Ressources/DV.md) que lui sous le regard d’un Légionnaire infernal.
 
 ### Compétences de la classe
 Voici les compétences de la classe de Légionnaire infernal (et la caractéristique associée à chacune) : [Connaissances](./Connaissances.md) (folklore local) (Int), [Équitation](./Équitation.md) (Dex), [Intimidation](./Intimidation.md) (Cha), [Perception](./Perception.md) (Sag), [Psychologie](./Psychologie.md) (Sag).

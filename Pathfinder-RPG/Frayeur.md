@@ -30,10 +30,10 @@ Categories:
 
 **Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
 
-**Cible** 1 créature vivante ayant 5 [DV](./DV.md) ou moins  
+**Cible** 1 créature vivante ayant 5 [DV](./../Ressources/DV.md) ou moins  
 
 **Durée** 1d4 [rounds](./round.md) ou 1 [round](./round.md) (voir description)  
 
 **Jet de sauvegarde** [Volonté](./Volonté.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
 
-La cible de ce sort est [effrayée](./Effrayé.md). Si elle réussit un jet de [Volonté](./Volonté.md), elle est seulement [secouée](./Secoué.md) pendant 1 [round](./round.md). Les créatures qui possèdent 6 [DV](./DV.md) ou plus sont [immunisées](./immunisé.md) contre ce sort. *Frayeur* contre et dissipe *[regain d’assurance](./Regain dassurance.md)*.
+La cible de ce sort est [effrayée](./Effrayé.md). Si elle réussit un jet de [Volonté](./Volonté.md), elle est seulement [secouée](./Secoué.md) pendant 1 [round](./round.md). Les créatures qui possèdent 6 [DV](./../Ressources/DV.md) ou plus sont [immunisées](./immunisé.md) contre ce sort. *Frayeur* contre et dissipe *[regain d’assurance](./Regain dassurance.md)*.

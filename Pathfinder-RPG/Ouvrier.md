@@ -4,6 +4,7 @@ Title: Ouvrier Formien (doublon)
 LastModified: 2021-04-25 01:57
 Categories:
 - Src Bestiaire 4
+RedirectTo: Ouvrier Formien
 ---
 
->>> Ouvrier Formien
+>>> [Ouvrier Formien](./Ouvrier formien.md)

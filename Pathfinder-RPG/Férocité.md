@@ -4,6 +4,7 @@ Title: Férocité
 LastModified: 2026-06-29 03:10
 Categories:
 - Redirection
+RedirectTo: Férocité (capacité)
 ---
 
->>> Férocité (capacité)
+>>> [Férocité (capacité)](./Férocité (capacité).md)

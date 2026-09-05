@@ -35,7 +35,7 @@ Les androïdes sont des êtres fabriqués, et non pas mis au monde, qui sont dé
 Il est possible de choisir les traits raciaux suivants à la place des traits raciaux existants des androïdes. Consultez votre MJ avant de prendre ces options.
 
 <u>*Remplace « afflux de nanites » :*</u>
-- **Nanites réparatrices.** Certains androïdes ne peuvent pas demander à leurs nanites de les aider dans quelconque entreprise, mais constatent que leurs nanites recousent leur blessures. La première fois chaque jour qu'un androïde subit un nombre de points de dégâts égal ou supérieur au double de leur nombre de [Dés de vie](./DV.md), les nanites s'activent automatiquement, sans nécessiter d'action. Leurs tatouages-circuits brillent d'une lumière équivalente à celle d'une [torche](./Torche (objet).md) pendant 1 round et ils récupèrent un nombre de [points de vie](./pv.md) égal au au double de leur nombre de Dés de vie. Ce trait racial remplace afflux de nanites.
+- **Nanites réparatrices.** Certains androïdes ne peuvent pas demander à leurs nanites de les aider dans quelconque entreprise, mais constatent que leurs nanites recousent leur blessures. La première fois chaque jour qu'un androïde subit un nombre de points de dégâts égal ou supérieur au double de leur nombre de [Dés de vie](./../Ressources/DV.md), les nanites s'activent automatiquement, sans nécessiter d'action. Leurs tatouages-circuits brillent d'une lumière équivalente à celle d'une [torche](./Torche (objet).md) pendant 1 round et ils récupèrent un nombre de [points de vie](./pv.md) égal au au double de leur nombre de Dés de vie. Ce trait racial remplace afflux de nanites.
 
 
 ### Nouvelles règles raciales

@@ -10,7 +10,7 @@ Categories:
 {s:Menuarchétypearcaniste}{s:MCA}*Certains arcanistes se spécialisent dans une école de magie et se consacrent à cette spécialisation aux dépens de la versatilité de leurs pouvoirs. Les savants d’une école sont capables de préparer plus de sorts par jour que les arcanistes classiques, mais leur choix est plus limité.*
 
 #### Maîtrise d’une école de magie (Sur)
-Au niveau 1, le savant choisit une [école de magie](./../Golarion/Écoles de magie.md). Il gagne les pouvoirs conférés par cette école, comme avec l’aptitude de classe école de magie du [magicien](./Magicien.md), en remplaçant le niveau du magicien par son niveau d’arcaniste en ce qui concerne ces pouvoirs.
+Au niveau 1, le savant choisit une [école de magie](./Écoles de magie.md). Il gagne les pouvoirs conférés par cette école, comme avec l’aptitude de classe école de magie du [magicien](./Magicien.md), en remplaçant le niveau du magicien par son niveau d’arcaniste en ce qui concerne ces pouvoirs.
 
 Il peut également accentuer sa spécialisation en choisissant l’un des champs d’étude magiques.
 

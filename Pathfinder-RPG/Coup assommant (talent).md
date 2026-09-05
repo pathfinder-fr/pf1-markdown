@@ -4,6 +4,7 @@ Title: Coup assommant (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#COUPASSOMMANT
 ---
 
->>> Talents#COUPASSOMMANT
+>>> [Talents#COUPASSOMMANT](./Talents.md#COUPASSOMMANT)

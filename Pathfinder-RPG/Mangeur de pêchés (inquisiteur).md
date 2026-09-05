@@ -12,7 +12,7 @@ Categories:
 #### Manger un péché (Mag)
 Au niveau 1, par une [action libre](./Action libre.md), l’inquisiteur peut manger les péchés d’un ennemi qu’il vient de tuer s’il passe 1 minute à côté de son cadavre. Ceci provoque des [attaques d’opportunité](./attaque dopportunité.md). L’inquisiteur peut accélérer ce rituel et l’accomplir par une [action complexe](./Action complexe.md) qui provoque des attaques d’opportunité, mais il ne bénéficie alors que de la moitié des avantages normaux (voir plus loin).
 
-Quand l’inquisiteur mange les péchés d’un ennemi, il guérit de 1d8 [points de vie](./pv.md) + niveau d’inquisiteur (+5 au maximum). Cet ennemi doit avoir été tué de la main de l’inquisiteur dans l’heure qui précède et devait avoir au moins moitié autant de [DV](./DV.md) que lui. L’inquisiteur peut utiliser ce pouvoir une fois par ennemi tué. Ce pouvoir n’a aucun effet sur les créatures dépourvues d’intelligence ou celles qui possèdent une valeur d’[Intelligence](./Intelligence.md) de 2 ou moins.
+Quand l’inquisiteur mange les péchés d’un ennemi, il guérit de 1d8 [points de vie](./pv.md) + niveau d’inquisiteur (+5 au maximum). Cet ennemi doit avoir été tué de la main de l’inquisiteur dans l’heure qui précède et devait avoir au moins moitié autant de [DV](./../Ressources/DV.md) que lui. L’inquisiteur peut utiliser ce pouvoir une fois par ennemi tué. Ce pouvoir n’a aucun effet sur les créatures dépourvues d’intelligence ou celles qui possèdent une valeur d’[Intelligence](./Intelligence.md) de 2 ou moins.
 
 Au niveau 5, la guérison passe à 2d8 + niveau d’inquisiteur (+10 au maximum), au niveau 9 à 3d8 + niveau (+15 au
 maximum) et au niveau 13 à 4d8 + niveau (+20 au maximum).

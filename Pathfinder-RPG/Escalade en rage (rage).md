@@ -4,6 +4,7 @@ Title: Escalade en rage (rage)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: pouvoirs de rage#ESCALADEENRAGE
 ---
 
->>> pouvoirs de rage#ESCALADEENRAGE
+>>> [pouvoirs de rage#ESCALADEENRAGE](./Pouvoirs de rage.md#ESCALADEENRAGE)

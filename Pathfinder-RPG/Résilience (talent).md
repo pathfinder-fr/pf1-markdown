@@ -4,6 +4,7 @@ Title: Résilience (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#RESILIENCE
 ---
 
->>> Talents#RESILIENCE
+>>> [Talents#RESILIENCE](./Talents.md#RESILIENCE)

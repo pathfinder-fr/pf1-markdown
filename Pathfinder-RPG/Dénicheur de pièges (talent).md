@@ -4,6 +4,7 @@ Title: Dénicheur de pièges (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#DENICHEURPIEGE
 ---
 
->>> Talents#DENICHEURPIEGE
+>>> [Talents#DENICHEURPIEGE](./Talents.md#DENICHEURPIEGE)

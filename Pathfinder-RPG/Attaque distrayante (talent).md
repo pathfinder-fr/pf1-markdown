@@ -4,6 +4,7 @@ Title: Attaque distrayante (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#ATTAQUEDISTRAYANTE
 ---
 
->>> Talents#ATTAQUEDISTRAYANTE
+>>> [Talents#ATTAQUEDISTRAYANTE](./Talents.md#ATTAQUEDISTRAYANTE)

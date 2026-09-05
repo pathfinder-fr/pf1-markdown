@@ -54,7 +54,7 @@ Ces effets sont cumulatifs et simultanés. Un jet de [Volonté](./Volonté.md) r
 
 De plus, si le [prêtre](./Prêtre.md) prononce l’incantation dans son plan d’origine, toutes les créatures extraplanaires d’[alignement](./Alignement.md) autre que Bon comprises dans la [zone d’effet](./zone deffet.md) sont immédiatement renvoyées dans leur plan d’origine. Une fois bannies de la sorte, elles ne peuvent pas revenir avant vingt-quatre heures. Cet effet se produit même si les entités n’entendent pas la *parole Sacrée*. Pour annuler le bannissement, elles doivent réussir un jet de [Volonté](./Volonté.md) (avec un malus de -4).
 
-Les créatures dont le nombre de [DV](./DV.md) est supérieur au [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) du [prêtre](./Prêtre.md) sont [immunisées](./immunisé.md) contre *parole sacrée*.
+Les créatures dont le nombre de [DV](./../Ressources/DV.md) est supérieur au [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) du [prêtre](./Prêtre.md) sont [immunisées](./immunisé.md) contre *parole sacrée*.
 
 ### Mythique
 {s:CMy}

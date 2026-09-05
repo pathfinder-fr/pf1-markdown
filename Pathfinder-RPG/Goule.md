@@ -37,7 +37,7 @@ Categories:
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Capacités spéciales}
 {s:Reference|FIEVREDESGOULES}
-{s:BDTexte|**Maladie : fièvre des goules (Sur).** Morsure - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 13 ; *incubation* 1 jour ; *fréquence* 1/jour  ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d3 [Con](./Constitution.md) et 1d3 [Dex](./Dextérité.md) ; * guérison* 2 réussites consécutives. Le [DD](./DD.md) dépend du [Charisme](./Charisme.md). Lorsqu'un [humanoïde](./type Humanoïde.md) meurt de la fièvre des goules, il se relève sous la forme d'une goule dès que sonne minuit. Il ne conserve aucune des capacités qu'il possédait de son vivant et n'est pas soumis au contrôle des autres goules, la chair des vivants l'attire et il se comporte comme une goule normale. Ceux qui possèdent 4 [DV](./DV.md) ou plus se relèvent sous la forme de [blêmes](./Blême.md).}
+{s:BDTexte|**Maladie : fièvre des goules (Sur).** Morsure - blessure ; *JS* [Vigueur](./Vigueur.md) [DD](./DD.md) 13 ; *incubation* 1 jour ; *fréquence* 1/jour  ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) 1d3 [Con](./Constitution.md) et 1d3 [Dex](./Dextérité.md) ; * guérison* 2 réussites consécutives. Le [DD](./DD.md) dépend du [Charisme](./Charisme.md). Lorsqu'un [humanoïde](./type Humanoïde.md) meurt de la fièvre des goules, il se relève sous la forme d'une goule dès que sonne minuit. Il ne conserve aucune des capacités qu'il possédait de son vivant et n'est pas soumis au contrôle des autres goules, la chair des vivants l'attire et il se comporte comme une goule normale. Ceux qui possèdent 4 [DV](./../Ressources/DV.md) ou plus se relèvent sous la forme de [blêmes](./Blême.md).}
 </div>
 
 

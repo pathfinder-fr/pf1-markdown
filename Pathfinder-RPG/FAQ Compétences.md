@@ -19,7 +19,7 @@ R : (James Jacobs 06/04/10) Dans ce cas, le [paladin](./Paladin.md) [humain](./H
 
 **Q : Est-ce que les personnages reçoivent toujours le multiplicateur (x4) de rangs de [compétence](./Compétences.md) lors de leur création au premier niveau comme cela était précédemment le cas avec les règles de la version 3.5 de D&D ?**
 
-R : Non, mais les valeurs obtenues sont identiques car les personnages obtiennent un bonus de +3 à toutes leurs [compétences](./Compétences.md) de classe dès lors qu'ils dépensent un rang dans cette [compétence](./Compétences.md). Le rang maximum de [compétence](./Compétences.md) est désormais équivalent à ses [dés de vie](./DV.md) au lieu de ses [dés de vie](./DV.md) +3 dans la version 3.5 de D&D.
+R : Non, mais les valeurs obtenues sont identiques car les personnages obtiennent un bonus de +3 à toutes leurs [compétences](./Compétences.md) de classe dès lors qu'ils dépensent un rang dans cette [compétence](./Compétences.md). Le rang maximum de [compétence](./Compétences.md) est désormais équivalent à ses [dés de vie](./../Ressources/DV.md) au lieu de ses [dés de vie](./../Ressources/DV.md) +3 dans la version 3.5 de D&D.
 
 {s:Reference|FAQCOMPETENCESACROBATIES}
 

@@ -11,7 +11,7 @@ Categories:
 {s:BDTitre|Créer un champion squelette}
 {s:BDTexte|*Source : Bestiaire* p.263}
 "Champion Squelette" est un archétype acquis qui peut être ajouté à n'importe quelle créature tangible (autre qu'un mort-vivant) possédant un squelette osseux et une [Intelligence](./Intelligence.md) supérieure à 3.
-- **FP.** Le FP du Champion squelette est égal à celui d'un [squelette](./Squelette, archétype.md) normal possédant le même nombre de [DV](./DV.md) augmenté de +1
+- **FP.** Le FP du Champion squelette est égal à celui d'un [squelette](./Squelette, archétype.md) normal possédant le même nombre de [DV](./../Ressources/DV.md) augmenté de +1
 - **Type.** Le type de la créature devient [mort-vivant](./type Mort-vivant.md). Le champion squelette conserve les sous-types de la créature de base à l'exception des sous-types correspondant à un alignement ou à une espèce.
 - **Alignement.** N'importe quel alignement Mauvais.
 - **CA.** L'armure naturelle est la même que celle d'un [squelette](./Squelette, archétype.md) normal.

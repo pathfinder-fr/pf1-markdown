@@ -4,6 +4,7 @@ Title: Amphibie
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Amphibie (capacité)
 ---
 
->>> Amphibie (capacité)
+>>> [Amphibie (capacité)](./Amphibie (capacité).md)

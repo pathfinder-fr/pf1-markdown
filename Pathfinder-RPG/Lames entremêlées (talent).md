@@ -4,6 +4,7 @@ Title: Lames entremêlées (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#LAMEENTREMELEES
 ---
 
->>> Talents#LAMEENTREMELEES
+>>> [Talents#LAMEENTREMELEES](./Talents.md#LAMEENTREMELEES)

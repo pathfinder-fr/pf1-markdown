@@ -4,6 +4,7 @@ Title: suivre les indices (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#SUIVRELESINDICES
 ---
 
->>> Talents#SUIVRELESINDICES
+>>> [Talents#SUIVRELESINDICES](./Talents.md#SUIVRELESINDICES)

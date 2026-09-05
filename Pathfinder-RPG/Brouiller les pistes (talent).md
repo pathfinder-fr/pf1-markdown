@@ -4,6 +4,7 @@ Title: Brouiller les pistes (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#BROUILLERLESPISTES
 ---
 
->>> Talents#BROUILLERLESPISTES
+>>> [Talents#BROUILLERLESPISTES](./Talents.md#BROUILLERLESPISTES)

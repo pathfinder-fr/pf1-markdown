@@ -4,6 +4,7 @@ Title: Champion sacré
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Paladin#CHAMPIONSACRE
 ---
 
->>> Paladin#CHAMPIONSACRE
+>>> [Paladin#CHAMPIONSACRE](./Paladin.md#CHAMPIONSACRE)

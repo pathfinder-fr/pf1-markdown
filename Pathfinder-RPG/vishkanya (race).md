@@ -22,10 +22,10 @@ Les vishkanyas sont une race d’humanoïdes exotiques au sang empoisonné. D’
 - **Vision nocturne.** Les vishkanyas peuvent [voient deux fois plus loin](./Vision nocturne (capacité).md) que les humains en cas de faible luminosité.
 - **Sens aiguisés.** Les vishkanyas reçoivent un bonus racial de +2 à leurs tests de [Perception](./Perception.md).
 - **Souplesse.** Les vishkanyas reçoivent un bonus racial de +2 à leurs tests de [Discrétion](./Discrétion.md) et d’[Évasion](./Évasion.md).
-- **Résistance au poison.** Le vishkanya reçoit un bonus racial égal à son nombre de [dés de vie](./DV.md) aux [jets de sauvegarde](./JDS.md) contre les [poisons](./Poisons.md).
+- **Résistance au poison.** Le vishkanya reçoit un bonus racial égal à son nombre de [dés de vie](./../Ressources/DV.md) aux [jets de sauvegarde](./JDS.md) contre les [poisons](./Poisons.md).
 - **Utilisation des poisons.** Les vishkanyas sont rompus à l’utilisation des [poisons](./Poisons.md) et ne s’empoisonnent jamais accidentellement lorsqu’ils utilisent ou manipulent du poison.
 - **Toxique.** Un nombre de fois par jour égal à son modificateur de [Constitution](./Constitution.md), le vishkanya peut empoisonner une arme qu’il manie avec sa salive ou son sang toxique (l’emploi de son sang nécessite que le vishkanya soit blessé lorsqu’il utilise cette capacité). Il faut une [action rapide](./Action rapide.md) pour appliquer le venin de cette manière.
-  - *Venin vishkanya.* Blessure ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 10 + 1/2 [dés de vie](./DV.md) du vishkanya + son modificateur de [Constitution](./Constitution.md) ; *fréquence* 1/round pendant 6 rounds ; *effet* 1d2 points de [Dextérité](./Dextérité.md) ; *guérison* 1 réussite.
+  - *Venin vishkanya.* Blessure ; *JdS* [Vigueur](./Vigueur.md) [DD](./DD.md) 10 + 1/2 [dés de vie](./../Ressources/DV.md) du vishkanya + son modificateur de [Constitution](./Constitution.md) ; *fréquence* 1/round pendant 6 rounds ; *effet* 1d2 points de [Dextérité](./Dextérité.md) ; *guérison* 1 réussite.
 - **Apprentissage martial.** Les vishkanyas sont formés au maniement des [kukris](./kukri (arme).md), des [sarbacanes](./sarbacane (arme).md) et des [shurikens](./Shurikens (arme).md).
 - **Langues.** Les vishkanyas commencent le jeu en parlant le commun et le vishkanyan. Ceux qui ont une valeur d’[Intelligence](./Intelligence.md) élevée peuvent apprendre d’autres langues parmi celles-ci : aklo, commun des profondeurs, draconique, elfique, gobelin et sylvestre.
 

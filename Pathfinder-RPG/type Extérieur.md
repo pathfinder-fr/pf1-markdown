@@ -13,7 +13,7 @@ Categories:
 
 Les extérieurs sont constitués en partie ou en totalité d'essence (mais pas forcément de matériaux) provenant d'un autre plan que le plan Matériel. Certaines créatures appartiennent à un autre type lors de leur création puis deviennent des Extérieurs lorsqu'elles atteignent un niveau supérieur (ou inférieur) d'existence spirituelle. Les Extérieurs partagent les attributs suivants.
 - Dé de vie : d10
-- BBA égal au nombre des [DV](./DV.md) (progression rapide).
+- BBA égal au nombre des [DV](./../Ressources/DV.md) (progression rapide).
 - Jets de sauvegarde forts : deux catégories, généralement [Réflexes](./Réflexes.md) et [Volonté](./Volonté.md).
 - Points de compétence par DV : 6 + modificateur d'Intelligence (au minimum 1). Compétences de classe : [Artisanat](./Artisanat.md), [Bluff](./Bluff.md), [Connaissances](./Connaissances.md) (plans), [Discrétion](./Discrétion.md), [Perception](./Perception.md), [Psychologie](./Psychologie.md). Les Extérieurs étant de nature diverse, ils reçoivent également 4 autres compétences de classe en fonction de leur thème. 
 

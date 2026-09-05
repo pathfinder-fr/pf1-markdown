@@ -4,6 +4,7 @@ Title: test de compétence
 LastModified: 2024-03-06 18:54
 Categories:
 - Redirection
+RedirectTo: Compétences#TESTSDECOMPETENCES
 ---
 
->>> Compétences#TESTSDECOMPETENCES
+>>> [Compétences#TESTSDECOMPETENCES](./Compétences.md#TESTSDECOMPETENCES)

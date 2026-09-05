@@ -281,7 +281,7 @@ Peu d’entre eux possèdent de charges (la plupart sont en effet de puissants o
 | [Création magique](./Anneau de création magique.md) || <sup>A&E, MR</sup> || Le porteur peut dépenser des emplacements de sorts pour bénéficier de bonus aux tests d’[Artisanat](./Artisanat.md) ou de [Profession](./Profession.md) et peut substituer un test d’[Art de la magie](./Art de la magie.md) avec un test d’[Artisanat](./Artisanat.md) pour identifier un objet fabriqué avec la compétence [Artisanat](./Artisanat.md). || 12 000 po
 
 |- CLASS="premier"
-| [Dynamisation ectoplasmique](./Anneau de dynamisation ectoplasmique.md) || <sup>A&E</sup> || Un [conjurateur](./Conjurateur.md) peut utiliser sa capacité [appel du créateur](./Conjurateur.md#APPELDUCREATEUR) pour absorber son [eidolon](./Conjurateur.md#EIDOLON) afin de gagner 2 points de vie temporaires par [DV](./DV.md) de ce dernier. || 12 000 po
+| [Dynamisation ectoplasmique](./Anneau de dynamisation ectoplasmique.md) || <sup>A&E</sup> || Un [conjurateur](./Conjurateur.md) peut utiliser sa capacité [appel du créateur](./Conjurateur.md#APPELDUCREATEUR) pour absorber son [eidolon](./Conjurateur.md#EIDOLON) afin de gagner 2 points de vie temporaires par [DV](./../Ressources/DV.md) de ce dernier. || 12 000 po
 
 |- CLASS="premier"
 | [Leurre](./Anneau de leurre.md) || <sup>A&E</sup> || Lorsque son porteur effectue une [retraite](./Actions complexes.md#RETRAITE) ou est [sans défense](./États préjudiciables.md#Sansdéfense), le rend [invisible](./États préjudiciables.md#Invisible) pendant 3 [rounds](./round.md) et fait apparaître 4 *[doubles illusoires](./Double illusoire.md)* de ce dernier qui s’enfuient dans des directions logiques pendant cette même durée. || 12 000 po

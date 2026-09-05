@@ -4,6 +4,7 @@ Title: Bombe fumigène (découverte)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: découvertes#BOMBEFUMIGENE
 ---
 
->>> découvertes#BOMBEFUMIGENE
+>>> [découvertes#BOMBEFUMIGENE](./découvertes.md#BOMBEFUMIGENE)

@@ -4,6 +4,7 @@ Title: arme de corps à corps
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Caractéristiques des armes#ARMEDECORPSACORPS
 ---
 
->>> Caractéristiques des armes#ARMEDECORPSACORPS
+>>> [Caractéristiques des armes#ARMEDECORPSACORPS](./Caractéristiques des armes.md#ARMEDECORPSACORPS)

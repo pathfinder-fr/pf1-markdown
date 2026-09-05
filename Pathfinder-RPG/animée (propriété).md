@@ -5,6 +5,7 @@ LastModified: 2020-03-09 19:34
 Categories:
 - Propriété armure
 - Redirection
+RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Animée
 ---
 
->>> Descriptions individuelles des propriétés spéciales des armures et des boucliers#Animée
+>>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Animée](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Animée)

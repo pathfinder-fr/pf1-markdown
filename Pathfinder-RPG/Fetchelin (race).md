@@ -60,7 +60,7 @@ Investis de l’essence du plan de l’Ombre, avec un sang humain auquel se mêl
 
 <u>*Remplace « pouvoirs magiques » :*</u>
 - **Fin manipulateur.** Plutôt que de prendre la forme des autres, certains fetchelins sont doués pour détruire les souvenirs des autres créatures. Plutôt que de gagner le pouvoir magique *[déguisement](./Déguisement.md)*, ils peuvent utiliser le pouvoir magique *[trou de mémoire](./Trou de mémoire.md)* une fois par jour. Pour cette capacité, le niveau de lanceur de sorts du fetchelin est égal à son total de dés de vie. Ce trait racial modifie celui de pouvoirs magiques.
-- **Vibration des ténèbres.** Certains fetchelins peuvent manipuler l’énergie de l’ombre afin de se déplacer plutôt que de parcourir les ombres. Lorsqu’ils atteignent le niveau 9, plutôt que de gagner le pouvoir magique *[traversée des ombres](./Traversée des ombres.md)*, ils gagnent le pouvoir magique *[déplacement](./Déplacement.md)* utilisable deux fois par jour. Pour cette capacité, le niveau de lanceur de sorts du fetchelin est égal à son total de [dés de vie](./DV.md). Ce trait racial modifie celui de pouvoirs magiques.
+- **Vibration des ténèbres.** Certains fetchelins peuvent manipuler l’énergie de l’ombre afin de se déplacer plutôt que de parcourir les ombres. Lorsqu’ils atteignent le niveau 9, plutôt que de gagner le pouvoir magique *[traversée des ombres](./Traversée des ombres.md)*, ils gagnent le pouvoir magique *[déplacement](./Déplacement.md)* utilisable deux fois par jour. Pour cette capacité, le niveau de lanceur de sorts du fetchelin est égal à son total de [dés de vie](./../Ressources/DV.md). Ce trait racial modifie celui de pouvoirs magiques.
 
 
 ### Bonus alternatifs de classe de prédilection

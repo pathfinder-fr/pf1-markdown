@@ -18,7 +18,7 @@ Categories:
 
 **Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
 
-**Cibles** jusqu’à 2 [DV](./DV.md) de [morts-vivants](./type Mort-vivant.md)/[niveau](./niveau.md), distants de moins de 9 m (6 {s:c}) les uns des autres  
+**Cibles** jusqu’à 2 [DV](./../Ressources/DV.md) de [morts-vivants](./type Mort-vivant.md)/[niveau](./niveau.md), distants de moins de 9 m (6 {s:c}) les uns des autres  
 
 **Durée** 1 minute/[niveau](./niveau.md)  
 

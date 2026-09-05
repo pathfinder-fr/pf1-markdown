@@ -3581,7 +3581,7 @@ Categories:
 | [Interception de coups](./Interception de coups.md)* || <sup>MJRA</sup> || [Garde du corps](./Garde du corps.md) || Subir les dégâts d'une attaque réussie contre un allié adjacent
 
 |- CLASS="premier alt donprincipal"
-| [Interposition héroïque](./Interposition héroïque.md)* || <sup>*ISG*</sup> || [Dex](./Dex.md) 13, [Esquive](./Esquive.md), [Science de l'initative](./Science de linitiative.md), suivant d'un [seigneur empyréen](./../Golarion/Seigneurs empyréens.md) || Permet de se déplacer à sa vitesse pour arriver à côté d'un ennemi qui attaque un allié
+| [Interposition héroïque](./Interposition héroïque.md)* || <sup>*ISG*</sup> || [Dex](./Dex.md) 13, [Esquive](./Esquive.md), [Science de l'initative](./Science de linitiative.md), suivant d'un [seigneur empyréen](./Seigneurs empyréens.md) || Permet de se déplacer à sa vitesse pour arriver à côté d'un ennemi qui attaque un allié
 
 |- CLASS="premier donprincipal"
 | [Intimidation de meute](./Intimidation de meute.md)* || <sup>*ISR*</sup> || [Demi-orque](./Demi-orque.md), trait racial intimidant || +2 aux tests d'Intimidation visant à démoraliser pour chaque allié avec ce don dans un rayon de 9 mètres

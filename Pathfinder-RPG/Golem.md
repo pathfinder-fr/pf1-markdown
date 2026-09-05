@@ -78,7 +78,7 @@ Les golems sont dénués d’intelligence et ne font donc rien sans un ordre de 
 #### Construire un golem
 Le coût de création d’un golem inclut le prix du corps physique ainsi que celui des matériaux et des composantes de sorts nécessaires à sa fabrication. Les matériaux requis et le coût total sont indiqués dans la description des golems.
 
-*Note.* Le prix de vente d’un golem possédant plus de [dés de vie](./DV.md) que les golems typiques présentés dans les descriptions augmente de 5 000 po par [DV](./DV.md) supplémentaire, avec un accroissement supplémentaire de 50 000 po si le golem passe à une catégorie de taille supérieure. Dans le cas des golems possédant l’archétype simple « [évolué](./archétypes simples.md#CREATUREEVOLUEE) », il faut majorer le prix de 15 000 po.
+*Note.* Le prix de vente d’un golem possédant plus de [dés de vie](./../Ressources/DV.md) que les golems typiques présentés dans les descriptions augmente de 5 000 po par [DV](./../Ressources/DV.md) supplémentaire, avec un accroissement supplémentaire de 50 000 po si le golem passe à une catégorie de taille supérieure. Dans le cas des golems possédant l’archétype simple « [évolué](./archétypes simples.md#CREATUREEVOLUEE) », il faut majorer le prix de 15 000 po.
 
 
 ### Gardes animés

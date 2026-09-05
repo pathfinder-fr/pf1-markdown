@@ -4,6 +4,7 @@ Title: fragile
 LastModified: 2024-01-28 22:40
 Categories:
 - Redirection
+RedirectTo: Caractéristiques des armes#FRAGILE
 ---
 
->>> Caractéristiques des armes#FRAGILE
+>>> [Caractéristiques des armes#FRAGILE](./Caractéristiques des armes.md#FRAGILE)

@@ -12,7 +12,7 @@ Categories:
 
 **Conditions.** [École renforcée](./École renforcée.md) ([nécromancie](./Présentation des sorts.md#NECROMANCIE)), capacité à lancer *[animation des morts](./Animation des morts.md)* ou *[contrôle mineur des morts-vivants](./Contrôle mineur des morts-vivants.md)*
 
-**Avantage.** Quand le personnage lance *[animation des morts](./Animation des morts.md)* ou utilise le don [Contrôle des morts-vivants](./Contrôle des morts-vivants.md), on considère qu’il possède quatre niveaux de plus qu’en réalité quand il détermine le nombre de [dés de vie](./DV.md) à animer. La durée du *[contrôle mineur des morts-vivants](./Contrôle mineur des morts-vivants.md)* est doublée.
+**Avantage.** Quand le personnage lance *[animation des morts](./Animation des morts.md)* ou utilise le don [Contrôle des morts-vivants](./Contrôle des morts-vivants.md), on considère qu’il possède quatre niveaux de plus qu’en réalité quand il détermine le nombre de [dés de vie](./../Ressources/DV.md) à animer. La durée du *[contrôle mineur des morts-vivants](./Contrôle mineur des morts-vivants.md)* est doublée.
 
 {s:CMy}
 ### Version mythique

@@ -6,6 +6,7 @@ Categories:
 - Monstre
 - Règle officielle
 - Src Bestiaire
+RedirectTo: Wécufe
 ---
 
 e monstre appelé Huecuva en VO, a déjà été traduit dans le scénario PathFinder Society #1-29 (les rats du chantier naval) sous le nom Huécuva (seul un accent change par rapport à la VO).
@@ -13,4 +14,4 @@ Dans le Bestiaire 3, il est appelé Wécufe (p280).
 Dans Le hurlement du Roi Charognard il redevient un Huécuva.
 
 
->>> Wécufe
+>>> [Wécufe](./Wécufe.md)

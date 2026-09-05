@@ -2,6 +2,7 @@
 Name: Pathfinder-RPG.réserve dinspiration
 Title: réserve d'inspiration
 LastModified: 2016-07-24 22:01
+RedirectTo: Enquêteur#RESERVEDINSPIRATION
 ---
 
->>> Enquêteur#RESERVEDINSPIRATION
+>>> [Enquêteur#RESERVEDINSPIRATION](./Enquêteur.md#RESERVEDINSPIRATION)

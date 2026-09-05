@@ -4,6 +4,7 @@ Title: Sans défense
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: États préjudiciables#Sansdéfense
 ---
 
->>> États préjudiciables#Sansdéfense
+>>> [États préjudiciables#Sansdéfense](./États préjudiciables.md#Sansdéfense)

@@ -4,6 +4,7 @@ Title: point de résistance
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Exploration#POINTDERESISTANCE
 ---
 
->>> Exploration#POINTDERESISTANCE
+>>> [Exploration#POINTDERESISTANCE](./Exploration.md#POINTDERESISTANCE)

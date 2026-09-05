@@ -13,7 +13,7 @@ Categories:
 **Temps d'incantation** 1 [round](./round.md)
 **Composantes** [V, M](./composantes.md) (1 dose de lait de pesh)
 **Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
-**Cible** 1 créature vivante ayant 7 [DV](./DV.md) ou moins
+**Cible** 1 créature vivante ayant 7 [DV](./../Ressources/DV.md) ou moins
 **Durée** 1 jour/[niveau](./niveau.md) ou jusqu’à accomplissement ([T](./Présentation des sorts.md#DUREE))
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
 ---
@@ -27,11 +27,11 @@ Ce sort fonctionne comme *[mission](./Mission.md)*, excepté le fait que le seul
 **Temps d'incantation** 1 [round](./round.md)
 **Composantes** [V](./composantes.md)
 **Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
-**Cible** 1 créature vivante ayant 7 [DV](./DV.md) ou moins
+**Cible** 1 créature vivante ayant 7 [DV](./../Ressources/DV.md) ou moins
 **Durée** 1 jour/[niveau](./niveau.md) ou jusqu’à accomplissement ([T](./Présentation des sorts.md#DUREE))
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
 ---
-Ce sort oblige la cible à accomplir une mission, ou au contraire à la refuser, au choix du personnage. La cible, qui ne peut pas posséder plus de 7 [DV](./DV.md), doit pouvoir comprendre le lanceur de sorts. Les seules restrictions de *Mission* sont qu’il ne peut pas inciter au suicide ou à l’accomplissement d’actes conduisant immanquablement la cible à la mort.
+Ce sort oblige la cible à accomplir une mission, ou au contraire à la refuser, au choix du personnage. La cible, qui ne peut pas posséder plus de 7 [DV](./../Ressources/DV.md), doit pouvoir comprendre le lanceur de sorts. Les seules restrictions de *Mission* sont qu’il ne peut pas inciter au suicide ou à l’accomplissement d’actes conduisant immanquablement la cible à la mort.
 
 Cette dernière ne peut que suivre les instructions reçues tant que la *mission* n’est pas accomplie, sans considération de temps.
 

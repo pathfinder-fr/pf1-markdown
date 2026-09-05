@@ -449,7 +449,7 @@ Pendant des années, le personnage a utilise sa magie pour dominer la volonté d
 ---
 {s:cs}{s:ISR}{s:Reference|MAGIEBIFURQUEE}**Magie bifurquée**
 *Restriction(s):* [Demi-elfe](./Demi-elfe.md).
-Le personnage a étudié les méthodes des lanceurs de sorts aussi bien elfes qu’humains. Il choisit deux classes quand il obtient ce trait. Le personnage considère son [niveau de lanceur de sorts](./NLS.md) comme supérieur de 1 pour chacune de ces classes tant qu'il ne dépasse pas son nombre total de [Dés de vie](./DV.md). Cela ne se cumule pas avec tout autre augmentation similaire provenant de traits comme [don pour la magie](./Traits de magie.md#DONPOURLAMAGIE).
+Le personnage a étudié les méthodes des lanceurs de sorts aussi bien elfes qu’humains. Il choisit deux classes quand il obtient ce trait. Le personnage considère son [niveau de lanceur de sorts](./NLS.md) comme supérieur de 1 pour chacune de ces classes tant qu'il ne dépasse pas son nombre total de [Dés de vie](./../Ressources/DV.md). Cela ne se cumule pas avec tout autre augmentation similaire provenant de traits comme [don pour la magie](./Traits de magie.md#DONPOURLAMAGIE).
 
 ---
 {s:GC}{s:Reference|MAITREBRASSEUR}**Maître brasseur**

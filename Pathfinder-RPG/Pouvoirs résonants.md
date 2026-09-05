@@ -199,7 +199,7 @@ Les pouvoirs résonants des formes les plus communes de pierres ioun sont listé
 |-
 | 62 || Bonus de résistance +4 aux [jets de sauvegarde](./JDS.md) contre le poison.
 |-
-| 63 || [RM](./RM.md) égale aux [DV](./DV.md) -5 du porteur.
+| 63 || [RM](./RM.md) égale aux [DV](./../Ressources/DV.md) -5 du porteur.
 |-
 | 64 || Bonus de compétence de +1 sur une compétence (choisi par le créateur de la pierre).<sup>[1](./Pouvoirs résonants.md#1)</sup>
 |-

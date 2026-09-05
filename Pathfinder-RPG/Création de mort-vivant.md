@@ -16,7 +16,7 @@ Categories:
 
 **Temps d'incantation** 1 heure  
 
-**Composantes** [V, G, M](./composantes.md) (un pot d’argile contenant de la terre issue d’un tombeau et un onyx (50 po minimum) par [DV](./DV.md) de [mort-vivant](./type Mort-vivant.md))  
+**Composantes** [V, G, M](./composantes.md) (un pot d’argile contenant de la terre issue d’un tombeau et un onyx (50 po minimum) par [DV](./../Ressources/DV.md) de [mort-vivant](./type Mort-vivant.md))  
 
 **Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
 

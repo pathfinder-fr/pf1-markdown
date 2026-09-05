@@ -4,6 +4,7 @@ Title: Créature informe (Ext)
 LastModified: 2021-02-11 20:08
 Categories:
 - Redirection
+RedirectTo: Amorphe (capacité)
 ---
 
->>> Amorphe (capacité)
+>>> [Amorphe (capacité)](./Amorphe (capacité).md)

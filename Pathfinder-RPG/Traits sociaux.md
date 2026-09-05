@@ -20,7 +20,7 @@ Vous êtes très doué pour obtenir des informations. Vous gagnez un bonus de tr
 
 ---
 {s:GC}{s:Reference|AMBITIEUX}**Ambitieux**
-Vous débordez de confiance en vous, peut-être un peu trop, même en présence de gens plus puissants. Vous gagnez un bonus de trait de +4 aux tests de [Diplomatie](./Diplomatie.md) pour influencer des créatures possédant au moins 5 [DV](./DV.md) de plus que vous.
+Vous débordez de confiance en vous, peut-être un peu trop, même en présence de gens plus puissants. Vous gagnez un bonus de trait de +4 aux tests de [Diplomatie](./Diplomatie.md) pour influencer des créatures possédant au moins 5 [DV](./../Ressources/DV.md) de plus que vous.
 
 ---
 {s:APG}{s:GC}{s:Reference|ARGOT}**Argot**

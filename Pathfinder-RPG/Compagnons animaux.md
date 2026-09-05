@@ -299,7 +299,7 @@ bonus
 
 **DV.** C’est le nombre total de [dés de vie](./dés de vie.md) à huit faces (d8) que le compagnon animal possède. Son modificateur de [Constitution](./Constitution.md) s’applique à chacun de ces dés, conformément à la règle normale.
 
-**BBA.** C’est le [bonus de base à l’attaque](./BBA.md) du compagnon animal. C’est le même que celui d’un [druide](./Druide.md) de niveau égal au nombre de [DV](./DV.md) de l’animal. Un [BBA](./BBA.md) élevé ne donne pas d’attaques supplémentaires aux compagnons animaux qui utilisent leurs armes naturelles.
+**BBA.** C’est le [bonus de base à l’attaque](./BBA.md) du compagnon animal. C’est le même que celui d’un [druide](./Druide.md) de niveau égal au nombre de [DV](./../Ressources/DV.md) de l’animal. Un [BBA](./BBA.md) élevé ne donne pas d’attaques supplémentaires aux compagnons animaux qui utilisent leurs armes naturelles.
 
 **Ref/Vig/Vol.** Ce sont les bonus de base des [jets de sauvegarde](./jet de sauvegarde.md) du compagnon animal. Les compagnons animaux possèdent des jets de [Réflexes](./Réflexes.md) et de [Vigueur](./Vigueur.md) favorables.
 

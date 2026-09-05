@@ -4,6 +4,7 @@ Title: Fasciné
 LastModified: 2025-09-21 14:41
 Categories:
 - Redirection
+RedirectTo: États préjudiciables#Fasciné
 ---
 
->>> États préjudiciables#Fasciné
+>>> [États préjudiciables#Fasciné](./États préjudiciables.md#Fasciné)

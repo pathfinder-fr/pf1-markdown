@@ -23,11 +23,11 @@ Categories:
 
 **Cible** créature vivante touchée  
 
-**Durée** [instantanée](./instantanée.md)/10 minutes par [DV](./DV.md) de la cible (voir description)  
+**Durée** [instantanée](./instantanée.md)/10 minutes par [DV](./../Ressources/DV.md) de la cible (voir description)  
 
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
 
-Ce sort permet au [prêtre](./Prêtre.md) d’absorber l’énergie vitale d’une créature. *Mise à mort* ne fonctionne que sur une créature vivante se trouvant à -1 point de vie ou moins. Si la victime rate son [jet de sauvegarde](./jet de sauvegarde.md), elle décède aussitôt, tandis que le [prêtre](./Prêtre.md) gagne 1d8 points de vie temporaires et un [bonus d’altération](./bonus daltération.md) de +2 en [Force](./Force.md). De plus, son [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) augmente de +1, ce qui rend ses sorts plus efficaces (sans toutefois lui permettre d’en apprendre de nouveaux). Tous ces effets se dissipent au bout de 10 minutes par [DV](./DV.md) de la créature achevée.
+Ce sort permet au [prêtre](./Prêtre.md) d’absorber l’énergie vitale d’une créature. *Mise à mort* ne fonctionne que sur une créature vivante se trouvant à -1 point de vie ou moins. Si la victime rate son [jet de sauvegarde](./jet de sauvegarde.md), elle décède aussitôt, tandis que le [prêtre](./Prêtre.md) gagne 1d8 points de vie temporaires et un [bonus d’altération](./bonus daltération.md) de +2 en [Force](./Force.md). De plus, son [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) augmente de +1, ce qui rend ses sorts plus efficaces (sans toutefois lui permettre d’en apprendre de nouveaux). Tous ces effets se dissipent au bout de 10 minutes par [DV](./../Ressources/DV.md) de la créature achevée.
 
 ### Mythique
 {s:CMy}

@@ -4,6 +4,7 @@ Title: Tir soudain (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#TIRSOUDAIN
 ---
 
->>> Talents#TIRSOUDAIN
+>>> [Talents#TIRSOUDAIN](./Talents.md#TIRSOUDAIN)

@@ -12,7 +12,7 @@ Categories:
 {s:BDTitre|Créer une Créature empaillée|}
 {s:BDTexte|*Source : Bestiaire 5 p.68*}
 « Créature empaillée » est un archétype acquis qui peut s’ajouter sur n’importe quelle créature tangible (autre que les [morts-vivants](./type Mort-vivant.md) et les [créatures artificielles](./type Créature artificielle.md)). Cette créature tangible est ensuite appelée créature de base.
-- **FP.** Cette valeur dépend du nombre de dés de vie initial de la créature, comme indiqué dans la table suivante. Elle est également modifiée par la taille, comme indiqué dans le paragraphe [DV](./DV.md).
+- **FP.** Cette valeur dépend du nombre de dés de vie initial de la créature, comme indiqué dans la table suivante. Elle est également modifiée par la taille, comme indiqué dans le paragraphe [DV](./../Ressources/DV.md).
 
 {| CLASS="tablo centre toutgauche autoalt"
 |- CLASS="titre"
@@ -63,7 +63,7 @@ Categories:
 |-
 | C || +11
 |}
-- **Dés de vie.** Supprimez tous les [DV](./DV.md) issus de niveaux de classe (sans descendre au-dessous de 1 DV) et remplacez tous les DV raciaux par des d10. Comme les créatures empaillées sont des [créatures artificielles](./type Créature artificielle.md), elles gagnent un nombre de points de vie supplémentaires dépendant de leur taille, comme indiqué dans la table suivante. Elles gagnent également des DV supplémentaires en fonction de leur taille, comme indiqué dans la table suivante.
+- **Dés de vie.** Supprimez tous les [DV](./../Ressources/DV.md) issus de niveaux de classe (sans descendre au-dessous de 1 DV) et remplacez tous les DV raciaux par des d10. Comme les créatures empaillées sont des [créatures artificielles](./type Créature artificielle.md), elles gagnent un nombre de points de vie supplémentaires dépendant de leur taille, comme indiqué dans la table suivante. Elles gagnent également des DV supplémentaires en fonction de leur taille, comme indiqué dans la table suivante.
 
 {| CLASS="tablo centre toutgauche autoalt"
 |- CLASS="titre"
@@ -97,7 +97,7 @@ supplémentaires || pv</br>supplémentaires || Augmentation</br>du FP
 - **Attaques.** Une créature empaillée conserve les armes naturelles, les attaques avec des armes manufacturées et la maîtrise des armes de la créature de base. Elle acquiert en plus une attaque de [coup](./Attaques naturelles (capacité).md) qui inflige des dégâts basés sur sa taille.
 - **Attaques spéciales.** Une créature empaillée perd toutes les attaques spéciales de la créature de base.
 - **Valeurs de caractéristique.** [Force](./Force.md) -2, [Dextérité](./Dextérité.md) –2. Une créature empaillée n’a pas de valeur de [Constitution](./Constitution.md) ni d’[Intelligence](./Intelligence.md). Sa [Sagesse](./Sagesse.md) est de 10 et son [Charisme](./Charisme.md) de 3.
-- **BBA.** Le bonus de base à l’attaque de la créature empaillée est égal aux 3/4 de ses [DV](./DV.md), même si la plupart des [créatures artificielles](./type Créature artificielle.md) ont un bonus de base à l’attaque égal à leurs DV.
+- **BBA.** Le bonus de base à l’attaque de la créature empaillée est égal aux 3/4 de ses [DV](./../Ressources/DV.md), même si la plupart des [créatures artificielles](./type Créature artificielle.md) ont un bonus de base à l’attaque égal à leurs DV.
 - **Compétences.** Une créature empaillée n’a pas de rangs de compétence et perd tous les bonus raciaux aux tests de compétence qui ne découlent pas directement de sa forme physique.
 - **Dons.** Une créature empaillée perd tous les dons de la créature de base et n’en gagne pas quand son nombre de dés de vie augmente.
 - **Pouvoirs spéciaux.** Une créature empaillée perd la plupart des pouvoirs spéciaux de la créature de base et conserve seulement les pouvoirs extraordinaires qui améliorent ses attaques au corps à corps ou à distance.

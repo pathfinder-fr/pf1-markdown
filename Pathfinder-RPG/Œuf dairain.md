@@ -17,5 +17,5 @@ L’œuf possède une personnalité propre, excentrique et éhontée. Il peut co
 
 Une fois par jour, il peut utiliser une *[domination](./Domination.md)* (qui affecte toutes les créatures vivantes, sans se limiter aux humanoïdes) sur une créature qui se trouve en lui. De plus, il peut lancer trois fois par jour *[charme-monstre de groupe](./Charme-monstre de groupe.md)* sur les créatures qu’il contient.
 (((Destruction)))
-L’*Œuf d’airain* explose si un diable avec 20 [DV](./DV.md) ou plus entre dedans. L’œuf et toutes les créatures qu’il contient sont détruits sur-le-champ ; il est impossible de les ressusciter, à moins de recourir à un *[souhait](./Souhait.md)* ou un *[miracle](./Miracle.md)*.
+L’*Œuf d’airain* explose si un diable avec 20 [DV](./../Ressources/DV.md) ou plus entre dedans. L’œuf et toutes les créatures qu’il contient sont détruits sur-le-champ ; il est impossible de les ressusciter, à moins de recourir à un *[souhait](./Souhait.md)* ou un *[miracle](./Miracle.md)*.
 </div>

@@ -5,6 +5,7 @@ LastModified: 2023-08-29 16:33
 Categories:
 - Objet mag propriété arme
 - Redirection
+RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Lumière
 ---
 
->>> Descriptions individuelles des propriétés spéciales des armes#Lumière
+>>> [Descriptions individuelles des propriétés spéciales des armes#Lumière](./Descriptions individuelles des propriétés spéciales des armes.md#Lumière)

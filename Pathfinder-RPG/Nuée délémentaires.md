@@ -27,7 +27,7 @@ Categories:
 
 Ce sort ouvre un *[portail](./Portail.md)* vers l’un des quatre plans élémentaires. Un [druide](./Druide.md) peut sélectionner le plan de son choix (Air, Eau, Feu ou Terre), tandis qu’un [prêtre](./Prêtre.md) est limité au plan qui correspond à son [domaine](./Domaines.md).
 
-À la fin de l’incantation, 2d4 [élémentaires](./sous-type élémentaire.md) de [taille G](./taille G.md) apparaissent, suivis, dix minutes plus tard, de 1d4 [élémentaires](./sous-type élémentaire.md) de [taille TG](./taille TG.md). Enfin, dix minutes plus tard, un [élémentaire](./sous-type élémentaire.md) noble fait son apparition. Chacun a le maximum de [points de vie](./points de vie.md) par [DV](./DV.md). Les [élémentaires](./sous-type élémentaire.md) obéissent au personnage jusqu’à la fin de la durée indiquée.
+À la fin de l’incantation, 2d4 [élémentaires](./sous-type élémentaire.md) de [taille G](./taille G.md) apparaissent, suivis, dix minutes plus tard, de 1d4 [élémentaires](./sous-type élémentaire.md) de [taille TG](./taille TG.md). Enfin, dix minutes plus tard, un [élémentaire](./sous-type élémentaire.md) noble fait son apparition. Chacun a le maximum de [points de vie](./points de vie.md) par [DV](./../Ressources/DV.md). Les [élémentaires](./sous-type élémentaire.md) obéissent au personnage jusqu’à la fin de la durée indiquée.
 
 Les [élémentaires](./sous-type élémentaire.md) obéissent au lanceur de sorts qu’ils n’attaquent jamais, même si quelqu’un d’autre parvient à prendre leur contrôle. Le personnage n’a pas besoin de se [concentrer](./concentration.md) pour les diriger. Il peut les renvoyer quand il le désire, un par un ou tous ensemble.
 

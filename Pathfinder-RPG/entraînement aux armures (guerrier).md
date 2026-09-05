@@ -4,6 +4,7 @@ Title: Entraînement aux armures
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Guerrier#ENTRAINEMENTAUXARMURES
 ---
 
->>> Guerrier#ENTRAINEMENTAUXARMURES
+>>> [Guerrier#ENTRAINEMENTAUXARMURES](./Guerrier.md#ENTRAINEMENTAUXARMURES)

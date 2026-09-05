@@ -230,7 +230,7 @@ On applique le modificateur de Dextérité
 Le bonus lié à la Constitution augmente les [point de vie](./point de vie.md) du personnage, ce qui rend cette caractéristique importante pour toutes les [classes](./Classes.md). Certaines créatures, comme les [morts-vivants](./type Mort-vivant.md) et les [créatures artificielles](./type Créature artificielle.md), ne possèdent pas de valeur de Constitution. Leur modificateur pour tous les jets basés sur la Constitution est de +0. Un personnage avec une valeur de Constitution de 0 est [mort](./Mort.md).
 
 On applique le modificateur de Constitution
-- à chacun des [dés de vie](./DV.md) (un malus ne peut jamais abaisser le résultat du dé en dessous de 1 cependant : un personnage gagne toujours au moins 1 point de vie chaque fois qu’il gagne un niveau).
+- à chacun des [dés de vie](./../Ressources/DV.md) (un malus ne peut jamais abaisser le résultat du dé en dessous de 1 cependant : un personnage gagne toujours au moins 1 point de vie chaque fois qu’il gagne un niveau).
 - aux jets de [Vigueur](./Vigueur.md), pour résister aux [poisons](./poison.md), aux [maladies](./maladie.md) et aux autres menaces du même genre.
 
 Si la valeur de Constitution d’un personnage change suffisamment pour que son modificateur de Constitution soit altéré, les [points de vie](./point de vie.md) du personnage sont modifiés en conséquence (vers le haut ou vers le bas).

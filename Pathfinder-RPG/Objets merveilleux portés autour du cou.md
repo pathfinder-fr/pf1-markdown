@@ -221,7 +221,7 @@ Tous les objets merveilleux décrits ci-dessous pèsent entre 0 g et 1 kg.
 | [Leurre à tempêtes](./Leurre À Tempêtes.md) || <sup>A&E</sup> || Une fois par jour, peut conférer 50 % de chance d’échecs aux attaques à distance qui ciblent le porteur tout en permettant à ce dernier d’infliger 4d6 points de dégâts d’électricité aux créatures adjacentes, pendant 1 minute. || 5 400 po
 
 |- CLASS="premier"
-| [Talisman de dévoration spirituelle](./Talisman de dévoration spirituelle.md) || <sup>*BD*</sup> || Une fois par jour, permet de lancer *[création de gemme spirituelle](./Création de gemme spirituelle.md)*. Le porteur peut ingérer la gemme créée pour libérer l'âme piégée et obtenir une [guérison accélérée](./Guérison accélérée (capacité).md) 2 pendant autant de rounds que le nombre de [DV](./DV.md) de l'âme libérée. || 5 400 po
+| [Talisman de dévoration spirituelle](./Talisman de dévoration spirituelle.md) || <sup>*BD*</sup> || Une fois par jour, permet de lancer *[création de gemme spirituelle](./Création de gemme spirituelle.md)*. Le porteur peut ingérer la gemme créée pour libérer l'âme piégée et obtenir une [guérison accélérée](./Guérison accélérée (capacité).md) 2 pendant autant de rounds que le nombre de [DV](./../Ressources/DV.md) de l'âme libérée. || 5 400 po
 
 |- CLASS="premier"
 | [Collier de l’enfant-fée](./Collier de lEnfant-fée.md) || <sup>A&E</sup> || Confère un bonus de compétence aux tests de [Charisme](./Charisme.md) et de compétences basées sur le [Charisme](./Charisme.md) de +4 avec les gnomes, +2 avec les créatures féeriques, et un malus de -2 face à toutes les autres races. Le porteur obtient plusieurs traits raciaux des gnomes. || 6 000 po
@@ -297,7 +297,7 @@ Tous les objets merveilleux décrits ci-dessous pèsent entre 0 g et 1 kg.
 | [Amulette d’astuce magique](./amulette dastuce magique.md) || <sup>MJRA, A&E</sup> || Tant qu’elle est l’[objet fétiche](./Magicien.md#PACTEMAGIQUE) d’un [magicien](./Magicien.md), permet de préparer 3 niveaux de sort supplémentaire par jour. || 10 000 po
 
 |- CLASS="premier"
-| [Amulette de bénédiction des Aînés](./Amulette de bénédiction des Aînés.md) || <sup>*ISR*</sup> || Un porteur [gnome](./Gnome.md) n'est pas considéré comme [extraplanaire](./sous-type extraplanaire.md) au Premier Monde. Soigne 1 point de dégât létal et [non-létaux](./Blessures et mort.md#NONLETAL) toutes les minutes, jusqu'à un maximum quotidien égal au nombre de [DV](./DV.md) du porteur. Confère un bonus aux [jets de sauvegarde](./JDS.md) contre l'Affadissement. || 10 000 po
+| [Amulette de bénédiction des Aînés](./Amulette de bénédiction des Aînés.md) || <sup>*ISR*</sup> || Un porteur [gnome](./Gnome.md) n'est pas considéré comme [extraplanaire](./sous-type extraplanaire.md) au Premier Monde. Soigne 1 point de dégât létal et [non-létaux](./Blessures et mort.md#NONLETAL) toutes les minutes, jusqu'à un maximum quotidien égal au nombre de [DV](./../Ressources/DV.md) du porteur. Confère un bonus aux [jets de sauvegarde](./JDS.md) contre l'Affadissement. || 10 000 po
 
 |- CLASS="premier"
 | [Amulette des lignages](./Amulette des lignages.md) || <sup>MCA</sup> || Accorde des pouvoirs associés à un type de [lignage d’ensorceleur](./Lignages.md) dépendant du modèle, mais rend le porteur vulnérable aux effets ciblant les créatures liées à ce type de lignage. Si le porteur possède déjà le [lignage](./Ensorceleur.md#LIGNAGE) associé, il n’obtient aucun nouveau pouvoir mais le niveau effectif des siens est augmenté de 2. || —
@@ -318,7 +318,7 @@ Tous les objets merveilleux décrits ci-dessous pèsent entre 0 g et 1 kg.
 |-
 | &emsp; Maudit || <sup>MCA</sup> || Confère les effets de [misérable endurance](./lignage Maudit.md#Pouvoirs_de_lignage_0) (+2 aux [jets de sauvegarde](./JDS.md) contre les effets de charme, de froid, de peur, de feu et de sommeil) et de [regard redouté](./lignage Maudit.md#Pouvoirs_de_lignage_0) (trois fois par jour, [DD](./DD.md) 18, pendant 4 [rounds](./round.md)). || | 12 000 po
 |-
-| &emsp; Mort-vivant || <sup>MCA</sup> || Confère les effets de [bienfait de la mort](./lignage Mort-vivant.md#Pouvoirs_de_lignage_1) (résistance de 5, [RD](./RD.md) 5/- contre les dégâts [non létaux](./Blessures et mort.md#NONLETAL)) et de [toucher du tombeau](./lignage Mort-vivant.md#Pouvoirs_de_lignage_1) (trois fois par jour, moins de 8 [DV](./DV.md), pendant 4 [rounds](./round.md)). || | 12 000 po
+| &emsp; Mort-vivant || <sup>MCA</sup> || Confère les effets de [bienfait de la mort](./lignage Mort-vivant.md#Pouvoirs_de_lignage_1) (résistance de 5, [RD](./RD.md) 5/- contre les dégâts [non létaux](./Blessures et mort.md#NONLETAL)) et de [toucher du tombeau](./lignage Mort-vivant.md#Pouvoirs_de_lignage_1) (trois fois par jour, moins de 8 [DV](./../Ressources/DV.md), pendant 4 [rounds](./round.md)). || | 12 000 po
 |-
 | &emsp; Aberrant || <sup>MCA</sup> || Confère les effets de [long membres](./lignage Aberrant.md#Pouvoirs_de_lignage_1) (1,50 m) et d’[anatomie hors du commun](./lignage Aberrant.md#Pouvoirs_de_lignage_1) (25 % de chances). || | 15 000 po
 

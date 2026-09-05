@@ -4,6 +4,7 @@ Title: Regard intimidant (rage)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: pouvoirs de rage#REGARDINTIMIDANT
 ---
 
->>> pouvoirs de rage#REGARDINTIMIDANT
+>>> [pouvoirs de rage#REGARDINTIMIDANT](./Pouvoirs de rage.md#REGARDINTIMIDANT)

@@ -12,7 +12,7 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.264}
 "Squelette" est un archétype acquis qui peut être ajouté à toute créature tangible (autre qu'un mort-vivant) possédant un squelette osseux.
-- **FP.** Selon le nombre de [DV](./DV.md) voir la table suivante.
+- **FP.** Selon le nombre de [DV](./../Ressources/DV.md) voir la table suivante.
 
 <center>
 {| CLASS="tablo" WIDTH="50%"
@@ -95,7 +95,7 @@ Categories:
 |}
 </center>
 
-- **DV.** Le squelette perd tous les [DV](./DV.md) correspondant à des niveaux de classes et ses DV raciaux deviennent des d8. Si la créature de base ne possède aucun DV racial, le squelette, lui, en a 1. Si la créature de base a plus de 20 DV, elle ne peut pas être transformée en squelette par un sort d<nowiki>'</nowiki>*[animation des morts](./Animation des morts.md)*. Le squelette utilise son modificateur de [Charisme](./Charisme.md) (au lieu de celui de [Constitution](./Constitution.md)) pour déterminer ses points de vie supplémentaires.
+- **DV.** Le squelette perd tous les [DV](./../Ressources/DV.md) correspondant à des niveaux de classes et ses DV raciaux deviennent des d8. Si la créature de base ne possède aucun DV racial, le squelette, lui, en a 1. Si la créature de base a plus de 20 DV, elle ne peut pas être transformée en squelette par un sort d<nowiki>'</nowiki>*[animation des morts](./Animation des morts.md)*. Le squelette utilise son modificateur de [Charisme](./Charisme.md) (au lieu de celui de [Constitution](./Constitution.md)) pour déterminer ses points de vie supplémentaires.
 - **Jets de sauvegarde.** Les bonus de base des [jets de sauvegarde](./jet de sauvegarde.md) sont : [Réflexes](./Réflexes.md) +1 par 3 DV, [Vigueur](./Vigueur.md) +1 par 3 DV, [Volonté](./Volonté.md) +2, +1 par 2 DV.
 - **Capacités défensives.** Le squelette perd toutes les capacités défensives de la créature de base et gagne une [RD](./RD.md) 5/contondant et une immunité contre le froid. Il acquiert également toutes les immunités et les [traits des morts-vivants](./Traits des morts-vivants.md)
 - **Vitesse.** Un squelette ailé ne peut pas utiliser ses ailes pour voler. Si la créature de base volait par magie, le squelette le peut encore. Il conserve tous les autres types de mouvement de la créature de base.

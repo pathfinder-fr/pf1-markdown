@@ -112,7 +112,7 @@ Au fil de sa progression, l'exalté obtient des faveurs de la part de sa divinit
 
 Au niveau 3, l'exalté obtient la première faveur. Au niveau 6, il obtient la deuxième faveur et au niveau 9, il obtient la troisième faveur.
 
-Pour plus de détails, consultez le don [Obédience divine](./Obédience divine.md) ainsi que le [profil de chaque divinité](./Divinités.md). Lorsqu'une faveur divine permet l'utilisation d'un [pouvoir magique](./Pouvoirs magiques (capacité).md), le [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) de l'exalté pour ce pouvoir magique est égal à son niveau de personnage total. Cette capacité permet uniquement d'accéder à ces faveurs plus rapidement qu'avec le don [Obédience divine](./Obédience divine.md) seul mais elle n'octroie pas d'utilisations supplémentaires des faveurs une fois que le personnage atteint le nombre de [DV](./DV.md) nécessaire pour obtenir ces faveurs normalement.
+Pour plus de détails, consultez le don [Obédience divine](./Obédience divine.md) ainsi que le [profil de chaque divinité](./Divinités.md). Lorsqu'une faveur divine permet l'utilisation d'un [pouvoir magique](./Pouvoirs magiques (capacité).md), le [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) de l'exalté pour ce pouvoir magique est égal à son niveau de personnage total. Cette capacité permet uniquement d'accéder à ces faveurs plus rapidement qu'avec le don [Obédience divine](./Obédience divine.md) seul mais elle n'octroie pas d'utilisations supplémentaires des faveurs une fois que le personnage atteint le nombre de [DV](./../Ressources/DV.md) nécessaire pour obtenir ces faveurs normalement.
 
 {s:reference|ORATEURRELIGIEUX}
 #### Orateur religieux (Ext)

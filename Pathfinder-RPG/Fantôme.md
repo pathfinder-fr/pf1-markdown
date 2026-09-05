@@ -16,4 +16,4 @@ Categories:
 
 **Jet de sauvegarde** [Volonté](./Volonté.md) [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** Oui
 
-La victime de ce mot effet est [effrayée](./Effrayé.md) pour toute la durée du sort. Fantôme n’a pas d’effet sur les cibles de 5 [DV](./DV.md) et plus.
+La victime de ce mot effet est [effrayée](./Effrayé.md) pour toute la durée du sort. Fantôme n’a pas d’effet sur les cibles de 5 [DV](./../Ressources/DV.md) et plus.

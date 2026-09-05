@@ -5,6 +5,7 @@ LastModified: 2021-04-18 12:07
 Categories:
 - Monstre mythique
 - Src Campagnes mythiques
+RedirectTo: Dragon rouge
 ---
 
->>> Dragon rouge
+>>> [Dragon rouge](./Dragon rouge.md)

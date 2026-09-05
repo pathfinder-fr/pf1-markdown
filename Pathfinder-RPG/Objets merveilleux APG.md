@@ -132,7 +132,7 @@ vente
 |-
 | 75-82 || *[Veste du cafard](./veste du cafard.md)* || Donne ou améliore le talent [résilience](./Talents.md#RESILIENCE). Pour [roublard](./Roublard.md). || 16 000 po
 |-
-| 83-86 || *[Amulette des arts magiques](./amulette des arts magiques.md)* || Permet de convertir des sorts préparés en d'autres. Pour [magicien](./Magicien.md) [universel](./../Golarion/Écoles de magie.md#ECOLEUNIVERSELLE). || 20 000 po
+| 83-86 || *[Amulette des arts magiques](./amulette des arts magiques.md)* || Permet de convertir des sorts préparés en d'autres. Pour [magicien](./Magicien.md) [universel](./Écoles de magie.md#ECOLEUNIVERSELLE). || 20 000 po
 |-
 | 87-90 || *[Corne d'antagonisme](./corne dantagonisme.md)* || [Hébéte](./Hébété.md) un type d’ennemi juré dans un rayon de 30 mètres. 1 fois par jour. Nécessite [ennemi juré](./Rôdeur.md#ENNEMIJURE). || 20 000 po
 |-

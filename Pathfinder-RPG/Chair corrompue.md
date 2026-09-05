@@ -9,6 +9,6 @@ Categories:
 
 {s:cm}*L’ogre présente une chair malade et pourrissante, résultat de quelque difformité ou membre vestigial qui s’est nécrosé(e) puis décomposé(e) mais qui refuse de guérir ou de tomber.*
 
-**Conditions.** [Con](./Con.md) 15, 6 [DV](./DV.md), [ogre](./Ogre.md)
+**Conditions.** [Con](./Con.md) 15, 6 [DV](./../Ressources/DV.md), [ogre](./Ogre.md)
 
-**Avantages.** L’ogre gagne le pouvoir spécial de [puanteur](./Puanteur (capacité).md) ([DD](./DD.md) 10 + 1/2 ses [DV](./DV.md) + son modificateur de [Constitution](./Constitution.md)).
+**Avantages.** L’ogre gagne le pouvoir spécial de [puanteur](./Puanteur (capacité).md) ([DD](./DD.md) 10 + 1/2 ses [DV](./../Ressources/DV.md) + son modificateur de [Constitution](./Constitution.md)).

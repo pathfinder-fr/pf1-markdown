@@ -34,7 +34,7 @@ Categories:
 - [Prêtre filou](./Prêtre filou.md) : Variante du Prêtre combattant.
 - [Saint](./Saint.md) : Hybride de prêtre et d'oracle.
 </br>
-- [Dés de vie](./../Pathfinder-RPG/DV.md). Simplement :... les règles de la 3.5 en ce qui concerne le type de Dé de vie.
+- [Dés de vie](./DV.md). Simplement :... les règles de la 3.5 en ce qui concerne le type de Dé de vie.
 </br>
 - [Licorne errante](./Licorne errante.md) : Une classe pour faire évoluer une licorne...
 </br>

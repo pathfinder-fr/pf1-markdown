@@ -4,7 +4,7 @@ Title: Combustion (Ext)
 LastModified: 2010-11-20 15:58
 ---
 
-Lorsque les créatures qui disposent de cette capacité touchent un adversaire au corps à corps, elles lui infligent des dégâts de feu en plus des dégâts normaux. L’adversaire doit réussir un jet de [Réflexes](./Réflexes.md) pour éviter de prendre feu et de subir les dégâts indiqués pendant 1d4 rounds supplémentaires au début de son tour (le [DD](./DD.md) vaut 10 + la moitié du nombre de [DV](./DV.md) raciaux de la créature qui incinère + son modificateur de [Constitution](./Constitution.md)). Si
+Lorsque les créatures qui disposent de cette capacité touchent un adversaire au corps à corps, elles lui infligent des dégâts de feu en plus des dégâts normaux. L’adversaire doit réussir un jet de [Réflexes](./Réflexes.md) pour éviter de prendre feu et de subir les dégâts indiqués pendant 1d4 rounds supplémentaires au début de son tour (le [DD](./DD.md) vaut 10 + la moitié du nombre de [DV](./../Ressources/DV.md) raciaux de la créature qui incinère + son modificateur de [Constitution](./Constitution.md)). Si
 l’adversaire prend feu, il peut tenter un nouveau [jet de sauvegarde](./jet de sauvegarde.md) par la suite mais cela lui prend une [action complexe](./Action complexe.md). S’il se couche et roule au sol, il bénéficie d’un bonus de +4 à ce jet de sauvegarde. Lorsqu’un adversaire touche avec une arme naturelle ou une attaque à mains nues une créature qui dispose de cette capacité, il subit des dégâts de feu comme s’il avait été touché par la créature en question. Il doit également effectuer un jet de [Réflexes](./Réflexes.md) pour éviter de [prendre feu](./Dangers naturels.md#PRENDREFEU).
 
 *Format :* combustion (2d6, DD 15). *Emplacement :* Attaques spéciales et attaques individuelles.

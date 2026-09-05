@@ -16,7 +16,7 @@ L’intérêt du personnage pour la magie s’est développé au moment où il a
 
 ---
 {s:RSE}{s:Reference|AMATEURDIABOLIQUE}**Amateur diabolique**
-Tout animal fiélon que le personnage invoque grâce à un sort de [convocation](./branche convocation.md), quel qu’il soit, gagne +1 [point de vie](./pv.md) par [DV](./DV.md) pour la durée du sort.
+Tout animal fiélon que le personnage invoque grâce à un sort de [convocation](./branche convocation.md), quel qu’il soit, gagne +1 [point de vie](./pv.md) par [DV](./../Ressources/DV.md) pour la durée du sort.
 
 ---
 {s:GC}{s:Reference|APPRENTIRETICENT}**Apprenti réticent**
@@ -75,7 +75,7 @@ Le personnage a très rapidement su s'entourer de compagnons dévoués grâce à
 
 ---
 {s:APG}{s:GC}{s:Reference|DONPOURLAMAGIE}**Don pour la magie**
-Le personnage a été élevé (exclusivement ou en partie seulement) par une créature magique, peut-être après qu’il a été abandonné dans les bois ou parce que ses parents le laissaient souvent aux bons soins d’un serviteur magique. Grâce à cette exposition constante à la magie, il lui est facile de comprendre les mystères magiques, et cela même après s’être tourné vers d’autres centres d’intérêts et d’autres activités. Choisissez une classe lorsque le personnage acquiert ce trait. Son [niveau de lanceur de sorts](./NLS.md) dans cette classe gagne un bonus de trait de +2 tant que cela ne le fait pas dépasser le nombre de [dés de vie](./DV.md) total du personnage.
+Le personnage a été élevé (exclusivement ou en partie seulement) par une créature magique, peut-être après qu’il a été abandonné dans les bois ou parce que ses parents le laissaient souvent aux bons soins d’un serviteur magique. Grâce à cette exposition constante à la magie, il lui est facile de comprendre les mystères magiques, et cela même après s’être tourné vers d’autres centres d’intérêts et d’autres activités. Choisissez une classe lorsque le personnage acquiert ce trait. Son [niveau de lanceur de sorts](./NLS.md) dans cette classe gagne un bonus de trait de +2 tant que cela ne le fait pas dépasser le nombre de [dés de vie](./../Ressources/DV.md) total du personnage.
 
 ---
 {s:Reference|ENFANTDELALUNE}**Enfant de la lune**

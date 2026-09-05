@@ -4,6 +4,7 @@ Title: Grimpeur agile (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#GRIMPEURAGILE
 ---
 
->>> Talents#GRIMPEURAGILE
+>>> [Talents#GRIMPEURAGILE](./Talents.md#GRIMPEURAGILE)

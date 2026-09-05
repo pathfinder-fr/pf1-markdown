@@ -2,6 +2,7 @@
 Name: Pathfinder-RPG.Temp-Art-de-la-guerre
 Title: Art de la Guerre - Page de travail
 LastModified: 2020-03-09 17:58
+RedirectTo: Pathfinder-RPG.pagededestination#ANCRECREEE
 ---
 
 [Introduction](./Introduction.md)

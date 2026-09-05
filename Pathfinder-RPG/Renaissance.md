@@ -15,7 +15,7 @@ Categories:
 
 **Conditions.** Vous devez être mort et avoir été ramené à la vie ou avoir l’[historique](./Générateur dhistorique.md) Laissé pour mort ou Naissance maudite.
 
-**Avantages.** Vous ne mourrez pas tant que votre total de points de vie négatif n’atteint ou ne dépasse pas 4 + votre valeur de [Constitution](./Constitution.md). Une fois par jour, par une [action simple](./Action simple.md), vous pouvez vous obliger à continuer grâce à votre seule force de volonté. Vous gagnez 1 [point de vie temporaire](./point de vie temporaire.md) par [dé de vie](./DV.md). Ces points de vie durent dix minutes avant de disparaître.
+**Avantages.** Vous ne mourrez pas tant que votre total de points de vie négatif n’atteint ou ne dépasse pas 4 + votre valeur de [Constitution](./Constitution.md). Une fois par jour, par une [action simple](./Action simple.md), vous pouvez vous obliger à continuer grâce à votre seule force de volonté. Vous gagnez 1 [point de vie temporaire](./point de vie temporaire.md) par [dé de vie](./../Ressources/DV.md). Ces points de vie durent dix minutes avant de disparaître.
 
 **Normal.** Vous mourez quand votre total de points de vie négatifs égale ou dépasse votre valeur de Constitution.
 

@@ -32,6 +32,6 @@ Categories:
 
 **Jet de sauvegarde** [Volonté](./Volonté.md), [partiel](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
 
-Les cibles de ce sort sont [effrayées](./Effrayé.md). Si une cible réussit un jet de [Volonté](./Volonté.md), elle est seulement [secouée](./Secoué.md) pendant 1 [round](./round.md). Les créatures qui possèdent 6 [DV](./DV.md) ou plus sont [immunisées](./immunisé.md) contre ce sort.
+Les cibles de ce sort sont [effrayées](./Effrayé.md). Si une cible réussit un jet de [Volonté](./Volonté.md), elle est seulement [secouée](./Secoué.md) pendant 1 [round](./round.md). Les créatures qui possèdent 6 [DV](./../Ressources/DV.md) ou plus sont [immunisées](./immunisé.md) contre ce sort.
 
-(((Ce sort fonctionne comme *[frayeur](./Frayeur.md)*, si ce n’est qu’il affecte toutes les créatures de 6 [DV](./DV.md) ou moins se trouvant dans la [zone d’effet](./zone deffet.md).)))
+(((Ce sort fonctionne comme *[frayeur](./Frayeur.md)*, si ce n’est qu’il affecte toutes les créatures de 6 [DV](./../Ressources/DV.md) ou moins se trouvant dans la [zone d’effet](./zone deffet.md).)))

@@ -4,6 +4,7 @@ Title: virulente (propriété)
 LastModified: 2020-10-08 02:20
 Categories:
 - Redirection
+RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Virulente
 ---
 
->>> Descriptions individuelles des propriétés spéciales des armes#Virulente
+>>> [Descriptions individuelles des propriétés spéciales des armes#Virulente](./Descriptions individuelles des propriétés spéciales des armes.md#Virulente)

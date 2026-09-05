@@ -4,6 +4,7 @@ Title: Coup redoutable (rage)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: pouvoirs de rage#COUPREDOUTABLE
 ---
 
->>> pouvoirs de rage#COUPREDOUTABLE
+>>> [pouvoirs de rage#COUPREDOUTABLE](./Pouvoirs de rage.md#COUPREDOUTABLE)

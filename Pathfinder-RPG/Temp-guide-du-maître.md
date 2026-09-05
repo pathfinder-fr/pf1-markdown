@@ -2,6 +2,7 @@
 Name: Pathfinder-RPG.Temp-guide-du-maître
 Title: Temp-guide-du-maître
 LastModified: 2014-08-01 14:21
+RedirectTo: Pathfinder-RPG.pagededestination#ANCRECREEE
 ---
 
 <nav class="wiki-toc"></nav>

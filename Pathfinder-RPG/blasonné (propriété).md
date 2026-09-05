@@ -5,6 +5,7 @@ LastModified: 2024-05-18 19:10
 Categories:
 - Objet mag propriété armure
 - Redirection
+RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Blasonné
 ---
 
->>> Descriptions individuelles des propriétés spéciales des armures et des boucliers#Blasonné
+>>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Blasonné](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Blasonné)

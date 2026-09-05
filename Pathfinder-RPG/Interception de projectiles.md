@@ -4,6 +4,7 @@ Title: Interception de projectiles
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Armures magiques#Interceptiondeprojectiles
 ---
 
->>> Armures magiques#Interceptiondeprojectiles
+>>> [Armures magiques#Interceptiondeprojectiles](./Armures magiques.md#Interceptiondeprojectiles)

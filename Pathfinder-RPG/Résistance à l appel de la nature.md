@@ -4,6 +4,7 @@ Title: Résistance à l'appel de la nature
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Druide#RESISTANCEALAPPELDELANATURE
 ---
 
->>> Druide#RESISTANCEALAPPELDELANATURE
+>>> [Druide#RESISTANCEALAPPELDELANATURE](./Druide.md#RESISTANCEALAPPELDELANATURE)

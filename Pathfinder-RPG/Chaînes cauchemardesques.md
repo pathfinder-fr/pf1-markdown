@@ -9,7 +9,7 @@ Categories:
 
 {s:cs}{s:BotD}*Les chaînes sont l'héritage et le domaine d'un kyton.*
 
-**Conditions.** Sous-type [kyton](./sous-type kyton.md), 5 [DV](./DV.md) ou plus
+**Conditions.** Sous-type [kyton](./sous-type kyton.md), 5 [DV](./../Ressources/DV.md) ou plus
 
 **Avantage.** Le personnage gagne le pouvoir spécial [danse des chaînes](./Kyton.md) du kyton, excepté qu'il ne peut contrôler que deux chaînes au maximum de cette façon. Cela lui confère deux attaques de chaîne, qui infligent des dégâts comme une [chaîne cloutée](./chaîne cloutée (arme).md) adaptée à sa taille. Si le personnage possède déjà la capacité danse des chaînes, il peut contrôler deux chaînes supplémentaires.
 

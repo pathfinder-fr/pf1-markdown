@@ -4,6 +4,7 @@ Title: bousculade
 LastModified: 2023-01-18 14:33
 Categories:
 - Redirection
+RedirectTo: Manœuvres offensives#BOUSCULADE
 ---
 
->>> Manœuvres offensives#BOUSCULADE
+>>> [Manœuvres offensives#BOUSCULADE](./Manœuvres offensives.md#BOUSCULADE)

@@ -15,5 +15,5 @@ La *Bouteille des Enchaînés* renferme une armée de fiélons. Leur maître pot
 
 <u>***Voir aussi l'[histoire et les implications de cet artefact](./../Golarion/Bouteille des Enchaînés.md).***</u>
 (((Destruction)))
-La *Bouteille des Enchaînés* ne peut être détruite que si chacune des créatures qui l’occupe, y compris le daémon messager, est invoquée et tuée, et si la bouteille vide est ensuite fracassée avec une arme *[sainte](./sainte (propriété).md)* bénie par un dieu ou un [seigneur empyréen](./../Golarion/Seigneurs empyréens.md) originaire du Nirvana.
+La *Bouteille des Enchaînés* ne peut être détruite que si chacune des créatures qui l’occupe, y compris le daémon messager, est invoquée et tuée, et si la bouteille vide est ensuite fracassée avec une arme *[sainte](./sainte (propriété).md)* bénie par un dieu ou un [seigneur empyréen](./Seigneurs empyréens.md) originaire du Nirvana.
 </div>

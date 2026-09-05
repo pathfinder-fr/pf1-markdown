@@ -4,6 +4,7 @@ Title: Maîtrise des compétences (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#MAITRISECOMPETENCES
 ---
 
->>> Talents#MAITRISECOMPETENCES
+>>> [Talents#MAITRISECOMPETENCES](./Talents.md#MAITRISECOMPETENCES)

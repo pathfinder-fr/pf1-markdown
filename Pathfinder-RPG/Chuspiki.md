@@ -45,7 +45,7 @@ Categories:
 {s:BDsoustitre|Pouvoirs spéciaux}
 {s:BDtexte|**Aérocinétique simple (Mag).** Un chuspiki peut utiliser l’[aérocinétique simple](./talents sauvages.md#AÉROCINETIQUESIMPLE), comme le talent sauvage de cinétiste du même nom.}
 {s:BDtexte|**Béni des vents (Sur).** On considère qu’un chuspiki est une créature de taille G lorsqu’il s’agit de déterminer les effets que le vent produit sur lui.}
-{s:BDtexte|**Explosion d’air (Mag).** Un chuspiki peut effectuer une attaque à distance en déclenchant une puissante [explosion d’air](./talents sauvages.md#EXPLOSIONDAIR), comme s’il utilisait le talent sauvage de [cinétiste](./Cinétiste.md) du même nom, et en considérant que son niveau de cinétiste est égal à son nombre de [dés de vie](./DV.md).}
+{s:BDtexte|**Explosion d’air (Mag).** Un chuspiki peut effectuer une attaque à distance en déclenchant une puissante [explosion d’air](./talents sauvages.md#EXPLOSIONDAIR), comme s’il utilisait le talent sauvage de [cinétiste](./Cinétiste.md) du même nom, et en considérant que son niveau de cinétiste est égal à son nombre de [dés de vie](./../Ressources/DV.md).}
 {s:BDtexte|**Forme venteuse (Sur).** Trois fois par jour, par une [action immédiate](./Action immédiate.md), un chuspiki peut prendre une forme immatérielle pendant 1 [round](./round.md). Il obtient une [RD](./RD.md) 10/magie et une [immunité](./Immunité (capacité).md) contre le [poison](./Poisons.md), les [attaques sournoises](./attaque sournoise.md) et les [coups critiques](./coup critique.md). Il ne peut pas attaquer ou utiliser ses pouvoirs magiques, à l’exception de l’aérocinétique simple, tant qu’il est sous forme venteuse.}
 </div>
 </td>

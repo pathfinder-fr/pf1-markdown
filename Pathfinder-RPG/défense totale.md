@@ -4,6 +4,7 @@ Title: défense totale
 LastModified: 2025-09-01 09:48
 Categories:
 - Redirection
+RedirectTo: Actions simples#DEFENSETOTALE
 ---
 
->>> Actions simples#DEFENSETOTALE
+>>> [Actions simples#DEFENSETOTALE](./Actions simples.md#DEFENSETOTALE)

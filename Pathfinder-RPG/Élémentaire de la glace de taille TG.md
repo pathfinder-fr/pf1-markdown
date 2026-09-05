@@ -4,6 +4,7 @@ Title: Élémentaire de la glace de taille TG
 LastModified: 2020-09-17 02:01
 Categories:
 - Redirection
+RedirectTo: Élémentaire de la glace#_3
 ---
 
->>> Élémentaire de la glace#_3
+>>> [Élémentaire de la glace#_3](./Élémentaire de la glace.md#_3)

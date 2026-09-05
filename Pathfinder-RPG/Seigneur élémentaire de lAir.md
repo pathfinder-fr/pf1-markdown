@@ -4,6 +4,7 @@ Title: Seigneur élémentaire de l'Air
 LastModified: 2020-09-17 02:04
 Categories:
 - Redirection
+RedirectTo: Élémentaire de lAir#_5
 ---
 
->>> Élémentaire de lAir#_5
+>>> [Élémentaire de lAir#_5](./Élémentaire de lAir.md#_5)

@@ -4,6 +4,7 @@ Title: Subtilisation au combat (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#SUBTILISATIONAUCOMBAT
 ---
 
->>> Talents#SUBTILISATIONAUCOMBAT
+>>> [Talents#SUBTILISATIONAUCOMBAT](./Talents.md#SUBTILISATIONAUCOMBAT)

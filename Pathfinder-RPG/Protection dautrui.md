@@ -52,7 +52,7 @@ Ce sort reproduit la protection maternelle dont fait preuve la déesse mère nai
 **Cible** 1 créature
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
 ---
-Ce sort fonctionne comme *[protection d’autrui](./Protection dautrui.md)*, à l’exception du fait que certaines des blessures du personnage se transfèrent à la créature ciblée, et non le contraire. Il peut par exemple se lier à un esclave enchaîné proche, ce qui fait que s’il est blessé, une partie des dégâts subis se reporteront sur l’esclave. Le personnage doit avoir au moins autant de [dés de vie](./DV.md) que sa cible, sinon le sort échoue. Une créature ne peut être sous l’effet que d’un seul sort de *blessure sympathique* à la fois.
+Ce sort fonctionne comme *[protection d’autrui](./Protection dautrui.md)*, à l’exception du fait que certaines des blessures du personnage se transfèrent à la créature ciblée, et non le contraire. Il peut par exemple se lier à un esclave enchaîné proche, ce qui fait que s’il est blessé, une partie des dégâts subis se reporteront sur l’esclave. Le personnage doit avoir au moins autant de [dés de vie](./../Ressources/DV.md) que sa cible, sinon le sort échoue. Une créature ne peut être sous l’effet que d’un seul sort de *blessure sympathique* à la fois.
 
 ## [Bouclier involontaire](./Bouclier involontaire.md)
 {s:APG}**École** [Nécromancie](./Nécromancie.md) ;** Niveau** [Bard](./Barde.md) 5, [Hyp](./Hypnotiseur.md) 5, [Inq](./Inquisiteur.md) 5, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 6, [Occ](./Occultiste.md) 5, [Psy](./Psychiste.md) 6, [Sor](./Sorcière.md) 6, [Spi](./Spirite.md) 6

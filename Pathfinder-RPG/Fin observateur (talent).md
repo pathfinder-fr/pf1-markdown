@@ -4,6 +4,7 @@ Title: Fin observateur (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#FINOBSERVATEUR
 ---
 
->>> Talents#FINOBSERVATEUR
+>>> [Talents#FINOBSERVATEUR](./Talents.md#FINOBSERVATEUR)

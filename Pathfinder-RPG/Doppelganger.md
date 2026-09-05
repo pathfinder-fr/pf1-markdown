@@ -38,7 +38,7 @@ Categories:
 {s:BDTexte|**Trésor** équipement de PNJ}
 {s:BDSousTitre|Particularités}
 {s:BDTexte|**Copie parfaite (Sur)** Lorsqu'un doppelganger utilise sa capacité de [changement de forme](./Changement de forme (capacité).md), il peut prendre l'apparence d'individus spécifiques.}
-{s:BDTexte|**Mimétisme (Ext).** Les doppelgangers sont formés au maniement de toutes les armes et au port de toutes les armures et de tous les boucliers. Ils peuvent également utiliser n'importe quel [objet à potentiel magique](./Règles relatives aux objets magiques.md#OBJETSAPOTENTIELMAGIQUE) ou [à fin d'incantation](./Règles relatives aux objets magiques.md#OBJETSAFINDINCANTATION) comme si les sorts concernés se trouvaient sur leur liste de sorts. Leur [NLS](./NLS.md) est égal à leur nombre de [DV](./DV.md).}
+{s:BDTexte|**Mimétisme (Ext).** Les doppelgangers sont formés au maniement de toutes les armes et au port de toutes les armures et de tous les boucliers. Ils peuvent également utiliser n'importe quel [objet à potentiel magique](./Règles relatives aux objets magiques.md#OBJETSAPOTENTIELMAGIQUE) ou [à fin d'incantation](./Règles relatives aux objets magiques.md#OBJETSAFINDINCANTATION) comme si les sorts concernés se trouvaient sur leur liste de sorts. Leur [NLS](./NLS.md) est égal à leur nombre de [DV](./../Ressources/DV.md).}
 </div>
 </td><td><div>*La tête étroite, les membres décharnés et le visage sans nez de cet être grisâtre lui donnent l’apparence d’une sculpture inachevée.*
 

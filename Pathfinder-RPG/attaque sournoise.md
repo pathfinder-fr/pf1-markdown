@@ -4,6 +4,7 @@ Title: attaque sournoise
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Roublard#ATTAQUESOURNOISE
 ---
 
->>> Roublard#ATTAQUESOURNOISE
+>>> [Roublard#ATTAQUESOURNOISE](./Roublard.md#ATTAQUESOURNOISE)

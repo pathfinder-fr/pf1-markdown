@@ -36,7 +36,7 @@ Categories:
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Maladie (Sur).** Les shas sont porteurs de terribles maladies qu’ils transmettent par le biais de leurs morsures et qui font généralement sombrer leurs victimes dans la démence, les transformant en parfaits idiots ou en fous hallucinés.}
 {s:BDTexte|* *Grain de folie* : Morsure — blessure ; *JdS* [Vigueur](./Vigueur.md) DD 15 ; *incubation* 1d3 jours ; *fréquence* 1/jour ; *effet* [affaiblissement temporaire](./affaiblissement temporaire (capacité).md) de 1d4 [Sagesse](./Sagesse.md) et de 1d4 [Charisme](./Charisme.md) ; *guérison* 2 réussites consécutives.}
-{s:BDTexte|**Tempête de sable (Sur).** Une fois par jour, par une [action complexe](./Action complexe.md), un sha peut créer une [tempête de sable](./Climat.md#Tempêtes_2). Cette tempête de sable se déchaîne dans un rayon de 30 mètres autour du sha et dure 1 minute par [dés de vie](./DV.md) de la créature (6 minutes pour un sha classique).}
+{s:BDTexte|**Tempête de sable (Sur).** Une fois par jour, par une [action complexe](./Action complexe.md), un sha peut créer une [tempête de sable](./Climat.md#Tempêtes_2). Cette tempête de sable se déchaîne dans un rayon de 30 mètres autour du sha et dure 1 minute par [dés de vie](./../Ressources/DV.md) de la créature (6 minutes pour un sha classique).}
 {s:BDTexte|**Vision dans les tempêtes de sable (Sur).** Un sha peut voir clairement dans une [tempête de sable](./Climat.md#Tempêtes_2) naturelle ou créée par lui-même ou un autre sha qui utilise son pouvoir tempête de sable.}
 
 </div></td>

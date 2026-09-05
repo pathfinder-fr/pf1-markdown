@@ -80,7 +80,7 @@ vie et un [FP](./FP.md) de 1.
 **L’oiseau-terreur.** Les oiseaux-terreurs font 30 cm de plus
 que le fer de hache moyen et leurs serres puissantes leur
 servent d’armes supplémentaires. Ce sont des fers de hache
-[évolués](./Archétypes-ashx.md#Créature_évoluée_FP_+B_0) avec 5 [DV](./DV.md) qui gagnent [Science du critique](./Science du critique.md) (morsure)
+[évolués](./Archétypes-ashx.md#Créature_évoluée_FP_+B_0) avec 5 [DV](./../Ressources/DV.md) qui gagnent [Science du critique](./Science du critique.md) (morsure)
 comme don supplémentaire. Ils ont également deux attaques
 naturelles supplémentaires grâce à une paire de serres
 infligeant des dégâts de base de 1d4 chacune. Les oiseaux-terreurs

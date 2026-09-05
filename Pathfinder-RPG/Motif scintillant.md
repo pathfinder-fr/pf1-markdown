@@ -24,7 +24,7 @@ Categories:
 
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 
-Un groupement de lueurs étincelantes et discordantes parcourt les airs, affectant les créatures situées dans la [zone d’effet](./zone deffet.md). Le sort peut affecter un nombre total de [dés de vie](./dés de vie.md) de créatures égal au [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) (maximum 20). Les créatures possédant le moins de [DV](./DV.md) sont les premières affectées. En cas d’égalité, les plus proches du point d’origine sont atteintes en priorité. Le sort affecte chaque sujet selon ses [dés de vie](./dés de vie.md) :
+Un groupement de lueurs étincelantes et discordantes parcourt les airs, affectant les créatures situées dans la [zone d’effet](./zone deffet.md). Le sort peut affecter un nombre total de [dés de vie](./dés de vie.md) de créatures égal au [niveau de lanceur de sorts](./niveau de lanceur de sorts.md) (maximum 20). Les créatures possédant le moins de [DV](./../Ressources/DV.md) sont les premières affectées. En cas d’égalité, les plus proches du point d’origine sont atteintes en priorité. Le sort affecte chaque sujet selon ses [dés de vie](./dés de vie.md) :
 
 **6 ou moins.** [Inconscience](./Inconscient.md) pendant 1d4 rounds, puis [étourdissement](./Étourdi.md) pendant 1d4 [rounds](./round.md) et, enfin, [confusion](./Confus.md) pendant 1d4 [rounds](./round.md). Pour les créatures non-vivantes, considérez l’[inconscience](./Inconscient.md) comme de l’[étourdissement](./Étourdi.md).
 

@@ -20,7 +20,7 @@ Categories:
 {s:BDtexte|**Init** +7 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +9}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 19, contact 19, pris au dépourvu 15 (Dex +3, esquive +1, parade +5)}
-{s:BDtexte|**pv** 70 (6 [DV](./DV.md) ; 3d10+3d8+36)}
+{s:BDtexte|**pv** 70 (6 [DV](./../Ressources/DV.md) ; 3d10+3d8+36)}
 {s:BDtexte|**Réf** +9, **Vig** +9, **Vol** +5 ; +1 contre la terreur}
 {s:BDtexte|**Capacités défensives** [courage +1](./Guerrier.md#COURAGE), [esquive totale +1](./Roublard.md#ESQUIVETOTALE), [intangible](./Intangible (capacité).md), [reconstruction](./Fantôme, archétype.md), [résistance à la canalisation +4](./Résistance à la canalisation (capacité).md) ; **Immunités** [traits des morts-vivants](./Traits des morts-vivants (capacité).md)}
 {s:BDsoustitre|Attaque}

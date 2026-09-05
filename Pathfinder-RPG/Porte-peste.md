@@ -27,4 +27,4 @@ Categories:
 
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) (inoffensif) ; **Résistance à la magie** oui
 
-Les [attaques naturelles](./attaque naturelle.md) de la cible transmettent la [fièvre des marais](./maladie.md) ([DD](./DD.md) 10 + 1/2 [DV](./DV.md) de la créature + modificateur de [Con](./Constitution.md) de la créature).
+Les [attaques naturelles](./attaque naturelle.md) de la cible transmettent la [fièvre des marais](./maladie.md) ([DD](./DD.md) 10 + 1/2 [DV](./../Ressources/DV.md) de la créature + modificateur de [Con](./Constitution.md) de la créature).

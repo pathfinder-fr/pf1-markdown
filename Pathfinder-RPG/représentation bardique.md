@@ -4,6 +4,7 @@ Title: représentation bardique
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: barde#REPRESENTATIONBARDIQUE
 ---
 
->>> barde#REPRESENTATIONBARDIQUE
+>>> [barde#REPRESENTATIONBARDIQUE](./Barde.md#REPRESENTATIONBARDIQUE)

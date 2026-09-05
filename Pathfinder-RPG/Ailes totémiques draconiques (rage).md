@@ -4,6 +4,7 @@ Title: Ailes totémiques draconiques
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Pouvoirs de rage#AILESTOTEMIQUESDRACONIQUES
 ---
 
->>> Pouvoirs de rage#AILESTOTEMIQUESDRACONIQUES
+>>> [Pouvoirs de rage#AILESTOTEMIQUESDRACONIQUES](./Pouvoirs de rage.md#AILESTOTEMIQUESDRACONIQUES)

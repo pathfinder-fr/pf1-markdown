@@ -4,6 +4,7 @@ Title: points d’expérience
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Vocabulaire courant#POINTSDEXPERIENCE
 ---
 
->>> Vocabulaire courant#POINTSDEXPERIENCE
+>>> [Vocabulaire courant#POINTSDEXPERIENCE](./Vocabulaire courant.md#POINTSDEXPERIENCE)

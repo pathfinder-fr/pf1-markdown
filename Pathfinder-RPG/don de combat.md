@@ -4,6 +4,7 @@ Title: don de combat
 LastModified: 2025-05-05 13:53
 Categories:
 - Redirection
+RedirectTo: Dons#DONCOMBAT
 ---
 
->>> Dons#DONCOMBAT
+>>> [Dons#DONCOMBAT](./Dons.md#DONCOMBAT)

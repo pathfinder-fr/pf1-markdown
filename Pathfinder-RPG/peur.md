@@ -4,6 +4,7 @@ Title: peur
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: terreur (capacité)
 ---
 
->>> terreur (capacité)
+>>> [terreur (capacité)](./Terreur (capacité).md)

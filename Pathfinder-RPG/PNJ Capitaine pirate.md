@@ -20,7 +20,7 @@ Categories:
 {s:BDtexte|**Init** +5 ; [Perception](./Perception.md) -1}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 17, contact 12, pris au dépourvu 15 (armure +5, Dex +1, esquive +1)}
-{s:BDtexte|**pv** 41 (6 [DV](./DV.md) ; 5d10+1d8+5)}
+{s:BDtexte|**pv** 41 (6 [DV](./../Ressources/DV.md) ; 5d10+1d8+5)}
 {s:BDtexte|**Réf** +4, **Vig** +6, **Vol** +0 ; +1 contre la terreur}
 {s:BDtexte|**Capacités défensives** [courage +1](./Guerrier.md#COURAGE)}
 {s:BDsoustitre|Attaque}

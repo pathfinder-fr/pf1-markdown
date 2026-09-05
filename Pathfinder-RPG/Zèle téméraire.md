@@ -15,7 +15,7 @@ Categories:
 
 **Conditions.** Il faut qu’un membre du clergé de haut rang vous ait ordonné champion sacré (ou laïque) de votre religion ou que vous ayez l’[historique](./Générateur dhistorique.md) Dévoué, Messager de la foi ou Dette morale. Ce genre d’honneur dépasse de loin le serment que l’on exige des [prêtres](./Prêtre.md) et des [paladins](./Paladin.md).
 
-**Avantages.** Une fois par jour, vous pouvez ajouter un bonus de +2 à un unique [jet d’attaque](./jet dattaque.md), test de [niveau de lanceur de sorts](./NLS.md), [jet de sauvegarde](./JDS.md) ou test de [compétence](./Compétences.md). Vous devez choisir si vous ajoutez ou non le bonus après avoir lancé le dé et appris votre succès ou votre échec mais avant que ses résultats ne soient déterminés aux dés puis appliquer (des dégâts, par exemple). Si vous avez au moins dix niveaux ou [DV](./DV.md), ce bonus passe à +4.
+**Avantages.** Une fois par jour, vous pouvez ajouter un bonus de +2 à un unique [jet d’attaque](./jet dattaque.md), test de [niveau de lanceur de sorts](./NLS.md), [jet de sauvegarde](./JDS.md) ou test de [compétence](./Compétences.md). Vous devez choisir si vous ajoutez ou non le bonus après avoir lancé le dé et appris votre succès ou votre échec mais avant que ses résultats ne soient déterminés aux dés puis appliquer (des dégâts, par exemple). Si vous avez au moins dix niveaux ou [DV](./../Ressources/DV.md), ce bonus passe à +4.
 
 **Objectif.** Mourir au nom de votre foi et revenir d’entre les morts. Si vous mourez dans des circonstances sans rapport avec votre religion, vous ne gagnez aucun avantage. Si votre [MJ](./MJ.md) est d’accord, vous pouvez créer un nouveau [PJ](./PJ.md) qui a reçu l’inspiration en voyant votre sacrifice héroïque au lieu de ressusciter.
 

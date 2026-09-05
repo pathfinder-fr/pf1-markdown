@@ -36,7 +36,7 @@ LastModified: 2017-07-02 20:26
 {s:BDTexte|**Trésor** équipement de PNJ (kukri, 10 shuriken, autre trésor)}
 {s:BDSousTitre|Pouvoirs Spéciaux}
 {s:BDTexte|**Toxique (Ext).** Chaque jour, un nombre de fois égal à son [modificateur de Constitution](./Caractéristiques.md#Déterminer_les_modificateurs_8) (minimum 1/jour), le vishkanya peut empoisonner une arme qu’il manie avec son sang ou sa salive toxiques (pour utiliser son sang, le vishkanya doit être blessé lorsqu’il fait appel à cette capacité). Cette application de poison est une [action rapide](./Action rapide.md).}
-{s:BDTexte|*Venin de vishkanya* : blessure ; *Jds* [Vigueur](./jet de sauvegarde.md) [DD](./DD.md) 10 + 1/2 [DV](./DV.md) du vishkanya + [modificateur de Constitution](./Caractéristiques.md#Déterminer_les_modificateurs_8) ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d2 [Dex](./Dextérité.md) ; *guérison* 1 réussite}
+{s:BDTexte|*Venin de vishkanya* : blessure ; *Jds* [Vigueur](./jet de sauvegarde.md) [DD](./DD.md) 10 + 1/2 [DV](./../Ressources/DV.md) du vishkanya + [modificateur de Constitution](./Caractéristiques.md#Déterminer_les_modificateurs_8) ; *fréquence* 1/round pendant 6 rounds ; *effet* [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d2 [Dex](./Dextérité.md) ; *guérison* 1 réussite}
 {s:BDTexte|**Utilisation des poisons (Ext).** Les vishkanyas sont doués avec les poisons et ne s’empoisonnent jamais accidentellement lorsqu’ils utilisent ou appliquent du poison.}
 </div>
 </td><td><div>*Cette femme mince porte des vêtements amples et brandit une lame apparemment dangereuse. Ses yeux sont deux orbes d’un blanc pur.*
@@ -51,7 +51,7 @@ Les vishkanyas se définissent par leurs niveaux de classe ; ils n’ont pas de 
 - **[Vision nocturne](./vision nocturne.md).** Les vishkanyas peuvent voir deux fois plus loin qu’un humain dans une faible luminosité.
 - **Sens aiguisés.** Les vishkanyas ont un bonus racial de +2 à leurs tests de [Perception](./Perception.md).
 - **Souplesse.** Le vishkanya gagne un bonus racial de +2 à ses tests d’[Évasion](./Évasion.md) et de [Discrétion](./Discrétion.md).
-- **Résistance au poison.** Le vishkanya a un bonus racial aux [jets de sauvegarde](./jet de sauvegarde.md) contre le poison égal à son nombre de [dés de vie](./DV.md).
+- **Résistance au poison.** Le vishkanya a un bonus racial aux [jets de sauvegarde](./jet de sauvegarde.md) contre le poison égal à son nombre de [dés de vie](./../Ressources/DV.md).
 - **Utilisation des poisons.** Voir plus haut.
 - **Toxique.** Voir plus haut.
 - **Apprentissages martial.** Les vishkanyas sont toujours formés au maniement des sarbacanes, des kukris et des shurikens.

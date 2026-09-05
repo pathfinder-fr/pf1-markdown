@@ -18,11 +18,11 @@ Categories:
 **Temps d'incantation** 1 [round](./round.md)
 **Composantes** [V](./composantes.md)
 **Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))
-**Cible** 1 créature vivante ayant 7 [DV](./DV.md) ou moins
+**Cible** 1 créature vivante ayant 7 [DV](./../Ressources/DV.md) ou moins
 **Durée** 1 jour/[niveau](./niveau.md) ou jusqu’à accomplissement ([T](./Présentation des sorts.md#DUREE))
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
 ---
-Ce sort oblige la cible à accomplir une mission, ou au contraire à la refuser, au choix du personnage. La cible, qui ne peut pas posséder plus de 7 [DV](./DV.md), doit pouvoir comprendre le lanceur de sorts. Les seules restrictions de *Mission* sont qu’il ne peut pas inciter au suicide ou à l’accomplissement d’actes conduisant immanquablement la cible à la mort.
+Ce sort oblige la cible à accomplir une mission, ou au contraire à la refuser, au choix du personnage. La cible, qui ne peut pas posséder plus de 7 [DV](./../Ressources/DV.md), doit pouvoir comprendre le lanceur de sorts. Les seules restrictions de *Mission* sont qu’il ne peut pas inciter au suicide ou à l’accomplissement d’actes conduisant immanquablement la cible à la mort.
 
 Cette dernière ne peut que suivre les instructions reçues tant que la *mission* n’est pas accomplie, sans considération de temps.
 
@@ -44,7 +44,7 @@ Les sorts suivants mettent un terme à *mission* (et aux malus qui l’accompagn
 **Durée** 1 jour/[niveau](./niveau.md) ou jusqu’à accomplissement ([T](./Présentation des sorts.md#DUREE))
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 ---
-Ce sort est semblable à *[mission](./Mission.md)*, si ce n’est qu’il affecte un nombre de [DV](./DV.md) de la créature illimité et n’autorise aucun [jet de sauvegarde](./jet de sauvegarde.md).
+Ce sort est semblable à *[mission](./Mission.md)*, si ce n’est qu’il affecte un nombre de [DV](./../Ressources/DV.md) de la créature illimité et n’autorise aucun [jet de sauvegarde](./jet de sauvegarde.md).
 
 Si le sujet ne peut accomplir sa *quête* pendant vingt-quatre heures, il subit un malus de -3 à chaque valeur de caractéristique. Ces malus s’accumulent chaque jour, jusqu’à un total de -12, mais les valeurs de caractéristiques ne descendent jamais en dessous de 1. Ces malus disparaissent vingt-quatre heures après que le sujet s’est réattelé à sa *quête*.
 

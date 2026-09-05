@@ -4,6 +4,7 @@ Title: Bombe acide (découverte)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: découvertes#BOMBEACIDE
 ---
 
->>> découvertes#BOMBEACIDE
+>>> [découvertes#BOMBEACIDE](./découvertes.md#BOMBEACIDE)

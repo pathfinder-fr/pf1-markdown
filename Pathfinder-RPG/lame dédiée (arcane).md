@@ -5,6 +5,7 @@ LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
 - Règles officielles
+RedirectTo: arcanes#LAMEDEDIEE
 ---
 
->>> arcanes#LAMEDEDIEE
+>>> [arcanes#LAMEDEDIEE](./arcanes.md#LAMEDEDIEE)

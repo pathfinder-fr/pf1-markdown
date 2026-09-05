@@ -4,6 +4,7 @@ Title: Attaque redirigée (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#ATTAQUEREDIRIGÉE
 ---
 
->>> Talents#ATTAQUEREDIRIGÉE
+>>> [Talents#ATTAQUEREDIRIGÉE](./Talents.md#ATTAQUEREDIRIGÉE)

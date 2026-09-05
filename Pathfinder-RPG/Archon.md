@@ -59,4 +59,4 @@ Les archons parlent le céleste, le draconique et l’infernal mais peuvent comm
 
 ### Les seigneurs empyréens archons
 Parmi les seigneurs empyréens (les héros du Bien et les dirigeants des royaumes sacrés), on retrouve plusieurs archons puissants. Ces créatures uniques ont évolué au-delà des catégories standard d’archons et répandent la paix, la vertu et l’ordre en réalisant des actions subtiles ou prenant la tête d’armées divines. Ils combattent tous ceux qui cherchent à corrompre ce qui est juste.
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs Empyréens](./../Golarion/Seigneurs empyréens.md).***</li></ul>
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs Empyréens](./Seigneurs empyréens.md).***</li></ul>

@@ -55,7 +55,7 @@ Les  sylphes  ont  tendance  à  être  des  individus  timides  et solitaires q
 Les sylphes sont caractérisés par leurs niveaux de  classe  et  ne  possèdent  aucun  DV  racial.  Ils partagent les traits raciaux suivants :
 - **Dex +2, Int +2, Con –2.** Les sylphes sont rapides et intelligents mais minces et fragiles.
 - **Vision dans le noir.** Les  sylphes  peuvent  voir dans le noir jusqu’à une distance de 18 mètres.
-- **Pouvoir magique.** [Feuille morte](./Feuille morte.md) 1/jour ([NLS](./NLS.md) égal au nombre de [DV](./DV.md) du sylphe).
+- **Pouvoir magique.** [Feuille morte](./Feuille morte.md) 1/jour ([NLS](./NLS.md) égal au nombre de [DV](./../Ressources/DV.md) du sylphe).
 - **Résistance à l'énergie.** Les  sylphes  bénéficient d’une résistance à l’électricité de 5 points.
 - **Affinité avec l'air.** Voir ci-contre.
 - **Langues.** Les sylphes entrent en jeu en sachant parler le commun et l’aérien. Les sylphes dotés d’une Intelligence élevée peuvent choisir des [langues supplémentaires](./Linguistique.md) parmi la liste suivante : aquatique, elfe, gnome, halfelin, igneux, nain, terreux.

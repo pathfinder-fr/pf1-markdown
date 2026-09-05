@@ -5,6 +5,7 @@ LastModified: 2020-02-20 18:57
 Categories:
 - Propriété arme
 - Redirection
+RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Mimétisme
 ---
 
->>> Descriptions individuelles des propriétés spéciales des armes#Mimétisme
+>>> [Descriptions individuelles des propriétés spéciales des armes#Mimétisme](./Descriptions individuelles des propriétés spéciales des armes.md#Mimétisme)

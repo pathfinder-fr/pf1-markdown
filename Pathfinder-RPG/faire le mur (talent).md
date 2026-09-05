@@ -4,6 +4,7 @@ Title: faire le mur (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#FAIRELEMUR
 ---
 
->>> Talents#FAIRELEMUR
+>>> [Talents#FAIRELEMUR](./Talents.md#FAIRELEMUR)

@@ -57,4 +57,4 @@ que les agathions communs ( jusqu’au double de la taille normale dans certains
 - Sixvies la Fureur violète (silvanshie)
 - Marche-avec-les-Étoiles-dorées (draconal)
 
-<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs Empyréens](./../Golarion/Seigneurs empyréens.md).***</li></ul>
+<ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs Empyréens](./Seigneurs empyréens.md).***</li></ul>

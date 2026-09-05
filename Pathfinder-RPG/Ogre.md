@@ -129,7 +129,7 @@ Que ce soit le résultat d’une reproduction consanguine, d’expérimentations
 #### À pointes (FP +0)
 Ces grands ogres tous fins ont une peau épaisse, semblable à de l’écorce, et leur corps est recouvert d’excroissances piquantes tandis que leurs mains se terminent sur des griffes acérées comme des épines.
 
-**Règles rapides.** +2 à la [CA](./CA.md), -1 [pv](./pv.md)/[DV](./DV.md) et -1 aux jets de [Vigueur](./Vigueur.md) et de [Constitution](./Constitution.md). Ils gagnent 2 attaques de griffe (1d6) et un bonus racial de +4 aux tests de [Discrétion](./Discrétion.md) en forêt.
+**Règles rapides.** +2 à la [CA](./CA.md), -1 [pv](./pv.md)/[DV](./../Ressources/DV.md) et -1 aux jets de [Vigueur](./Vigueur.md) et de [Constitution](./Constitution.md). Ils gagnent 2 attaques de griffe (1d6) et un bonus racial de +4 aux tests de [Discrétion](./Discrétion.md) en forêt.
 
 **Règles de reconstruction.** **Valeurs de caractéristique** [Constitution](./Constitution.md) -2, bonus d’armure naturelle +2 ; *Attaque* ils gagnent 2 attaques de griffe (1d6) ; **Spécial** bonus racial de +4 aux tests de [Discrétion](./Discrétion.md) en forêt.
 
@@ -197,7 +197,7 @@ Voici quelques dons accessibles aux ogres.
 | [Brute rageuse](./Brute rageuse.md) || <sup>CM</sup> || [For](./For.md) 21, [ogre](./Ogre.md) || Gain d'un pouvoir de rage et capacité à entrer en rage 1 fois/jour
 
 |- CLASS="premier"
-| [Chair corrompue](./Chair corrompue.md) || <sup>CM</sup> || [Con](./Con.md) 15, 6 [DV](./DV.md), [ogre](./Ogre.md) || Gain du pouvoir de puanteur
+| [Chair corrompue](./Chair corrompue.md) || <sup>CM</sup> || [Con](./Con.md) 15, 6 [DV](./../Ressources/DV.md), [ogre](./Ogre.md) || Gain du pouvoir de puanteur
 
 |- CLASS="premier"
 | [Critique sauvage](./Critique sauvage.md) || <sup>CM</sup> || [For](./For.md) 19, [ogre](./Ogre.md), [attaque sournoise](./attaque sournoise.md) +2d6 || Ajoute les dégâts d'attaque sournoise lors d'une Frappe décisive critique
@@ -209,7 +209,7 @@ Voici quelques dons accessibles aux ogres.
 | [Gobeur glouton](./Gobeur glouton.md) || <sup>CM</sup> || [Science du combat à mains nues](./Science du combat à mains nues.md) et [Science de la lutte](./Science de la lutte.md), ou pouvoir [étreinte](./Étreinte (capacité).md), [ogre](./Ogre.md), taille G ou plus || Le personnage agrippe les créatures plus petite dans sa bouche
 
 |- CLASS="premier"
-| [Souffle fétide](./Souffle fétide.md) || <sup>CM</sup> || [Con](./Con.md) 15, [Chair corrompue](./Chair corrompue.md), 6 [DV](./DV.md), [ogre](./Ogre.md) || Souffle un cône d'air fétide et de flegme
+| [Souffle fétide](./Souffle fétide.md) || <sup>CM</sup> || [Con](./Con.md) 15, [Chair corrompue](./Chair corrompue.md), 6 [DV](./../Ressources/DV.md), [ogre](./Ogre.md) || Souffle un cône d'air fétide et de flegme
 
 |- CLASS="premier"
 | [Tête vestigiale](./Tête vestigiale.md) || <sup>CM</sup> || [Ogre](./Ogre.md) || Une tête vestigiale rabougrie aide à résister aux effets subits par un jet de Volonté raté

@@ -208,7 +208,7 @@ Bien que le personnage n'ait pas reçu d'éducation traditionnelle, il est doté
 
 ---
 {s:ISG}{s:GeM}{s:Reference|CONCENTRATIONEMPYREENNE}**Concentration empyréenne**
-*Restriction(s):* [Seigneur empyréen](./../Golarion/Seigneurs empyréens.md).
+*Restriction(s):* [Seigneur empyréen](./Seigneurs empyréens.md).
 Le dévouement du personnage à la liberté épousée par les seigneurs empyréens lui confère un bienfait ponctuel. Une fois par jour et avant de faire un test de [compétence](./Compétences.md), le personnage peut utiliser ce bienfait pour bénéficier sur ce test d’un bonus de trait de +2.
 
 ---

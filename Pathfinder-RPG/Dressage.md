@@ -38,7 +38,7 @@ Le [DD](./DD.md) du test dépend du résultat que le personnage désire obtenir.
 | 15 ou 20*
 |-
 | élever un animal sauvage
-| 15 + [DV](./DV.md) de l’animal
+| 15 + [DV](./../Ressources/DV.md) de l’animal
 |-
 | COLSPAN="2" CLASS="note" | *(*) Reportez-vous à la description du tour ou de la fonction en question ci-dessous.*
 |}

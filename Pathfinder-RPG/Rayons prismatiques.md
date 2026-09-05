@@ -23,7 +23,7 @@ Categories:
 
 **Jet de sauvegarde** voir description ; **Résistance à la magie** oui
 
-Ce sort génère sept [rayons](./rayon.md) de lumière tourbillonnante qui jaillissent de la main du personnage. Chaque [rayon](./rayon.md) a une couleur et un pouvoir particulier. Toutes les créatures de moins de 8 [DV](./DV.md) dans la [zone d’effet](./zone deffet.md) sont automatiquement [aveuglées](./Aveuglé.md) pendant 2d4 [rounds](./round.md). Toutes les créatures dans la [zone d’effet](./zone deffet.md) sont également touchées au hasard par un ou deux [rayons](./rayon.md), qui ont les effets suivants :
+Ce sort génère sept [rayons](./rayon.md) de lumière tourbillonnante qui jaillissent de la main du personnage. Chaque [rayon](./rayon.md) a une couleur et un pouvoir particulier. Toutes les créatures de moins de 8 [DV](./../Ressources/DV.md) dans la [zone d’effet](./zone deffet.md) sont automatiquement [aveuglées](./Aveuglé.md) pendant 2d4 [rounds](./round.md). Toutes les créatures dans la [zone d’effet](./zone deffet.md) sont également touchées au hasard par un ou deux [rayons](./rayon.md), qui ont les effets suivants :
 
 <center>
 {| CLASS="tablo"

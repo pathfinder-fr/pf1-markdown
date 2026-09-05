@@ -4,6 +4,7 @@ Title: Bombe de précision (découverte)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: découvertes#BOMBEDEPRECISION
 ---
 
->>> découvertes#BOMBEDEPRECISION
+>>> [découvertes#BOMBEDEPRECISION](./découvertes.md#BOMBEDEPRECISION)

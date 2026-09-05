@@ -4,6 +4,7 @@ Title: paralysie
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: paralysie (capacité)
 ---
 
->>> paralysie (capacité)
+>>> [paralysie (capacité)](./Paralysie (capacité).md)

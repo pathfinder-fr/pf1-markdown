@@ -4,6 +4,7 @@ Title: sens des pièges
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Roublard#SENSDESPIEGES
 ---
 
->>> Roublard#SENSDESPIEGES
+>>> [Roublard#SENSDESPIEGES](./Roublard.md#SENSDESPIEGES)

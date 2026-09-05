@@ -73,7 +73,7 @@ Categories:
 - Les [Dieux Extérieurs](./Dieux Extérieurs.md)
 - Les [Grands Anciens](./Grands Anciens.md)
 - Les [seigneurs-démons](./Seigneurs-démons.md)
-- Les [seigneurs empyréens](./Seigneurs empyréens.md)
+- Les [seigneurs empyréens](./../Pathfinder-RPG/Seigneurs empyréens.md)
 - Le [Panthéon Orque](./Panthéon Orque.md)
 
 

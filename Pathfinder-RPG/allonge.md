@@ -2,6 +2,7 @@
 Name: Pathfinder-RPG.allonge
 Title: allonge
 LastModified: 2010-07-05 13:58
+RedirectTo: Pathfinder-RPG.Attaque au corps à corps
 ---
 
->>> Pathfinder-RPG.Attaque au corps à corps
+>>> [Pathfinder-RPG.Attaque au corps à corps](./attaque au corps à corps.md)

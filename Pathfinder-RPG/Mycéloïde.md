@@ -47,7 +47,7 @@ Categories:
 d’au moins 7 points de Sagesse à cause de la vérole pourpre,
 elle doit réussir un jet de [Volonté](./Volonté.md) [DD](./DD.md) 15 chaque jour pour
 éviter d’être affectée par les effets d’un sort de mission (aucune
-limite de [DV](./DV.md)) qui oblige le malade à rechercher la colonie de
+limite de [DV](./../Ressources/DV.md)) qui oblige le malade à rechercher la colonie de
 mycéloïdes la plus proche afin de se soumettre de lui-même à la
 domination de spores. Le [DD](./DD.md) du jet de sauvegarde est basé sur
 la [Constitution](./Constitution.md).}

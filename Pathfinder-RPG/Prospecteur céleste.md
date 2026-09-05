@@ -115,7 +115,7 @@ des nains. Il obtient la [vision dans le noir](./Capacités spéciales.md#VISION
 
 {s:reference|RUNESDERESISTANCE}
 #### Runes de résistance (Sur)
-Au niveau 6, un prospecteur céleste peut utiliser son armure pour ignorer n'importe quelle attaque magique pendant une courte durée. Par une [action de mouvement](./Action de mouvement.md), le prospecteur céleste peut obtenir une [résistance à la magie](./résistance à la magie.md) égale à 5 + son nombre de [dés de vie](./DV.md) s'il porte une armure légère ou égale à 10 + son nombre de dés de vie s'il porte une armure intermédiaire ou lourde. Révoquer cette capacité prend une [action rapide](./Action rapide.md). Un prospecteur céleste peut utiliser cette capacité pendant un nombre de rounds par jour égal à son niveau de classe. Ces rounds n'ont pas à être consécutifs.
+Au niveau 6, un prospecteur céleste peut utiliser son armure pour ignorer n'importe quelle attaque magique pendant une courte durée. Par une [action de mouvement](./Action de mouvement.md), le prospecteur céleste peut obtenir une [résistance à la magie](./résistance à la magie.md) égale à 5 + son nombre de [dés de vie](./../Ressources/DV.md) s'il porte une armure légère ou égale à 10 + son nombre de dés de vie s'il porte une armure intermédiaire ou lourde. Révoquer cette capacité prend une [action rapide](./Action rapide.md). Un prospecteur céleste peut utiliser cette capacité pendant un nombre de rounds par jour égal à son niveau de classe. Ces rounds n'ont pas à être consécutifs.
 
 {s:reference|PISTESDESANCIENS}
 #### Pistes des anciens (Ext)

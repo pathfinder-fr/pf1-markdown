@@ -178,7 +178,7 @@ Les conflits intérieurs auxquels les inquisiteurs demi-elfes doivent faire face
 {s:MCA}**[Lutteur](./Lutteur.md).** Ajoute 1 au [DMD](./DMD.md) du lutteur pour résister à une manœuvre de [renversement](./renversement.md) ou de [croc-en-jambe](./croc-en-jambe.md).
 
 {s:MR}{s:APG}**[Magicien](./Magicien.md).** Quand le magicien lance un sort d’[enchantement](./Enchantement.md), il ajoute +1/3 à son niveau de magicien effectif, mais seulement pour déterminer la durée du sort.
-De nombreux demi-elfes héritent des talents magiques de leurs ancêtres et trouvent à la fois du réconfort et du respect en maîtrisant les arts profanes. Toutes les [écoles de magie](./../Golarion/Écoles de magie.md) leur sont accessibles mais bon nombre d’entre eux s’intéressent plutôt aux sorts à la puissance explosive, à ceux qui les enveloppent d’un certain mystère ou à ceux qui les aident à manipuler le monde qui les entoure.
+De nombreux demi-elfes héritent des talents magiques de leurs ancêtres et trouvent à la fois du réconfort et du respect en maîtrisant les arts profanes. Toutes les [écoles de magie](./Écoles de magie.md) leur sont accessibles mais bon nombre d’entre eux s’intéressent plutôt aux sorts à la puissance explosive, à ceux qui les enveloppent d’un certain mystère ou à ceux qui les aident à manipuler le monde qui les entoure.
 
 {s:MR}**[Magus](./Magus.md).** Le magus ajoute +1/4 au nombre de points de sa [réserve magique](./Magus.md#RESERVEMAGIQUE).
 

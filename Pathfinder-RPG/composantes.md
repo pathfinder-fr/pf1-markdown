@@ -4,6 +4,7 @@ Title: composantes
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Présentation des sorts#COMPOSANTES
 ---
 
->>> Présentation des sorts#COMPOSANTES
+>>> [Présentation des sorts#COMPOSANTES](./Présentation des sorts.md#COMPOSANTES)

@@ -4,6 +4,7 @@ Title: Aura de fermeté
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Paladin#AURADEFERMETE
 ---
 
->>> Paladin#AURADEFERMETE
+>>> [Paladin#AURADEFERMETE](./Paladin.md#AURADEFERMETE)

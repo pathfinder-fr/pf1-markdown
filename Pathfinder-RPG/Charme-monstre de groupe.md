@@ -23,7 +23,7 @@ Categories:
 **Durée** 1 jour/[niveau](./niveau.md)
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
 ---
-Ce sort fonctionne sur le même principe que *[charme-monstre](./Charme-monstre.md)*, excepté le fait qu’il affecte un nombre de créatures dont le total de [DV](./DV.md) n’excède pas deux fois le [niveau](./niveau.md) du personnage, ou encore une créature, quels que soient ses [dés de vie](./dés de vie.md). Si il y a trop ce cible, le personnage les choisit une par une, jusqu’à ce qu’il atteigne la limite de [DV](./DV.md).
+Ce sort fonctionne sur le même principe que *[charme-monstre](./Charme-monstre.md)*, excepté le fait qu’il affecte un nombre de créatures dont le total de [DV](./../Ressources/DV.md) n’excède pas deux fois le [niveau](./niveau.md) du personnage, ou encore une créature, quels que soient ses [dés de vie](./dés de vie.md). Si il y a trop ce cible, le personnage les choisit une par une, jusqu’à ce qu’il atteigne la limite de [DV](./../Ressources/DV.md).
 
 
 

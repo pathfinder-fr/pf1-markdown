@@ -24,7 +24,7 @@ Les effets des attaques de terreur sont variés.
 - Aura de terreur (Sur). Une action libre suffit pour utiliser cette capacité. L’aura peut pétrifier de terreur un adversaire (c’est le cas de l’aura de désespoir de la momie) ou agir comme un sort de terreur. D’autres effets sont également possibles. Une aura de terreur est un effet de zone. La description précise la taille et le type de l’aura.
 - Cône de terreur (Mag) et rayon de terreur (Sur). Ces effets fonctionnent généralement comme le sort de *[terreur](./Terreur.md)*.
 
-Si un effet de terreur autorise un [jet de sauvegarde](./jet de sauvegarde.md), il s’agit d’un jet de [Volonté](./Volonté.md) (le [DD](./DD.md) est égal à 10 + la moitié du nombre de [DV](./DV.md) raciaux de la créature qui terrifie + son bonus de [Charisme](./Charisme.md) ; la valeur exacte est indiquée dans la description). Toutes les attaques de terreur sont des effets de terreur ainsi que des effets mentaux.
+Si un effet de terreur autorise un [jet de sauvegarde](./jet de sauvegarde.md), il s’agit d’un jet de [Volonté](./Volonté.md) (le [DD](./DD.md) est égal à 10 + la moitié du nombre de [DV](./../Ressources/DV.md) raciaux de la créature qui terrifie + son bonus de [Charisme](./Charisme.md) ; la valeur exacte est indiquée dans la description). Toutes les attaques de terreur sont des effets de terreur ainsi que des effets mentaux.
 
 *Format :* aura de terreur (9 m, DD 17). *Emplacement :* Aura.
 *Format :* cône de terreur (15 m, DD 19). *Emplacement :* Attaques spéciales.

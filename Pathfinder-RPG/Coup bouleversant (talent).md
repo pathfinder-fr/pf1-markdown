@@ -4,6 +4,7 @@ Title: Coup bouleversant (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#COUPBOULVERSANT
 ---
 
->>> Talents#COUPBOULVERSANT
+>>> [Talents#COUPBOULVERSANT](./Talents.md#COUPBOULVERSANT)

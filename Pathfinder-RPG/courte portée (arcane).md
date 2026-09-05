@@ -4,6 +4,7 @@ Title: courte portée (arcane)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: arcanes#COURTEPORTEE
 ---
 
->>> arcanes#COURTEPORTEE
+>>> [arcanes#COURTEPORTEE](./arcanes.md#COURTEPORTEE)

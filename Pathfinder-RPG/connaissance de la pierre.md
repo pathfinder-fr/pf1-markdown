@@ -4,6 +4,7 @@ Title: connaissance de la pierre
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Nain#CONNAISSANCEPIERRE
 ---
 
->>> Nain#CONNAISSANCEPIERRE
+>>> [Nain#CONNAISSANCEPIERRE](./Nain.md#CONNAISSANCEPIERRE)

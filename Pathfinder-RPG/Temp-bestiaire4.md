@@ -239,7 +239,7 @@ Pour ne pas être plusieurs à travailler sur les mêmes en même temps, l'idéa
   - Seigneur démon, [Kostchtchie](./Kostchtchie.md) 244 -> Djezebel
   - Seigneur démon, [Pazuzu](./Pazuzu.md) 246 -> Djezebel
   - Seigneur zombie 248 -> Djezebel
-- [Seigneurs Empyréens](./../Golarion/Seigneurs empyréens.md) (intro) 249 -> Djezebel
+- [Seigneurs Empyréens](./Seigneurs empyréens.md) (intro) 249 -> Djezebel
   - Seigneur Empyréen, [Cernunnos](./Cernunnos.md) 250 -> Djezebel
   - Seigneur Empyréen, [Korada](./Korada.md) 252 -> Djezebel
   - Seigneur Empyréen, [Vildéïs](./Vildéïs.md) 254 -> Djezebel

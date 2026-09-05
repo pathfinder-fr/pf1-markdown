@@ -4,6 +4,7 @@ Title: Bombe de siège (découverte)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: découvertes#BOMBEDESIEGE
 ---
 
->>> découvertes#BOMBEDESIEGE
+>>> [découvertes#BOMBEDESIEGE](./découvertes.md#BOMBEDESIEGE)

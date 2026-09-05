@@ -4,6 +4,7 @@ Title: Mutagène persistant (découverte)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Alchimiste#MUTAGENEPERSISTANT
 ---
 
->>> Alchimiste#MUTAGENEPERSISTANT
+>>> [Alchimiste#MUTAGENEPERSISTANT](./Alchimiste.md#MUTAGENEPERSISTANT)

@@ -4,6 +4,7 @@ Title: spécialiste de la fuite
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#SPECIALISTEDELAFUITE
 ---
 
->>> Talents#SPECIALISTEDELAFUITE
+>>> [Talents#SPECIALISTEDELAFUITE](./Talents.md#SPECIALISTEDELAFUITE)

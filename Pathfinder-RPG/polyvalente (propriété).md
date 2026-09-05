@@ -5,6 +5,7 @@ LastModified: 2020-03-09 17:54
 Categories:
 - Propriété arme
 - Redirection
+RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Polyvalente
 ---
 
->>> Descriptions individuelles des propriétés spéciales des armes#Polyvalente
+>>> [Descriptions individuelles des propriétés spéciales des armes#Polyvalente](./Descriptions individuelles des propriétés spéciales des armes.md#Polyvalente)

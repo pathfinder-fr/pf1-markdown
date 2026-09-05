@@ -4,6 +4,7 @@ Title: Attaque dissipante (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#ATTAQUEDISSIPANTE
 ---
 
->>> Talents#ATTAQUEDISSIPANTE
+>>> [Talents#ATTAQUEDISSIPANTE](./Talents.md#ATTAQUEDISSIPANTE)

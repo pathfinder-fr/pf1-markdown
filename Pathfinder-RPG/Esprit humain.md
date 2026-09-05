@@ -12,6 +12,6 @@ Categories:
 
 **Conditions.** [Demi-elfe](./Demi-elfe.md).
 
-**Avantages.** Le personnage reçoit un [rang](./rang.md) de [compétence](./Compétences.md) supplémentaire. Il en obtient un autre dès qu’il gagne un nouveau [dé de vie](./DV.md), mais il ne peut pas gagner plus de quatre rangs de compétence de cette manière.
+**Avantages.** Le personnage reçoit un [rang](./rang.md) de [compétence](./Compétences.md) supplémentaire. Il en obtient un autre dès qu’il gagne un nouveau [dé de vie](./../Ressources/DV.md), mais il ne peut pas gagner plus de quatre rangs de compétence de cette manière.
 
 **Spécial.** Le personnage peut choisir ce don au niveau 1 uniquement et, dans ce cas, il ne peut pas choisir [Esprit elfique](./Esprit elfique.md).

@@ -43,8 +43,8 @@ adversaire. Le krenshar peut émettre un cri puissant tout en retirant
 sa peau, afin de susciter la terreur chez une unique créature
 située dans un rayon de 30 mètres et capable de voir le krenshar.
 La cible en question doit réussir un [jet de Volonté](./jet de sauvegarde.md) de DD 12 pour
-ne pas être [effrayée](./Effrayé.md) (si la cible possède 6 [DV](./DV.md) ou moins) ou [secouée](./Secoué.md)
-(si la cible possède plus de 6 [DV](./DV.md)) pendant 1d4 rounds. Si une créature
+ne pas être [effrayée](./Effrayé.md) (si la cible possède 6 [DV](./../Ressources/DV.md) ou moins) ou [secouée](./Secoué.md)
+(si la cible possède plus de 6 [DV](./../Ressources/DV.md)) pendant 1d4 rounds. Si une créature
 réussit son [jet de sauvegarde](./jet de sauvegarde.md), elle ne peut plus être affectée à
 nouveau par la capacité de tête de crâne du krenshar en question
 pendant 24 heures. Il s’agit d’un effet [mental](./Registre.md) de [terreur](./Registre.md) et de [son](./Registre.md).

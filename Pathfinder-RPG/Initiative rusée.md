@@ -4,6 +4,7 @@ Title: Initiative rusée
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Inquisiteur#INITIATIVERUSEE
 ---
 
->>> Inquisiteur#INITIATIVERUSEE
+>>> [Inquisiteur#INITIATIVERUSEE](./Inquisiteur.md#INITIATIVERUSEE)

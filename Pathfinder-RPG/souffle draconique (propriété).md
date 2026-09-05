@@ -5,6 +5,7 @@ LastModified: 2020-03-09 18:58
 Categories:
 - Propriété armure
 - Redirection
+RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Souffle draconique
 ---
 
->>> Descriptions individuelles des propriétés spéciales des armures et des boucliers#Souffle draconique
+>>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Souffle draconique](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Souffle draconique)

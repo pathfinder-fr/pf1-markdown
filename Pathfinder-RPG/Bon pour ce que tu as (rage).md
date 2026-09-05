@@ -4,6 +4,7 @@ Title: Bon pour ce que tu as (rage)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: pouvoirs de rage#BONPOURCEQUETUAS
 ---
 
->>> pouvoirs de rage#BONPOURCEQUETUAS
+>>> [pouvoirs de rage#BONPOURCEQUETUAS](./Pouvoirs de rage.md#BONPOURCEQUETUAS)

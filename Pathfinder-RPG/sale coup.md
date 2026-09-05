@@ -4,6 +4,7 @@ Title: sale coup
 LastModified: 2026-06-24 15:37
 Categories:
 - Redirection
+RedirectTo: Manœuvres offensives#SALECOUP
 ---
 
->>> Manœuvres offensives#SALECOUP
+>>> [Manœuvres offensives#SALECOUP](./Manœuvres offensives.md#SALECOUP)

@@ -4,6 +4,7 @@ Title: détection des mensonges
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Inquisiteur#DETECTIONDESMENSONGES
 ---
 
->>> Inquisiteur#DETECTIONDESMENSONGES
+>>> [Inquisiteur#DETECTIONDESMENSONGES](./Inquisiteur.md#DETECTIONDESMENSONGES)

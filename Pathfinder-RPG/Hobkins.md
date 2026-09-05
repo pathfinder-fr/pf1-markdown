@@ -53,7 +53,7 @@ Un hobkins mesure 1 mètre de haut pour 7,5 kilos.
 #### Scélérat hobkins
 Les hobkins ordinaires menacent les gens ordinaires et les aventuriers inattentifs plus agressifs que défensifs. Toutefois, les scélérats peuvent transformer un groupe de hobkins en une menace beaucoup plus effrayante. Dotés de pouvoirs psychiques étranges, ces scélérats hobkins peuvent transmettre leurs ordres par télépathie à une infinité de hobkins afin d’assurer une parfaite coordination.
 
-Les scélérats hobkins maîtrisent la [magie psychique](./Magie psychique (capacité).md), ainsi que divers sorts psychiques, différents pour chaque scélérat. Les scélérats évoluent en général en fonction du nombre de leurs [dés de vie](./DV.md), mais certains ont des niveaux d’[hypnotiseur](./Hypnotiseur.md) ou de [psychiste](./Psychiste.md).
+Les scélérats hobkins maîtrisent la [magie psychique](./Magie psychique (capacité).md), ainsi que divers sorts psychiques, différents pour chaque scélérat. Les scélérats évoluent en général en fonction du nombre de leurs [dés de vie](./../Ressources/DV.md), mais certains ont des niveaux d’[hypnotiseur](./Hypnotiseur.md) ou de [psychiste](./Psychiste.md).
 
 La destruction de choses précieuses pour les autres ne suffit pas à satisfaire les scélérats hobkins. Rien ne les satisfait plus que le massacre d’innocents des mains de ceux qui sont censés les protéger. Pour atteindre cet objectif, ils préméditent avec soin chacun des déplacements de leurs troupes dont la finalité consiste à cibler la totalité des habitants d’une petite communauté de leurs attaques redirigées lorsque les hobkins décident d’utiliser leur pouvoir de dégâts collatéraux.
 </div></td></tr></table>

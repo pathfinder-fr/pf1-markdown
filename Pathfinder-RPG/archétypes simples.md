@@ -2,6 +2,7 @@
 Name: Pathfinder-RPG.archétypes simples
 Title: archétypes simples
 LastModified: 2010-11-20 20:23
+RedirectTo: Pathfinder-RPG.Archétypes
 ---
 
->>> Pathfinder-RPG.Archétypes
+>>> [Pathfinder-RPG.Archétypes](./Archétypes.md)

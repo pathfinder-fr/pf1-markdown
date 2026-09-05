@@ -16,11 +16,11 @@ Categories:
 **Temps d'incantation** 10 minutes
 **Composantes** [V, G](./composantes.md)
 **Portée** [courte](./courte.md) (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md)) (voir texte)
-**Cibles** jusqu’à 3 [élémentaires](./sous-type élémentaire.md) ou [Extérieurs](./type Extérieur.md) (ne totalisant pas plus de 12 [DV](./DV.md)), apparaissant à 9 m (6 {s:c}) ou moins les uns des autres
+**Cibles** jusqu’à 3 [élémentaires](./sous-type élémentaire.md) ou [Extérieurs](./type Extérieur.md) (ne totalisant pas plus de 12 [DV](./../Ressources/DV.md)), apparaissant à 9 m (6 {s:c}) ou moins les uns des autres
 **Durée** [instantanée](./instantanée.md)
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** non et oui (voir texte)
 ---
-Ce sort s’apparente à *[contrat](./Contrat.md)*, si ce n’est qu’il permet d’appeler une entité ayant jusqu’à 12 [DV](./DV.md), ou plusieurs créatures du même type dont la somme des [DV](./DV.md) ne dépasse pas 12. Chacune peut faire un [jet de sauvegarde](./jet de sauvegarde.md) et a la possibilité de s’échapper, et le mage doit les convaincre une par une de lui rendre service.
+Ce sort s’apparente à *[contrat](./Contrat.md)*, si ce n’est qu’il permet d’appeler une entité ayant jusqu’à 12 [DV](./../Ressources/DV.md), ou plusieurs créatures du même type dont la somme des [DV](./../Ressources/DV.md) ne dépasse pas 12. Chacune peut faire un [jet de sauvegarde](./jet de sauvegarde.md) et a la possibilité de s’échapper, et le mage doit les convaincre une par une de lui rendre service.
 
 
 
@@ -30,7 +30,7 @@ Ce sort s’apparente à *[contrat](./Contrat.md)*, si ce n’est qu’il permet
 **Temps d'incantation** 10 minutes
 **Composantes** [V, G](./composantes.md)
 **Portée** [courte](./courte.md) (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md)) (voir texte)
-**Cible** 1 [élémentaire](./sous-type élémentaire.md) ou [Extérieur](./type Extérieur.md) de 6 [DV](./DV.md) maximum
+**Cible** 1 [élémentaire](./sous-type élémentaire.md) ou [Extérieur](./type Extérieur.md) de 6 [DV](./../Ressources/DV.md) maximum
 **Durée** [instantanée](./instantanée.md)
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** non et oui (voir texte)
 ---

@@ -4,7 +4,7 @@
 
 <div class="presentation navmenudroite">
 ### Les écoles de magie
-&nbsp;Retour à la [présentation](./../Golarion/Écoles de magie.md).
+&nbsp;Retour à la [présentation](./../Pathfinder-RPG/Écoles de magie.md).
 <ul style="margin-top:2px"><li>[Abjuration](./../Pathfinder-RPG/Abjuration (école).md)</li>
 <li>[Air](./../Pathfinder-RPG/Air (école).md) (APG)</li>
 <li>[Bois](./../Pathfinder-RPG/Bois (école).md) (UM)</li>

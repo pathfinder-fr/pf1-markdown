@@ -44,11 +44,11 @@ Si le jeteur de sorts est d’[alignement](./Alignement.md) Loyal, si l’aura d
 |- CLASS="soustitre"
 | Aucune || Faible || Modérée || Forte || Surpuissante
 |- CLASS="premier"
-| Créature alignée (sauf [mort-vivant](./type Mort-vivant.md)/[Extérieur](./type Extérieur.md), selon les [DV](./DV.md)) || 4 ou moins || 5–10 || 11–25 || 26–50 || 51 ou plus
+| Créature alignée (sauf [mort-vivant](./type Mort-vivant.md)/[Extérieur](./type Extérieur.md), selon les [DV](./../Ressources/DV.md)) || 4 ou moins || 5–10 || 11–25 || 26–50 || 51 ou plus
 |- CLASS="alt"
-| [Mort-vivant](./type Mort-vivant.md) aligné (selon les [DV](./DV.md)) || — || 2 ou moins || 3–8 || 9–20 || 21 ou plus
+| [Mort-vivant](./type Mort-vivant.md) aligné (selon les [DV](./../Ressources/DV.md)) || — || 2 ou moins || 3–8 || 9–20 || 21 ou plus
 |-
-| [Extérieur](./type Extérieur.md) aligné (selon les [DV](./DV.md)) || – || 1 ou moins || 2–4 || 5–10 || 11 ou plus
+| [Extérieur](./type Extérieur.md) aligné (selon les [DV](./../Ressources/DV.md)) || – || 1 ou moins || 2–4 || 5–10 || 11 ou plus
 |- CLASS="alt"
 | [Prêtre](./Prêtre.md) ou [paladin](./Paladin.md) d'un dieu aligné* (selon le [niveau de classe](./niveau.md)) || — || 1 || 2–4 || 5–10 || 11 ou plus
 |-
@@ -60,7 +60,7 @@ Si le jeteur de sorts est d’[alignement](./Alignement.md) Loyal, si l’aura d
 
 Troisième [round](./round.md) : intensité et emplacement de chacune des auras. Si une aura se trouve en dehors du champ de vision du lanceur de sort, il sait la direction dans laquelle elle se situe mais pas son emplacement exact.
 
-**Intensité de l’aura.** La puissance de l’aura dépend du type de créature (ou d’objet) dont elle émane et de son nombre de [DV](./DV.md), de son [niveau de lanceur de sorts](./NLS.md) ou de son [niveau de classe](./niveau.md) (pour un [prêtre](./Prêtre.md)). Si une aura correspond à plusieurs catégories, le sort indique la plus puissante d’entre elles.
+**Intensité de l’aura.** La puissance de l’aura dépend du type de créature (ou d’objet) dont elle émane et de son nombre de [DV](./../Ressources/DV.md), de son [niveau de lanceur de sorts](./NLS.md) ou de son [niveau de classe](./niveau.md) (pour un [prêtre](./Prêtre.md)). Si une aura correspond à plusieurs catégories, le sort indique la plus puissante d’entre elles.
 
 **Aura persistante.** Une aura chaotique ne disparaît pas immédiatement lorsque sa source est dissipée (dans le cas d’un sort) ou détruite (dans le cas d’une créature ou d’un objet magique). Si le lanceur de sorts oriente *détection du Chaos* vers une telle zone, le sort indique une aura ténue (moins puissante qu’une aura faible). Le temps pendant lequel l’aura ténue persiste dépend de son intensité originale.
 

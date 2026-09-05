@@ -5,6 +5,7 @@ LastModified: 2020-03-09 19:07
 Categories:
 - Propriété armure
 - Redirection
+RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Graisseuse supérieure
 ---
 
->>> Descriptions individuelles des propriétés spéciales des armures et des boucliers#Graisseuse supérieure
+>>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Graisseuse supérieure](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Graisseuse supérieure)

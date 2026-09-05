@@ -2,6 +2,7 @@
 Name: Pathfinder-RPG.point de compétence
 Title: point de compétence
 LastModified: 2010-06-20 16:03
+RedirectTo: Pathfinder-RPG.Compétences
 ---
 
->>> Pathfinder-RPG.Compétences
+>>> [Pathfinder-RPG.Compétences](./Compétences.md)

@@ -1298,7 +1298,7 @@ Categories:
 | [Cavalier des bêtes](./Cavalier des bêtes.md) || <sup>MR</sup> || Capacité de classe [compagnon animal](./Chasseur.md#COMPAGNONANIMAL) ou [monture](./Chevalier.md#MONTURE), personnage de niveau 7, [demi-orque](./Demi-orque.md) ou [orque](./orque (race).md) || Obtient les services d'un compagnon monstrueux ou d'une monture
 
 |- CLASS="premier alt donprincipal"
-| [Chaînes cauchemardesques](./Chaînes cauchemardesques.md) || <sup>*BD*</sup> || Sous-type [kyton](./sous-type kyton.md), 5 [DV](./DV.md) ou plus || Obtient ou améliore la capacité danse des chaînes des kytons
+| [Chaînes cauchemardesques](./Chaînes cauchemardesques.md) || <sup>*BD*</sup> || Sous-type [kyton](./sous-type kyton.md), 5 [DV](./../Ressources/DV.md) ou plus || Obtient ou améliore la capacité danse des chaînes des kytons
 
 |- CLASS="premier donprincipal"
 | [Chaînes infernales](./Chaînes infernales.md) || <sup>*ISG*</sup> || [Canalisation d’énergie](./Prêtre.md#CANALISATIONDENERGIE) 5d6, suivant d'un archidiable, d'un duc infernal, d'un malebranche ou d'une reine catin || Une fois par jour, l'énergie négative canalisée pour blesser les vivants reproduit les effets d'une *ancre dimensionnelle*
@@ -1309,7 +1309,7 @@ Categories:
 | &emsp;[Ailes métalliques](./Ailes métalliques.md) || <sup>MR</sup> || Sang angélique, Chair angélique, Ailes d'ange, aasimar, personnage de niveau 11 || Transforme les ailes en métal pour obtenir deux attaques d'ailes
 
 |- CLASS="premier donprincipal"
-| [Chair corrompue](./Chair corrompue.md) || <sup>CM</sup> || [Con](./Con.md) 15, 6 [DV](./DV.md), [ogre](./Ogre.md) || Gain du pouvoir de puanteur
+| [Chair corrompue](./Chair corrompue.md) || <sup>CM</sup> || [Con](./Con.md) 15, 6 [DV](./../Ressources/DV.md), [ogre](./Ogre.md) || Gain du pouvoir de puanteur
 |- CLASS="alt donprérequis0"
 | &emsp;[Souffle fétide](./Souffle fétide.md) || <sup>CM</sup> || Con 15, Chair corrompue, 6 DV, ogre || Souffle un cône d'air fétide et de flegme
 
@@ -3969,7 +3969,7 @@ Categories:
 | [Interférence divine](./Interférence divine.md) || <sup>AM</sup> || Lanceur de sorts divins de niveau 10 || Sacrifie un sort pour obliger un ennemi à refaire un jet d'attaque réussi contre un allié
 
 |- CLASS="premier donprincipal"
-| [Interposition héroïque](./Interposition héroïque.md)* || <sup>*ISG*</sup> || [Dex](./Dex.md) 13, [Esquive](./Esquive.md), [Science de l'initative](./Science de linitiative.md), suivant d'un [seigneur empyréen](./../Golarion/Seigneurs empyréens.md) || Permet de se déplacer à sa vitesse pour arriver à côté d'un ennemi qui attaque un allié
+| [Interposition héroïque](./Interposition héroïque.md)* || <sup>*ISG*</sup> || [Dex](./Dex.md) 13, [Esquive](./Esquive.md), [Science de l'initative](./Science de linitiative.md), suivant d'un [seigneur empyréen](./Seigneurs empyréens.md) || Permet de se déplacer à sa vitesse pour arriver à côté d'un ennemi qui attaque un allié
 
 |- CLASS="premier alt donprincipal"
 | [Intuition magique](./Intuition magique.md) || <sup>D&M</sup> || [Bouclier magique](./Bouclier magique.md), lanceur de sorts profanes, [NLS](./NLS.md) 10, suivant de [Néthys](./Néthys (technique).md) || +1 à la CA lors de l'utilisation de Bouclier magique
@@ -6333,7 +6333,7 @@ Categories:
 | &emsp;[Modèle draconique](./Modèle draconique.md) || <sup>MR</sup> || Aspect draconique, Souffle draconique, Plané draconique, personnage de niveau 10, kobold || +2 aux jets de sauvegarde contre le sommeil et la paralysie, améliore les attaques de souffle
 
 |- CLASS="premier donprincipal"
-| [Souffle fétide](./Souffle fétide.md) || <sup>CM</sup> || [Con](./Con.md) 15, [Chair corrompue](./Chair corrompue.md), 6 [DV](./DV.md), [ogre](./Ogre.md) || Souffle un cône d'air fétide et de flegme
+| [Souffle fétide](./Souffle fétide.md) || <sup>CM</sup> || [Con](./Con.md) 15, [Chair corrompue](./Chair corrompue.md), 6 [DV](./../Ressources/DV.md), [ogre](./Ogre.md) || Souffle un cône d'air fétide et de flegme
 
 |- CLASS="premier alt donprincipal"
 | [Souffle intérieur](./Souffle intérieur.md) || <sup>MR</sup> || Personnage de niveau 11, [sylphe](./Sylphe (race).md) || Le personnage n'a plus besoin de respirer

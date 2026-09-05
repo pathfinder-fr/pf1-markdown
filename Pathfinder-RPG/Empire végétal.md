@@ -19,7 +19,7 @@ Categories:
 
 **Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
 
-**Cibles** jusqu’à 2 [DV](./DV.md)/[niveau](./niveau.md) de créatures végétales, distantes de moins de 9 m (6 {s:c}) les unes des autres  
+**Cibles** jusqu’à 2 [DV](./../Ressources/DV.md)/[niveau](./niveau.md) de créatures végétales, distantes de moins de 9 m (6 {s:c}) les unes des autres  
 
 **Durée** 1 jour/[niveau](./niveau.md)  
 

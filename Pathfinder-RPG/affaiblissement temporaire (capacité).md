@@ -16,7 +16,7 @@ Certains sorts et pouvoirs peuvent infliger une pénalité temporaire à une car
 
 :**La Dextérité.** Ces dommages infligent des pénalités aux [tests de compétences](./test de compétence.md) dépendant de cette caractéristique, aux [jets d’attaque](./jet dattaque.md) à distance, aux jets d’[initiative](./initiative.md) et aux jets de [Réflexes](./Réflexes.md). Ces pénalités s’appliquent également à la [Classe d’Armure](./CA.md), au [Bonus de Manœuvre Offensive](./BMO.md) (si le personnage est au moins de taille P) et à la [Manœuvre Défensive](./DMD.md).
 
-:**La Constitution.** Ces dommages infligent des pénalités aux jets de [Vigueur](./Vigueur.md). De plus, il convient de multiplier le nombre total des [DV](./DV.md) du personnage par ce bonus, et de soustraire le résultat à ses [points de vie](./pv.md). Les points de vie ainsi perdus reviendront lorsque les dommages à la [Constitution](./Constitution.md) disparaitront.
+:**La Constitution.** Ces dommages infligent des pénalités aux jets de [Vigueur](./Vigueur.md). De plus, il convient de multiplier le nombre total des [DV](./../Ressources/DV.md) du personnage par ce bonus, et de soustraire le résultat à ses [points de vie](./pv.md). Les points de vie ainsi perdus reviendront lorsque les dommages à la [Constitution](./Constitution.md) disparaitront.
 
 :**L’Intelligence.** Ces dommages infligent des pénalités aux [tests de compétences](./test de compétence.md) dépendant de cette caractéristique. Ces pénalités s’appliquent également au [DD](./DD.md) des sorts dépendant de l’[Intelligence](./Intelligence.md).
 

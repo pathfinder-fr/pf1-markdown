@@ -4,6 +4,7 @@ Title: Inspiration vaillante
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Représentations#INSPIRATIONVAILLANTE
 ---
 
->>> Représentations#INSPIRATIONVAILLANTE
+>>> [Représentations#INSPIRATIONVAILLANTE](./Représentations.md#INSPIRATIONVAILLANTE)

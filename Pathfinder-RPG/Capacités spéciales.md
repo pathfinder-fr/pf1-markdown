@@ -83,7 +83,7 @@ Pour chaque tranche de deux points dans une caractéristique, appliquez un bonus
 
 :**La Dextérité.** Les augmentations temporaires à la [Dextérité](./Dextérité.md) accordent un bonus aux [tests de compétences](./test de compétence.md) dépendant de cette caractéristique, aux [jets d’attaque](./jet dattaque.md) à distance, aux jets d’[initiative](./initiative.md) et aux jets de [Réflexes](./Réflexes.md). Ce bonus s’applique également à la [classe d’armure](./CA.md), au [Bonus de manœuvre offensive](./BMO.md) (si le personnage est au au plus de [taille TP](./taille TP.md)) et au [bonus de Manœuvre défensive](./DMD.md).
 
-:**La Constitution.** Les augmentations temporaires à la [Constitution](./Constitution.md) accordent un bonus aux jets de [Vigueur](./Vigueur.md). De plus, il convient de multiplier le nombre total des [DV](./DV.md) du personnage par ce bonus, et d’ajouter le résultat à ses [points de vie](./pv.md). Lorsque le bonus ne s’applique plus, enlevez les points de vie ainsi ajoutés.
+:**La Constitution.** Les augmentations temporaires à la [Constitution](./Constitution.md) accordent un bonus aux jets de [Vigueur](./Vigueur.md). De plus, il convient de multiplier le nombre total des [DV](./../Ressources/DV.md) du personnage par ce bonus, et d’ajouter le résultat à ses [points de vie](./pv.md). Lorsque le bonus ne s’applique plus, enlevez les points de vie ainsi ajoutés.
 
 :**L’Intelligence.** Les augmentations temporaires à l’[Intelligence](./Intelligence.md) accordent un bonus aux [tests de compétences](./test de compétence.md) dépendant de cette caractéristique. Ce bonus s’applique également au [DD](./DD.md) des sorts dépendant de l’[Intelligence](./Intelligence.md).
 

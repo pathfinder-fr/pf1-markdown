@@ -27,4 +27,4 @@ Categories:
 
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui ([inoffensif](./Présentation des sorts.md#JETSDESAUVEGARDE))
 
-La cible reçoit un malus de -20 au prochain [jet d’attaque](./jet dattaque.md) ou [test](./test de compétence.md) nécessitant un jet de d20. Il doit s’agir d’une action que la cible entreprend volontairement à son tour. Ce sort n’affecte pas les créatures qui possèdent plus de 10 [DV](./DV.md).
+La cible reçoit un malus de -20 au prochain [jet d’attaque](./jet dattaque.md) ou [test](./test de compétence.md) nécessitant un jet de d20. Il doit s’agir d’une action que la cible entreprend volontairement à son tour. Ce sort n’affecte pas les créatures qui possèdent plus de 10 [DV](./../Ressources/DV.md).

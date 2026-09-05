@@ -5,6 +5,7 @@ LastModified: 2023-07-11 13:56
 Categories:
 - Objet mag propriété arme
 - Redirection
+RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Tueuse
 ---
 
->>> Descriptions individuelles des propriétés spéciales des armes#Tueuse
+>>> [Descriptions individuelles des propriétés spéciales des armes#Tueuse](./Descriptions individuelles des propriétés spéciales des armes.md#Tueuse)

@@ -4,6 +4,7 @@ Title: dés de vie
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Vocabulaire courant#DESDEVIE
 ---
 
->>> Vocabulaire courant#DESDEVIE
+>>> [Vocabulaire courant#DESDEVIE](./Vocabulaire courant.md#DESDEVIE)

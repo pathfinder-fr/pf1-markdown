@@ -16,4 +16,4 @@ Categories:
 
 S’il n’a pas le pouvoir de classe de rage ou s’il ne lui reste plus de rounds quotidiens, cette forme de rage amoindrie lui donne les mêmes bonus et les mêmes malus que la rage du barbare, sauf que ses bonus de moral à la Force et à la Constitution ne sont que de +2. Dans tous les cas, ce pouvoir fait effet pendant 4 rounds. Comme avec la rage de barbare, quand celle-ci se termine, le personnage est [fatigué](./Fatigué.md), mais si un autre allié tombe avant que la rage se dissipe, celle-ci se prolonge de 4 rounds.
 
-Ce don ne lui permet pas d’entrer en rage quand il est fatigué. Le personnage peut utiliser ce pouvoir uniquement si l’allié tombé a au moins autant de [DV](./DV.md) que lui (à l’exclusion des alliés invoqués ou convoqués).
+Ce don ne lui permet pas d’entrer en rage quand il est fatigué. Le personnage peut utiliser ce pouvoir uniquement si l’allié tombé a au moins autant de [DV](./../Ressources/DV.md) que lui (à l’exclusion des alliés invoqués ou convoqués).

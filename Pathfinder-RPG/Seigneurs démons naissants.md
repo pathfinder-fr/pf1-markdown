@@ -5,6 +5,7 @@ LastModified: 2023-03-08 14:21
 Categories:
 - Redirection
 - Src Book of the Damned
+RedirectTo: Seigneurs démons#Seigneurs_démons_naissants_6
 ---
 
->>> Seigneurs démons#Seigneurs_démons_naissants_6
+>>> [Seigneurs démons#Seigneurs_démons_naissants_6](./Seigneurs démons.md#Seigneurs_démons_naissants_6)

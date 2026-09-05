@@ -12,7 +12,7 @@ Categories:
 **Aura** [Transmutation](./Transmutation.md) puissante ; **NLS** 20 ; **Emplacement** [aucun](./Objets merveilleux sans emplacement.md) ; **Prix** [artefact](./Artefacts.md) ; **Poids** 1,5 kg
 (((Description)))
 À chaque fois que cette jarre se retrouve entre les mains d’un nouveau propriétaire, elle produit 2d4 crocs de dragon. Quand un personnage en avale une, il dispose des pouvoirs suivants pendant une semaine ou jusqu’à ce qu’il les révoque par une [action simple](./Action simple.md) qui ne provoque pas d’[attaque d’opportunité](./attaque dopportunité.md).
-• L’utilisateur se transforme en dragon, comme avec [forme draconique I](./Forme draconique I.md), [forme draconique II](./Forme draconique II.md) ou [forme draconique III](./Forme draconique III.md), en fonction de son nombre de [DV](./DV.md). S’il possède 12 [DV](./DV.md) ou moins, il est sous l’effet d’une [forme draconique I](./Forme draconique I.md) ; [forme draconique II](./Forme draconique II.md) s’il possède entre 13 et 18 [DV](./DV.md) et [forme draconique III](./Forme draconique III.md) s’il possède 19 [DV](./DV.md) ou plus. L’utilisateur choisit le type de dragon en fonction de son alignement.
+• L’utilisateur se transforme en dragon, comme avec [forme draconique I](./Forme draconique I.md), [forme draconique II](./Forme draconique II.md) ou [forme draconique III](./Forme draconique III.md), en fonction de son nombre de [DV](./../Ressources/DV.md). S’il possède 12 [DV](./../Ressources/DV.md) ou moins, il est sous l’effet d’une [forme draconique I](./Forme draconique I.md) ; [forme draconique II](./Forme draconique II.md) s’il possède entre 13 et 18 [DV](./../Ressources/DV.md) et [forme draconique III](./Forme draconique III.md) s’il possède 19 [DV](./../Ressources/DV.md) ou plus. L’utilisateur choisit le type de dragon en fonction de son alignement.
 - **Loyal Bon.** Dragon de bronze, d’or ou d’argent.  
 - **Neutre Bon.** N’importe quel dragon métallique.  
 - **Chaotique Bon.** Dragon d’airain ou de cuivre.  
@@ -28,8 +28,8 @@ L’utilisateur reprend toujours la même apparence draconique à chaque fois qu
 • Parle le draconique
 • Bonus de compétence de +4 aux tests de [Vol](./Vol.md)
 • Bonus de compétence de +4 aux tests de [Bluff](./Bluff.md), de [Diplomatie](./Diplomatie.md), d’[Intimidation](./Intimidation.md) et de [Psychologie](./Psychologie.md) contre des dragons.
-• Immunité contre le sommeil, la paralysie et [RM](./RM.md) 11 + nombre de [DV](./DV.md).
-• [Présence terrifiante](./Présence terrifiante (capacité).md) dans un rayon de 60 mètres doté d’un [DD](./DD.md) au jet de [Volonté](./Volonté.md) de 10 + [DV](./DV.md) + modificateur de [Charisme](./Charisme.md).
+• Immunité contre le sommeil, la paralysie et [RM](./RM.md) 11 + nombre de [DV](./../Ressources/DV.md).
+• [Présence terrifiante](./Présence terrifiante (capacité).md) dans un rayon de 60 mètres doté d’un [DD](./DD.md) au jet de [Volonté](./Volonté.md) de 10 + [DV](./../Ressources/DV.md) + modificateur de [Charisme](./Charisme.md).
 
 La jarre crée des crocs une seule fois par utilisateur. Si elle change de propriétaire avant que le premier n’ait utilisé tous les crocs créés, l’individu spolié ne peut plus en profiter par la suite.
 (((Destruction)))

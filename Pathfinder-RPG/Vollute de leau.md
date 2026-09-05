@@ -6,6 +6,7 @@ Categories:
 - Monstre
 - Redirection
 - Src Bestiaire 5
+RedirectTo: Vollute#_4
 ---
 
->>> Vollute#_4
+>>> [Vollute#_4](./Vollute.md#_4)

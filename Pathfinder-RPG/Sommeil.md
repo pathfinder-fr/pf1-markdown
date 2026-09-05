@@ -24,7 +24,7 @@ Categories:
 **Durée** 1 minute/[niveau](./niveau.md)
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
 ---
-Ce sort endort 4 [DV](./DV.md) de créatures. Les créatures les plus faibles sont affectées les premières. Lorsque leurs [DV](./DV.md) sont équivalents, ce sont les créatures les plus proches du point d’origine du [rayonnement](./rayonnement.md) qui sont atteintes en premiers. Les [DV](./DV.md) qui ne suffisent pas à affecter la cible suivante sont perdus. Les créatures endormies sont [sans défense](./Sans défense.md). Elles se réveillent si on les gifle ou si on les frappe, mais le bruit ne suffit pas. Réveiller un compagnon est une [action simple](./Action simple.md) qui entre dans la catégorie « [aider quelqu’un](./aider quelquun.md) ». *Sommeil* reste sans effet sur les créatures [inconscientes](./Inconscient.md), les [morts-vivants](./type Mort-vivant.md) ou les [créatures artificielles](./type Créature artificielle.md).
+Ce sort endort 4 [DV](./../Ressources/DV.md) de créatures. Les créatures les plus faibles sont affectées les premières. Lorsque leurs [DV](./../Ressources/DV.md) sont équivalents, ce sont les créatures les plus proches du point d’origine du [rayonnement](./rayonnement.md) qui sont atteintes en premiers. Les [DV](./../Ressources/DV.md) qui ne suffisent pas à affecter la cible suivante sont perdus. Les créatures endormies sont [sans défense](./Sans défense.md). Elles se réveillent si on les gifle ou si on les frappe, mais le bruit ne suffit pas. Réveiller un compagnon est une [action simple](./Action simple.md) qui entre dans la catégorie « [aider quelqu’un](./aider quelquun.md) ». *Sommeil* reste sans effet sur les créatures [inconscientes](./Inconscient.md), les [morts-vivants](./type Mort-vivant.md) ou les [créatures artificielles](./type Créature artificielle.md).
 
 ### Version mythique
 {s:CMy}
@@ -44,7 +44,7 @@ Le sort affecte jusqu’à 8 DV de créatures et le personnage peut choisir quel
 **Durée** 1 minute/[niveau](./niveau.md)
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
 ---
-Ce sort est semblable à *[sommeil](./Sommeil.md)*, si ce n’est qu’il affecte 10 [DV](./DV.md) de créatures.
+Ce sort est semblable à *[sommeil](./Sommeil.md)*, si ce n’est qu’il affecte 10 [DV](./../Ressources/DV.md) de créatures.
 
 ### Version mythique
 {s:CMy}
@@ -63,6 +63,6 @@ Ce sort fonctionne comme sommeil mythique, sauf qu’il affecte jusqu’à 20 DV
 **Durée** 1 minute/[niveau](./niveau.md)
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui (inoffensif)
 ---
-Ce sort agit comme *[sommeil profond](./Sommeil profond.md)*, mais affecte seulement une créature de 10 [DV](./DV.md) ou moins. De plus, quand elle se réveille, elle ne garde aucun souvenir des circonstances dans lesquelles le sort a été lancé. La cible perd tout souvenir de ce qui s’est passé pendant les 5 minutes qui ont précédé le lancement du sort. Aucun effet ne peut
+Ce sort agit comme *[sommeil profond](./Sommeil profond.md)*, mais affecte seulement une créature de 10 [DV](./../Ressources/DV.md) ou moins. De plus, quand elle se réveille, elle ne garde aucun souvenir des circonstances dans lesquelles le sort a été lancé. La cible perd tout souvenir de ce qui s’est passé pendant les 5 minutes qui ont précédé le lancement du sort. Aucun effet ne peut
 lui rendre la mémoire, à part un miracle ou un souhait.
 )))

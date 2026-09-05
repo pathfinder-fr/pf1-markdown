@@ -5,6 +5,7 @@ LastModified: 2026-06-19 15:53
 Categories:
 - Objet mag propriété arme
 - Redirection
+RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Vicieuse
 ---
 
->>> Descriptions individuelles des propriétés spéciales des armes#Vicieuse
+>>> [Descriptions individuelles des propriétés spéciales des armes#Vicieuse](./Descriptions individuelles des propriétés spéciales des armes.md#Vicieuse)

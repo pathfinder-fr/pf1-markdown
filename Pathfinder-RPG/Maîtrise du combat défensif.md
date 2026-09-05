@@ -11,7 +11,7 @@ Categories:
 
 **Catégorie.** [combat](./Dons.md#DONCOMBAT)
 
-**Avantage.** Le personnage remplace son [bonus de base à l’attaque](./BBA.md) par son nombre total de [DV](./DV.md) quand il calcule son [degré de manœuvre défensive](./DMD.md).
+**Avantage.** Le personnage remplace son [bonus de base à l’attaque](./BBA.md) par son nombre total de [DV](./../Ressources/DV.md) quand il calcule son [degré de manœuvre défensive](./DMD.md).
 
 {s:PU}
 #### Astuce martiale ([règles](./Endurance et Astuces martiales.md))

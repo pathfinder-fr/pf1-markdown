@@ -16,7 +16,7 @@ Categories:
 |—}
 {s:cs}{s:BotD}
 ### Obédience
-Passer une heure à coudre de la chair mortelle. La créature que le personnage cout gagne un nombre de [points de vie temporaires](./points de vie temporaires.md) égal à la moitié de son nombre de [dés de vie](./DV.md) (qui persistent pendant 24 heures ou jusqu'à ce qu'ils soient perdus). Le personnage sait instinctivement dès qu'un ou plusieurs de ces points de vie sont perdus.
+Passer une heure à coudre de la chair mortelle. La créature que le personnage cout gagne un nombre de [points de vie temporaires](./points de vie temporaires.md) égal à la moitié de son nombre de [dés de vie](./../Ressources/DV.md) (qui persistent pendant 24 heures ou jusqu'à ce qu'ils soient perdus). Le personnage sait instinctivement dès qu'un ou plusieurs de ces points de vie sont perdus.
 
 #### Faveurs (Kytons démagogues)
 Les chefs de la race des [kytons](./Kytons.md) sont parmi les plus audacieux explorateurs, artistes, et scientifiques des plans. Contraints ni par la morale ni par les tabous, les kytons démagogues poursuivent la perfection dans une myriade de domaines profanes. Les membres et les vies perdus ne signifient pas grand-chose pour le kyton démagogue - seul la prochaine frontière à briser et la promesse de ce qui pourrait se trouver derrière. Les kytons démagogues sont légion, mais neuf des plus connus des érudits sectuaires de Golarion sont présentés en détails.

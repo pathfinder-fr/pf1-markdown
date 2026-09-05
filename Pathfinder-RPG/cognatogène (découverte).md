@@ -4,6 +4,7 @@ Title: Cognatogène (découverte)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: découvertes#COGNATOGENE
 ---
 
->>> découvertes#COGNATOGENE
+>>> [découvertes#COGNATOGENE](./découvertes.md#COGNATOGENE)

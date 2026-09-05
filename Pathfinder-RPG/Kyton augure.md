@@ -6,6 +6,7 @@ Categories:
 - Monstre
 - Règle officielle
 - Src Bestiaire 3
+RedirectTo: monstre augure
 ---
 
->>> monstre augure
+>>> [monstre augure](./monstre Augure.md)

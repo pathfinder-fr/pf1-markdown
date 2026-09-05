@@ -4,6 +4,7 @@ Title: déluge de coups
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Moine#DELUGEDECOUPS
 ---
 
->>> Moine#DELUGEDECOUPS
+>>> [Moine#DELUGEDECOUPS](./Moine.md#DELUGEDECOUPS)

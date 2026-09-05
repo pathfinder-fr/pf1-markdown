@@ -4,6 +4,7 @@ Title: Un jour de plus (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#UNJOURDEPLUS
 ---
 
->>> Talents#UNJOURDEPLUS
+>>> [Talents#UNJOURDEPLUS](./Talents.md#UNJOURDEPLUS)

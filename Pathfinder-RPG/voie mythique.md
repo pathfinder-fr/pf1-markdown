@@ -4,6 +4,7 @@ Title: voie mythique
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Glossaire Mythique#VOIEMYTHIQUE
 ---
 
->>> Glossaire Mythique#VOIEMYTHIQUE
+>>> [Glossaire Mythique#VOIEMYTHIQUE](./Glossaire Mythique.md#VOIEMYTHIQUE)

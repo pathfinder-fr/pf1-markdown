@@ -4,6 +4,7 @@ Title: Épuisé
 LastModified: 2026-02-20 14:41
 Categories:
 - Redirection
+RedirectTo: États préjudiciables#Épuisé
 ---
 
->>> États préjudiciables#Épuisé
+>>> [États préjudiciables#Épuisé](./États préjudiciables.md#Épuisé)

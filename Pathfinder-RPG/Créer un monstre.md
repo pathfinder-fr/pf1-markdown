@@ -129,7 +129,7 @@ est 2 et celle de 2d4 est 5.''</div></div>
 
 
 ### Étape 3 : les dés de vie
-L’étape suivante dans la création d’un monstre consiste à déterminer approximativement le nombre de [DV](./DV.md) qu’il possède. De nombreuses caractéristiques découlent de ce nombre, comme par exemple les [dons](./Dons.md) maîtrisés par la créature, ses compétences, ses [points de vie](./pv.md), ses bonus d’attaque et les [DD](./DD.md) de ses capacités spéciales.
+L’étape suivante dans la création d’un monstre consiste à déterminer approximativement le nombre de [DV](./../Ressources/DV.md) qu’il possède. De nombreuses caractéristiques découlent de ce nombre, comme par exemple les [dons](./Dons.md) maîtrisés par la créature, ses compétences, ses [points de vie](./pv.md), ses bonus d’attaque et les [DD](./DD.md) de ses capacités spéciales.
 
 <center>
 {s:Reference|TAB12}
@@ -169,7 +169,7 @@ L’étape suivante dans la création d’un monstre consiste à déterminer app
 |}
 </center>
 
-Le nombre total de DV d’une créature dépend de plusieurs facteurs, mais les deux plus importants sont son FP et son type. La table ci-dessus indique, pour chaque type de créature, le nombre moyen de [DV](./DV.md) pour un [FP](./FP.md) donné. La plupart des monstres du bestiaire utilisent des valeurs proches de celles indiquées sur ce tableau mais ce n’est pas le cas de tous. C’est parce que le nombre de points de vie de certains monstres a été ajusté (vers le haut ou vers le bas) pour compenser une [CA](./CA.md) ou des protections exceptionnelles.
+Le nombre total de DV d’une créature dépend de plusieurs facteurs, mais les deux plus importants sont son FP et son type. La table ci-dessus indique, pour chaque type de créature, le nombre moyen de [DV](./../Ressources/DV.md) pour un [FP](./FP.md) donné. La plupart des monstres du bestiaire utilisent des valeurs proches de celles indiquées sur ce tableau mais ce n’est pas le cas de tous. C’est parce que le nombre de points de vie de certains monstres a été ajusté (vers le haut ou vers le bas) pour compenser une [CA](./CA.md) ou des protections exceptionnelles.
 
 
 ### Étape 4 : la taille

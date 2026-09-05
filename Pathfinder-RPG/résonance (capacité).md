@@ -4,6 +4,7 @@ Title: résonance
 LastModified: 2020-08-12 12:21
 Categories:
 - Redirection
+RedirectTo: Pouvoirs résonants
 ---
 
->>> Pouvoirs résonants
+>>> [Pouvoirs résonants](./Pouvoirs résonants.md)

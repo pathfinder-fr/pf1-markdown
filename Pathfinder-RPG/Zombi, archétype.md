@@ -14,7 +14,7 @@ Categories:
 {s:pucem|Mort-vivant|Ruines-Donjons|Tempéré}
 {s:BDTexte|*Source : Bestiaire* p.289}
 "Zombi" est un archétype acquis qui peut être ajouté à n’importe quelle créature tangible (autre qu’un [mort-vivant](./type Mort-vivant.md)).
-- **FP.** Varie en fonction du nombre de [DV](./DV.md) du zombi, comme indiqué dans la table suivante.
+- **FP.** Varie en fonction du nombre de [DV](./../Ressources/DV.md) du zombi, comme indiqué dans la table suivante.
 
 <center>
 {| CLASS="tablo" WIDTH="50%"
@@ -108,7 +108,7 @@ Categories:
 |}
 </center>
 
-- **DV.** Le zombi perd tous les [DV](./DV.md) correspondant à des niveaux de classes (mais conserve au moins 1 DV) et tous ses DV deviennent des d8. Il gagne des DV supplémentaires, comme indiqué ci-dessous :
+- **DV.** Le zombi perd tous les [DV](./../Ressources/DV.md) correspondant à des niveaux de classes (mais conserve au moins 1 DV) et tous ses DV deviennent des d8. Il gagne des DV supplémentaires, comme indiqué ci-dessous :
 
 <center>
 {| CLASS="tablo" WIDTH="50%"
@@ -144,7 +144,7 @@ Le zombi utilise son modificateur de [Charisme](./Charisme.md) (au lieu de celui
 - **Attaques.** Le zombi conserve toutes les attaques naturelles et toutes les attaques par armes manufacturées, ainsi que toutes les capacités de maniement d’armes de la créature de base. Il acquiert également une attaque de coup qui inflige des dégâts dépendant de sa taille et qui sont calculés comme s’il appartenait à la catégorie de taille directement supérieure à la sienne (voir [ici](./Attaques naturelles (capacité).md#TABLEATTAQUENATURELLE)).
 - **Attaques spéciales.** Le zombi ne conserve aucune des attaques spéciales de la créature de base.
 - **Caractéristiques.** [For](./Force.md) +2, [Dex](./Dextérité.md) –2. Le zombi ne possède ni valeur de [Constitution](./Constitution.md) ni valeur d’[Intelligence](./Intelligence.md), et sa [Sagesse](./Sagesse.md) et son [Charisme](./Charisme.md) passent à 10.
-- **BBA.** Égal aux 3/4 de son nombre de [DV](./DV.md).
+- **BBA.** Égal aux 3/4 de son nombre de [DV](./../Ressources/DV.md).
 - **Compétences.** Le zombi ne possède aucun [rang de compétence](./rang.md).
 - **Dons.** Le zombi perd tous les dons que la créature de base possédait et ne gagne aucun don, même si son nombre de DV augmente. Il gagne cependant [Robustesse](./Robustesse.md) en tant que don supplémentaire.
 - **Particularités.** Le zombi perd la plupart des particularités de la créature de base. Il conserve les particularités extraordinaires qui améliorent ses attaques au corps à corps ou à distance et gagne la particularité suivante : [Chancelant (Ext)](./Chancelant (Ext).md).
@@ -159,7 +159,7 @@ Ces zombis sont porteurs d’une terrible maladie qui perpétue leur espèce : c
 - **Capacités défensives.** Le zombi épidémique ne gagne pas de [RD](./RD.md) 5/tranchant.
 - **Attaques spéciales.** Le zombi épidémique gagne les attaques spéciales suivantes :
   - *Maladie (Sur).* Les attaques de coup (et les attaques naturelles) du zombi épidémique peuvent infliger la maladie suivante.
-  - *Putréfaction du zombi :* coup ; JS [Vigueur](./Vigueur.md) ([DD](./DD.md) égal à 10 + la moitié du nombre de [DV](./DV.md) du zombi + son modificateur de [Charisme](./Charisme.md)) ; incubation 1d4 jours ; fréquence 1/jour ; effet [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d2 [Constitution](./Constitution.md), qui ne peut être guéri tant que la créature reste infectée. Si l’individu meurt alors qu’il est infecté, il se relève sous la forme d’un zombi épidémique après 2d6 heures.
+  - *Putréfaction du zombi :* coup ; JS [Vigueur](./Vigueur.md) ([DD](./DD.md) égal à 10 + la moitié du nombre de [DV](./../Ressources/DV.md) du zombi + son modificateur de [Charisme](./Charisme.md)) ; incubation 1d4 jours ; fréquence 1/jour ; effet [affaiblissement temporaire](./affaiblissement temporaire.md) de 1d2 [Constitution](./Constitution.md), qui ne peut être guéri tant que la créature reste infectée. Si l’individu meurt alors qu’il est infecté, il se relève sous la forme d’un zombi épidémique après 2d6 heures.
   - *Mort explosive (Ext).* Lorsque le zombi épidémique meurt, il explose en un souffle de chair en décomposition.
 Toutes les créatures adjacentes au zombi épidémique se retrouvent exposées à la putréfaction du zombi comme si elles
 avaient été touchées par une attaque de coup (elles doivent effectuer un jet de [Vigueur](./Vigueur.md) pour éviter de contracter la maladie).

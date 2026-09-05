@@ -570,7 +570,7 @@ Cette famille regroupe des créatures d'une espèce similaire, mais aucune descr
 
 **Membres.** [Baphomet](./Baphomet.md) (FP 27), [Dagon](./Dagon.md) (FP 28), [Deskari](./Deskari.md) (FP 29), [Kostchtchie](./Kostchtchie.md) (FP 26), [Nocticula](./Nocticula.md) (FP 30), [Pazuzu](./Pazuzu.md) (FP 30), [Shax](./Shax.md) (FP 28), [Sifkesh](./Sifkesh.md) (FP 28), [Xoveron](./Xoveron.md) (FP 27).
 
-### Seigneur empyréen ([lien](./../Golarion/Seigneurs empyréens.md))
+### Seigneur empyréen ([lien](./Seigneurs empyréens.md))
 *Les seigneurs empyréens sont l’incarnation des forces primales du Bien...*
 
 **Types/Sous-types associés.** [Extérieur](./type Extérieur.md) ([agathion](./sous-type agathion.md)/[ange](./sous-type ange.md)/[archon](./sous-type archon.md)/[azata](./sous-type azata.md), [Bien](./sous-type Bien.md), [extraplanaire](./sous-type extraplanaire.md))

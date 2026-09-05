@@ -42,7 +42,7 @@ Categories:
 {s:BDsoustitre|Pouvoirs spéciaux}
 {s:BDtexte|**Jaillissement (Ext).** Une anguille des sables qui s’est enterrée dans le sable est capable de jaillir rapidement du sol et d’attaquer. Ceci compte comme une [charge](./charge.md), sauf que l’anguille des sables ne peut se déplacer que de sa valeur de déplacement (et pas de deux fois sa valeur) et qu’elle gagne un bonus de +2 sur son [jet d’attaque](./jet dattaque.md) (en plus des bonus et des malus normaux dus à la charge).}
 {s:BDtexte|**Passage sur le sable (Sur).** Les anguilles des sables se déplacent sur le sable, les sables mouvants, le gravier et les autres environnements constitués de terrain meuble comme si elles se déplaçaient sur un terrain normal plutôt qu’un [terrain difficile](./terrain difficile.md).}
-{s:BDtexte|**Évolution possible** 9-11 [DV](./DV.md) (taille L), 12-16 [DV](./DV.md) (taille TG)}
+{s:BDtexte|**Évolution possible** 9-11 [DV](./../Ressources/DV.md) (taille L), 12-16 [DV](./../Ressources/DV.md) (taille TG)}
 {s:BDtexte|**Ajustement de niveau** –}
 </div>
 </td><td><div><div style="float:right; background-color: #fff; padding: 0 0 0 0; margin: 0 0 4px 8px">

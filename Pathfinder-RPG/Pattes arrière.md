@@ -4,6 +4,7 @@ Title: Pattes arrière
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Pattes arrière (capacité)
 ---
 
->>> Pattes arrière (capacité)
+>>> [Pattes arrière (capacité)](./Pattes arrière (capacité).md)

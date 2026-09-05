@@ -61,7 +61,7 @@ Tous les monstres de ce volume sont présentés avec trois icônes qui vous aide
 
 **PX.** Indique le nombre total de [points d’expérience](./Rencontres.md#L’expérience_1) gagnés par les PJ lorsqu’ils triomphent du monstre.
 
-**Race, classe et niveau.** Certains monstres n’ont pas de [dés de vie raciaux](./DV.md), ils se définissent par leurs niveaux de classe. La race, la classe et le niveau de ces monstres apparaissent ici. Sauf indication contraire, la première classe indiquée est aussi la [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION) du monstre.
+**Race, classe et niveau.** Certains monstres n’ont pas de [dés de vie raciaux](./../Ressources/DV.md), ils se définissent par leurs niveaux de classe. La race, la classe et le niveau de ces monstres apparaissent ici. Sauf indication contraire, la première classe indiquée est aussi la [classe de prédilection](./Progression des personnages.md#CLASSEDEPREDILECTION) du monstre.
 
 **Alignement, taille et type.** Si la taille et le [type](./Types de créatures.md) du monstre sont des informations figées (en dehors des modifications apportées par un archétype ou d’autres facteurs inhabituels), l’alignement est quelque chose de beaucoup plus variable. Les alignements indiqués pour les monstres correspondent à la norme de leur espèce : ils peuvent varier comme vous le voulez en fonction des besoins de votre campagne. En général, l’alignement indiqué reste figé uniquement pour les monstres relativement dépourvus d’intelligence (les créatures ayant une valeur d’[Intelligence](./Intelligence.md) égale ou inférieure à 2 sont presque toujours Neutres) et pour les [monstres d’outreplan](./type Extérieur.md) (les extérieurs dont l’alignement diffère de celui présenté sont rares et souvent rejetés par leur propre espèce).
 
@@ -71,7 +71,7 @@ Tous les monstres de ce volume sont présentés avec trois icônes qui vous aide
 
 **CA.** Indique la [classe d’armure](./CA.md) de base, au contact et pris au dépourvu de la créature. Les modificateurs permettant de calculer la CA sont indiqués entre parenthèses en fin de ligne.
 
-**pv.** Indique les [points de vie](./pv.md) de la créature, suivis de ses [dés de vie](./DV.md) (incluant les modificateurs liés à la [Constitution](./Constitution.md), aux niveaux de classe de prédilection et au don [Robustesse](./Robustesse.md)). Les créatures ayant des niveaux de classe de PJ reçoivent le maximum de points de vie sur leur premier DV, mais les autres jets de DV sont basés sur une moyenne. Les valeurs de [guérison accélérée](./Guérison accélérée (capacité).md) et de [régénération](./Régénération (capacité).md) (si la créature en possède) sont indiquées après ses DV.
+**pv.** Indique les [points de vie](./pv.md) de la créature, suivis de ses [dés de vie](./../Ressources/DV.md) (incluant les modificateurs liés à la [Constitution](./Constitution.md), aux niveaux de classe de prédilection et au don [Robustesse](./Robustesse.md)). Les créatures ayant des niveaux de classe de PJ reçoivent le maximum de points de vie sur leur premier DV, mais les autres jets de DV sont basés sur une moyenne. Les valeurs de [guérison accélérée](./Guérison accélérée (capacité).md) et de [régénération](./Régénération (capacité).md) (si la créature en possède) sont indiquées après ses DV.
 
 **Jets de sauvegarde.** Indiquent les valeurs de [Réflexes](./Réflexes.md), de [Vigueur](./Vigueur.md) et de [Volonté](./Volonté.md) de la créature, ainsi que les éventuels modificateurs qui s’appliquent.
 

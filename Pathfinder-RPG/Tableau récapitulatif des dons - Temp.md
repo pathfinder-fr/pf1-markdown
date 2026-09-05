@@ -666,7 +666,7 @@ LastModified: 2019-10-08 15:20
 | [Éclectisme](./Éclectisme.md) || <sup>MJRA</sup> || [Humain](./Humain.md) || Gagne une classe de prédilection de plus
 
 |- CLASS="premier"
-| [École renforcée](./École renforcée.md) || <sup>MJ</sup> || — || +1 au [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) des sorts d’une [école](./../Golarion/Écoles de magie.md)
+| [École renforcée](./École renforcée.md) || <sup>MJ</sup> || — || +1 au [DD](./DD.md) des [jets de sauvegarde](./jet de sauvegarde.md) des sorts d’une [école](./Écoles de magie.md)
 |-
 | &emsp;[Amélioration des créatures convoquées](./Amélioration des créatures convoquées.md) || <sup>MJ</sup> || [École renforcée](./École renforcée.md) ([Invocation](./Invocation.md)) || Les créatures invoquées gagnent +4 en [For](./Force.md) et [Con](./Constitution.md)
 |-
@@ -684,7 +684,7 @@ LastModified: 2019-10-08 15:20
 | &emsp;[Convocation stellaire](./Convocation stellaire.md) || <sup>AM</sup>
 | [École renforcée](./École renforcée.md) (invocation), capacité à lancer *[convocation d’alliés naturels](./Convocation dalliés naturels.md)* || Les créatures convoquées gagnent un bonus aux tests de [Discrétion](./Discrétion.md) et de [Perception](./Perception.md)
 |-
-| &emsp;[École supérieure](./École supérieure.md) || <sup>MJ</sup> || [École renforcée](./École renforcée.md) || +1 au DD des jets de sauvegarde des sorts d’une [école](./../Golarion/Écoles de magie.md)
+| &emsp;[École supérieure](./École supérieure.md) || <sup>MJ</sup> || [École renforcée](./École renforcée.md) || +1 au DD des jets de sauvegarde des sorts d’une [école](./Écoles de magie.md)
 |-
 | &emsp;[Maître des morts-vivants](./Maître des morts-vivants.md) || <sup>AM</sup> || [École renforcée](./École renforcée.md) (nécromancie), capacité à lancer *[animation des morts](./Animation des morts.md)* ou *[contrôle mineur des morts-vivants](./Contrôle mineur des morts-vivants.md)* || Anime et contrôle plus de morts-vivants
 |-
@@ -1246,7 +1246,7 @@ LastModified: 2019-10-08 15:20
 | &emsp;&emsp;[Science de la magie flexible](./Science de la magie flexible.md) || <sup>MCA</sup> || [Magie flexible](./Magie flexible.md), [Magicien](./Magicien.md) niveau 8 || Préparation de plus de sorts de manière flexible
 
 |- CLASS="premier"
-| [Maîtrise du combat défensif](./Maîtrise du combat défensif.md)* || <sup>MJ</sup> || — || Le [DMD](./DMD.md) du personnage se calcule à partir d'un [BBA](./BBA.md) égal à son nombre de [DV](./DV.md)
+| [Maîtrise du combat défensif](./Maîtrise du combat défensif.md)* || <sup>MJ</sup> || — || Le [DMD](./DMD.md) du personnage se calcule à partir d'un [BBA](./BBA.md) égal à son nombre de [DV](./../Ressources/DV.md)
 
 |- CLASS="premier"
 | [Maléfice flexible](./Maléfice flexible.md) || <sup>MCA</sup> || Pouvoir de classe maléfice errant || Changement de maléfice errant par une [action rapide](./Action rapide.md)
@@ -1598,7 +1598,7 @@ lanceur de sorts niv. 7 || [Chances d’échec des sorts profanes](./Caractéris
 | [Riposte](./Riposte.md)* || <sup>MJ</sup> || [BBA](./BBA.md) +11 || Riposte contre les ennemis qui attaquent à l’aide de leur allonge
 
 |- CLASS="premier"
-| [Robustesse](./Robustesse.md) || <sup>MJ</sup> || — || +3 [points de vie](./pv.md), +1 par [DV](./DV.md) en plus du 3<sup>ème</sup>
+| [Robustesse](./Robustesse.md) || <sup>MJ</sup> || — || +3 [points de vie](./pv.md), +1 par [DV](./../Ressources/DV.md) en plus du 3<sup>ème</sup>
 
 |- CLASS="premier"
 | [Roublard studieux](./Roublard studieux.md) || <sup>MCA</sup> || [talent de roublard magie mineure](./Talents.md#MAGIEMINEURE) || Le personnage change les pouvoirs magiques issus de son talent de roublard par l’étude
@@ -1738,7 +1738,7 @@ lanceur de sorts niv. 7 || [Chances d’échec des sorts profanes](./Caractéris
 | &emsp;[Toucher de la sérénité](./Toucher de la sérénité.md)* || <sup>MJRA</sup> || [Sag](./Sagesse.md) 18, [Science du combat à mains nues](./Science du combat à mains nues.md), [BBA](./BBA.md) +8 || Les ennemis touchés par les attaques à mains nues ne peuvent ni attaquer, ni incanter
 
 |- CLASS="premier"
-| [Science du contresort](./Science du contresort.md) || <sup>MJ</sup> || — || Capacité à [contrer un sort](./contresort.md) à l’aide d’un autre sort de la même [école](./../Golarion/Écoles de magie.md)
+| [Science du contresort](./Science du contresort.md) || <sup>MJ</sup> || — || Capacité à [contrer un sort](./contresort.md) à l’aide d’un autre sort de la même [école](./Écoles de magie.md)
 |-
 | &emsp;[Parade de sorts](./Parade de sorts.md) || <sup>MJRA</sup> || [Art de la magie](./Art de la magie.md) 15 rangs, [Science du contresort](./Science du contresort.md) || Renvoyer un sort contré vers le lanceur
 

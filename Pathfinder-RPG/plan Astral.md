@@ -2,6 +2,7 @@
 Name: Pathfinder-RPG.plan Astral
 Title: plan Astral
 LastModified: 2010-07-20 15:51
+RedirectTo: Pathfinder-RPG.Plans
 ---
 
->>> Pathfinder-RPG.Plans
+>>> [Pathfinder-RPG.Plans](./Plans.md)

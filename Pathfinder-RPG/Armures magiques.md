@@ -213,7 +213,7 @@ Une armure ou un bouclier ayant une propriété spéciale doit posséder un bonu
 | *[Résistance supérieure aux énergies destructives](./résistance supérieure aux énergies destructives (propriété).md)* || <sup>A&E</sup> || — || L’objet absorbe les 20 premiers points de dégâts d’un type d’énergie choisi à la fabrication de toute attaque subie par le porteur (comme avec *[résistance aux énergies destructives](./Résistance aux énergies destructives.md)*). || +42 000 po
 
 |- CLASS="premier"
-| *[Contrôle des morts-vivants](./contrôle des morts-vivants (propriété).md)* || <sup>A&E</sup> || — || Permet de contrôler jusqu’à 26 [DV](./DV.md) de morts-vivants par jour (comme avec *[contrôle des morts-vivants](./Contrôle des morts-vivants.md)*), il en perd le contrôle à l’aube suivant l’utilisation de ce pouvoir. || +49 000 po
+| *[Contrôle des morts-vivants](./contrôle des morts-vivants (propriété).md)* || <sup>A&E</sup> || — || Permet de contrôler jusqu’à 26 [DV](./../Ressources/DV.md) de morts-vivants par jour (comme avec *[contrôle des morts-vivants](./Contrôle des morts-vivants.md)*), il en perd le contrôle à l’aube suivant l’utilisation de ce pouvoir. || +49 000 po
 
 |- CLASS="premier"
 | *[Éthérée](./éthérée (propriété).md)* || <sup>A&E</sup> || Armures || Peut conférer les effets du sort *[forme éthérée](./Forme éthérée.md)* sans limite de durée, mais ne pouvant être réactivé qu’après les 24 heures suivants la désactivation. || +49 000 po

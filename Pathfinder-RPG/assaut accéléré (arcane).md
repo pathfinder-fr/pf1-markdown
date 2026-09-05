@@ -5,6 +5,7 @@ LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
 - Règles officielles
+RedirectTo: arcanes#ASSAUTACCELERE
 ---
 
->>> arcanes#ASSAUTACCELERE
+>>> [arcanes#ASSAUTACCELERE](./arcanes.md#ASSAUTACCELERE)

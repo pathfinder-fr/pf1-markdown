@@ -62,7 +62,7 @@ risque d’être puni || +15 ou plus
 
 {s:ClearRight}{s:Reference|DEMORALISERUNADVERSAIRE}
 ### Démoraliser un adversaire
-Le personnage peut secouer un adversaire. Le [DD](./DD.md) du test est égal à 10 + le nombre de [dés de vie](./DV.md) de la cible + le modificateur de [Sagesse](./Sagesse.md) de la cible. En cas de réussite, la cible est [secouée](./Secoué.md) pendant 1 [round](./round.md), plus 1 round supplémentaire par tranche de 5 points obtenus au-dessus du DD. Le personnage peut seulement affecter un adversaire situé à 9 mètres ou moins qui peut le voir et l’entendre distinctement. S’il démoralise un ennemi à plusieurs reprises, il ne fait que rallonger la durée de l’effet, il n’augmente pas l’intensité de la peur ressentie.
+Le personnage peut secouer un adversaire. Le [DD](./DD.md) du test est égal à 10 + le nombre de [dés de vie](./../Ressources/DV.md) de la cible + le modificateur de [Sagesse](./Sagesse.md) de la cible. En cas de réussite, la cible est [secouée](./Secoué.md) pendant 1 [round](./round.md), plus 1 round supplémentaire par tranche de 5 points obtenus au-dessus du DD. Le personnage peut seulement affecter un adversaire situé à 9 mètres ou moins qui peut le voir et l’entendre distinctement. S’il démoralise un ennemi à plusieurs reprises, il ne fait que rallonger la durée de l’effet, il n’augmente pas l’intensité de la peur ressentie.
 
 **Action.** [Action simple](./Action simple.md).
 
@@ -80,7 +80,7 @@ La feinte au combat est décrite [ici](./feinte.md). Le personnage utilise l’I
 
 {s:Reference|INTIMIDER}
 ### Intimider
-Le personnage peut forcer un adversaire à se montrer amical envers lui pendant 1d6 × 10 minutes en réussissant un test d’Influence dont le [DD](./DD.md) est égal à 10 + le nombre de [dés de vie](./DV.md) de la cible + le modificateur de [Sagesse](./Sagesse.md) de la cible. En cas de réussite, la cible livre au personnage l’information qu’il désire, lui rend des services tant que cela ne la met pas en danger ou lui apporte une aide limitée. Au terme de cette période, la cible adopte une attitude inamicale envers le personnage et peut même la dénoncer aux autorités locales. En cas de test raté de 5 points ou plus, la cible tente de tromper le personnage ou de lui mettre des bâtons dans les roues d’une manière ou d’une autre.
+Le personnage peut forcer un adversaire à se montrer amical envers lui pendant 1d6 × 10 minutes en réussissant un test d’Influence dont le [DD](./DD.md) est égal à 10 + le nombre de [dés de vie](./../Ressources/DV.md) de la cible + le modificateur de [Sagesse](./Sagesse.md) de la cible. En cas de réussite, la cible livre au personnage l’information qu’il désire, lui rend des services tant que cela ne la met pas en danger ou lui apporte une aide limitée. Au terme de cette période, la cible adopte une attitude inamicale envers le personnage et peut même la dénoncer aux autorités locales. En cas de test raté de 5 points ou plus, la cible tente de tromper le personnage ou de lui mettre des bâtons dans les roues d’une manière ou d’une autre.
 
 **Action.** 1 minute de discussion.
 

@@ -5,6 +5,7 @@ LastModified: 2020-02-20 22:32
 Categories:
 - Propriété arme
 - Redirection
+RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Trompeuse
 ---
 
->>> Descriptions individuelles des propriétés spéciales des armes#Trompeuse
+>>> [Descriptions individuelles des propriétés spéciales des armes#Trompeuse](./Descriptions individuelles des propriétés spéciales des armes.md#Trompeuse)

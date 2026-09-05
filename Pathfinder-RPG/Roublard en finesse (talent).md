@@ -4,6 +4,7 @@ Title: Roublard en finesse (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#ROUBLARDFINESSE
 ---
 
->>> Talents#ROUBLARDFINESSE
+>>> [Talents#ROUBLARDFINESSE](./Talents.md#ROUBLARDFINESSE)

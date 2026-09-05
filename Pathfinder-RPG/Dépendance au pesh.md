@@ -31,7 +31,7 @@ Ce sort fonctionne comme *[quête](./Quête.md)*, excepté le fait que le seul o
 **Durée** 1 jour/[niveau](./niveau.md) ou jusqu’à accomplissement ([T](./Présentation des sorts.md#DUREE))
 **Jet de sauvegarde** aucun ; **Résistance à la magie** oui
 ---
-Ce sort est semblable à *[mission](./Mission.md)*, si ce n’est qu’il affecte un nombre de [DV](./DV.md) de la créature illimité et n’autorise aucun [jet de sauvegarde](./jet de sauvegarde.md).
+Ce sort est semblable à *[mission](./Mission.md)*, si ce n’est qu’il affecte un nombre de [DV](./../Ressources/DV.md) de la créature illimité et n’autorise aucun [jet de sauvegarde](./jet de sauvegarde.md).
 
 Si le sujet ne peut accomplir sa *quête* pendant vingt-quatre heures, il subit un malus de -3 à chaque valeur de caractéristique. Ces malus s’accumulent chaque jour, jusqu’à un total de -12, mais les valeurs de caractéristiques ne descendent jamais en dessous de 1. Ces malus disparaissent vingt-quatre heures après que le sujet s’est réattelé à sa *quête*.
 

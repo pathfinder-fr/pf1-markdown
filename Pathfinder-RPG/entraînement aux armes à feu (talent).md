@@ -4,6 +4,7 @@ Title: entraînement aux armes à feu
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#ENTRAINEMENTAUXARMESAFEU
 ---
 
->>> Talents#ENTRAINEMENTAUXARMESAFEU
+>>> [Talents#ENTRAINEMENTAUXARMESAFEU](./Talents.md#ENTRAINEMENTAUXARMESAFEU)

@@ -25,7 +25,7 @@ Categories:
 
 **Jet de sauvegarde** [Vigueur](./Vigueur.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
 
-Chaque [round](./round.md), le personnage cible une créature vivante, projetant sur elle des vagues de puissance maléfique. En fonction des [DV](./DV.md) de la cible, cette attaque peut avoir jusqu’à trois effets.
+Chaque [round](./round.md), le personnage cible une créature vivante, projetant sur elle des vagues de puissance maléfique. En fonction des [DV](./../Ressources/DV.md) de la cible, cette attaque peut avoir jusqu’à trois effets.
 
 <center>
 {| CLASS="tablo"

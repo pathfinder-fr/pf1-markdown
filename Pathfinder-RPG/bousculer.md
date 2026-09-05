@@ -4,6 +4,7 @@ Title: bousculer
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Manœuvres offensives#BOUSCULADE
 ---
 
->>> Manœuvres offensives#BOUSCULADE
+>>> [Manœuvres offensives#BOUSCULADE](./Manœuvres offensives.md#BOUSCULADE)

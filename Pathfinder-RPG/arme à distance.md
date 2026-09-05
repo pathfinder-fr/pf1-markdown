@@ -4,6 +4,7 @@ Title: arme à distance
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Caractéristiques des armes#ARMEADISTANCE
 ---
 
->>> Caractéristiques des armes#ARMEADISTANCE
+>>> [Caractéristiques des armes#ARMEADISTANCE](./Caractéristiques des armes.md#ARMEADISTANCE)

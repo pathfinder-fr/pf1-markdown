@@ -19,7 +19,7 @@ Quand le cruoromancien lance un sort de l’[école de nécromancie](./Nécroman
 Cette capacité remplace [pacte magique](./Magicien.md#PACTEMAGIQUE).
 
 #### Contrôle par le sang (Sur).
-Au niveau 5, le cruoromancien peut contrôler un nombre maximum de créatures [mortes-vivantes](./type Mort-vivant.md) égal à 5 [dés de vie](./DV.md) par [niveau de lanceur de sorts](./NLS.md), plutôt que les 4 dés de vie normaux de morts-vivants, quand il lance le sort *[animation des morts](./Animation des morts.md)*. Il gagne également la capacité suivante d’infusion de sang.
+Au niveau 5, le cruoromancien peut contrôler un nombre maximum de créatures [mortes-vivantes](./type Mort-vivant.md) égal à 5 [dés de vie](./../Ressources/DV.md) par [niveau de lanceur de sorts](./NLS.md), plutôt que les 4 dés de vie normaux de morts-vivants, quand il lance le sort *[animation des morts](./Animation des morts.md)*. Il gagne également la capacité suivante d’infusion de sang.
 - *Infusion de contrôle.* Lorsqu’il utilise cette infusion avec *[animation des morts](./Animation des morts.md)*, le cruoromancien peut créer des morts-vivants pour un total de dés de vies égal à trois fois son niveau de lanceur de sorts plutôt qu’à deux fois son niveau de lanceur.
 
 Cette capacité remplace le [don supplémentaire](./Magicien.md#DONSUPPLEMENTAIRE) du magicien au niveau 5.

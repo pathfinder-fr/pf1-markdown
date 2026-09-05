@@ -4,6 +4,7 @@ Title: LN
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Alignement#LN
 ---
 
->>> Alignement#LN
+>>> [Alignement#LN](./Alignement.md#LN)

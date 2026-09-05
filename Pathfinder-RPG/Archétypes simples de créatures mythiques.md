@@ -42,7 +42,7 @@ destructives || RD
 |}
 </div></div>Les créatures ayant l’archétype invincible sont extrêmement difficiles à blesser. Elles peuvent supporter des châtiments exceptionnels et poursuivre le combat. Si la créature a 11 dés de vie ou plus, cet archétype simple lui accorde un [rang mythique](./Rang mythique.md) de 2 au lieu de 1. Les règles abrégées des créatures invincibles sont les mêmes que celles de reconstruction.
 
-**Règles de reconstruction.** ; **CA** augmentation du bonus d’armure naturelle de 2 (ou de 4 si la créature a 11 [dés de vie](./DV.md) ou plus) ; **pv** [points de vie mythiques supplémentaires](./points de vie mythiques supplémentaires.md) ; **Capacités défensives** elle gagne une [RD](./RD.md) et une [résistance](./Résistance (capacité).md) à tous les types d’énergie comme indiqué dans la table ci-contre, ainsi que [blocage des attaques](./Blocage des attaques (capacité).md) et [second jet de sauvegarde](./Second jet de sauvegarde (capacité).md).
+**Règles de reconstruction.** ; **CA** augmentation du bonus d’armure naturelle de 2 (ou de 4 si la créature a 11 [dés de vie](./../Ressources/DV.md) ou plus) ; **pv** [points de vie mythiques supplémentaires](./points de vie mythiques supplémentaires.md) ; **Capacités défensives** elle gagne une [RD](./RD.md) et une [résistance](./Résistance (capacité).md) à tous les types d’énergie comme indiqué dans la table ci-contre, ainsi que [blocage des attaques](./Blocage des attaques (capacité).md) et [second jet de sauvegarde](./Second jet de sauvegarde (capacité).md).
 
 {s:ClearRight}
 #### Sauvage (RMy 1 ou 2, FP +1)

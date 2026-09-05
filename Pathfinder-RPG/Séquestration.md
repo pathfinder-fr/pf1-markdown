@@ -15,7 +15,7 @@ Categories:
 
 **Temps d'incantation** 1 [action simple](./Action simple.md) ou voir description  
 
-**Composantes** [V, G, M](./composantes.md) (une gemme d’une valeur de 1 000 po par [DV](./DV.md) de la créature piégée)  
+**Composantes** [V, G, M](./composantes.md) (une gemme d’une valeur de 1 000 po par [DV](./../Ressources/DV.md) de la créature piégée)  
 
 **Portée** courte (7,50 m + 1,50 m/2 [niveaux](./niveau.md)) (5 {s:c} + 1 {s:c}/2 [niveaux](./niveau.md))  
 

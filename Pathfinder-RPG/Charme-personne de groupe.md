@@ -21,7 +21,7 @@ Categories:
 **Durée** 1 heure/niveau
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
 ---
-Ce sort fonctionne comme *[charme-personne](./Charme-personne.md)*, excepté que *charme-personne de groupe* cible un nombre de créatures [humanoïdes](./type Humanoïde.md) dont le nombre [DV](./DV.md) combinés ne dépasse pas le double du niveau du personnage. S'il y a plus de cibles potentielles que le personnage ne peut en affecter, il les choisit une par une jusqu'à ce qu'il atteigne le maximum de DV qu'il peut affecter. Si le personnage lance *charme-personne de groupe* sur une seule créature, il ignore la limite de DV du sort.
+Ce sort fonctionne comme *[charme-personne](./Charme-personne.md)*, excepté que *charme-personne de groupe* cible un nombre de créatures [humanoïdes](./type Humanoïde.md) dont le nombre [DV](./../Ressources/DV.md) combinés ne dépasse pas le double du niveau du personnage. S'il y a plus de cibles potentielles que le personnage ne peut en affecter, il les choisit une par une jusqu'à ce qu'il atteigne le maximum de DV qu'il peut affecter. Si le personnage lance *charme-personne de groupe* sur une seule créature, il ignore la limite de DV du sort.
 
 
 

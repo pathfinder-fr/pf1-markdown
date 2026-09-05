@@ -4,6 +4,7 @@ Title: coup critique
 LastModified: 2025-09-23 09:22
 Categories:
 - Redirection
+RedirectTo: actions simples#COUPCRITIQUE
 ---
 
->>> actions simples#COUPCRITIQUE
+>>> [actions simples#COUPCRITIQUE](./Actions simples.md#COUPCRITIQUE)

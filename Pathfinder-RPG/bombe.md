@@ -4,6 +4,7 @@ Title: bombe
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Alchimiste#BOMBE
 ---
 
->>> Alchimiste#BOMBE
+>>> [Alchimiste#BOMBE](./Alchimiste.md#BOMBE)

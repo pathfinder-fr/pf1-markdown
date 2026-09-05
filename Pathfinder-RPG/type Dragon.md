@@ -13,7 +13,7 @@ Categories:
 
 Les dragons sont des créatures similaires aux reptiles, généralement pourvues d'ailes et possédant des capacités magiques ou inhabituelles. Ils partagent les attributs suivants :
 - Dés de vie : d12
-- [BBA](./BBA.md) égal au nombre total de [DV](./DV.md) (progression rapide)
+- [BBA](./BBA.md) égal au nombre total de [DV](./../Ressources/DV.md) (progression rapide)
 - Jets de sauvegarde forts : [Réflexes](./Réflexes.md), [Vigueur](./Vigueur.md) et [Volonté](./Volonté.md).
 - Points de compétence par DV : 6 + Modificateur d'[Intelligence](./Intelligence.md) (au minimum 1). Compétences de classe : [Art de la magie](./Art de la magie.md), [Artisanat](./Artisanat.md), [Bluff](./Bluff.md), [Connaissances](./Connaissances.md) (tous), [Diplomatie](./Diplomatie.md), [Discrétion](./Discrétion.md), [Escalade](./Escalade.md), [Estimation](./Estimation.md),[Intimidation](./Intimidation.md), [Linguistique](./Linguistique.md), [Natation](./Natation.md), [Perception](./Perception.md), [Premiers secours](./Premiers secours.md), [Psychologie](./Psychologie.md), [Survie](./Survie.md), [Utilisation d'objets magiques](./Utilisation dObjets Magiques.md), [Vol](./Vol.md).
 

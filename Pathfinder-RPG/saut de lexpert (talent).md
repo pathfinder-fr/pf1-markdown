@@ -4,6 +4,7 @@ Title: saut de l'expert
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#SAUTDELEXPERT
 ---
 
->>> Talents#SAUTDELEXPERT
+>>> [Talents#SAUTDELEXPERT](./Talents.md#SAUTDELEXPERT)

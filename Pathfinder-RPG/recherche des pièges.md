@@ -4,6 +4,7 @@ Title: recherche des pièges
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Roublard#RECHERCHEDESPIEGES
 ---
 
->>> Roublard#RECHERCHEDESPIEGES
+>>> [Roublard#RECHERCHEDESPIEGES](./Roublard.md#RECHERCHEDESPIEGES)

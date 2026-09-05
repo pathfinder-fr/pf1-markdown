@@ -4,6 +4,7 @@ Title: Élémentaire de Terre de taille M
 LastModified: 2020-09-17 02:02
 Categories:
 - Redirection
+RedirectTo: Élémentaire de la Terre#_1
 ---
 
->>> Élémentaire de la Terre#_1
+>>> [Élémentaire de la Terre#_1](./Élémentaire de la Terre.md#_1)

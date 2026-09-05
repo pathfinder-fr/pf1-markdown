@@ -4,6 +4,7 @@ Title: Degré de manœuvre défensive
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Manœuvres offensives#DMD
 ---
 
->>> Manœuvres offensives#DMD
+>>> [Manœuvres offensives#DMD](./Manœuvres offensives.md#DMD)

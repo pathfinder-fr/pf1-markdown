@@ -4,6 +4,7 @@ Title: oeil de larcher (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: talents#OEILDELARCHER
 ---
 
->>> talents#OEILDELARCHER
+>>> [talents#OEILDELARCHER](./Talents.md#OEILDELARCHER)

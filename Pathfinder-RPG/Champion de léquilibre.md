@@ -10,7 +10,7 @@ Categories:
 
 {s:PU}*Le personnage s’efforce de maintenir l’équilibre dans le multivers.*
 
-**Conditions.** 10 [DV](./DV.md), alignement Neutre
+**Conditions.** 10 [DV](./../Ressources/DV.md), alignement Neutre
 
 **Avantages.** Le personnage gagne un bonus de +2 aux dégâts des armes et des sorts contre les créatures Bonnes ou Mauvaises, ainsi que contre les créatures Loyales ou Chaotiques. Ces bonus se cumulent.
 

@@ -7,6 +7,7 @@ Categories:
 - Objet mag propriété arme
 - Redirection
 - Src Weapon Masters Handbook
+RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Perce-cœur
 ---
 
->>> Descriptions individuelles des propriétés spéciales des armes#Perce-cœur
+>>> [Descriptions individuelles des propriétés spéciales des armes#Perce-cœur](./Descriptions individuelles des propriétés spéciales des armes.md#Perce-cœur)

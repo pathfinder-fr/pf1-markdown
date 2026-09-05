@@ -8,7 +8,7 @@ Categories:
 
 *L’endurance du personnage est au-dessus de la moyenne.*
 
-**Avantage.** Le personnage gagne 3 [points de vie](./pv.md) supplémentaires. Il gagne 1 [point de vie](./pv.md) supplémentaire pour chaque [Dé de vie](./DV.md) qu’il possède au-dessus de 3. S’il possède plus de 3 [DV](./DV.md), il gagne 1 [point de vie](./pv.md) supplémentaire à chaque fois qu’il gagne un [DV](./DV.md) (quand il [prend un niveau](./Progression des personnages.md) par exemple).
+**Avantage.** Le personnage gagne 3 [points de vie](./pv.md) supplémentaires. Il gagne 1 [point de vie](./pv.md) supplémentaire pour chaque [Dé de vie](./../Ressources/DV.md) qu’il possède au-dessus de 3. S’il possède plus de 3 [DV](./../Ressources/DV.md), il gagne 1 [point de vie](./pv.md) supplémentaire à chaque fois qu’il gagne un [DV](./../Ressources/DV.md) (quand il [prend un niveau](./Progression des personnages.md) par exemple).
 
 (((Ce don possède une variante [Robustesse (alternatif)](./Robustesse (alternatif).md) pour utilisation avec les règles alternatives « [Blessures et vitalité](./Blessures et vitalité.md) » de l’*Art de la Guerre*)))
 

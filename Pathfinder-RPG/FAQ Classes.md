@@ -11,7 +11,7 @@ LastModified: 2023-12-11 15:43
 ### Questions générales sur les classes
 **Q : Je suis induit en erreur par les différentes appellations utilisées dans le livre de base à propos du niveau de personnage et du niveau de classe du personnage. S'agit-il du niveau de personnage ou du niveau de classe lorsque les règles font référence à "son niveau" sans précision ? S'agit-il du niveau de personnage ou du niveau de classe lorsqu'elles se réfèrent au "niveau de classe" ?**
 
-R : (James Jacobs 27/04/10) Le niveau de personnage signifie le nombre total de niveaux d'un personnage : la somme de la totalité de ses niveaux de classes. Pour la plupart des PJ, ce nombre devrait être égal à celui de leurs [Dés de Vie](./DV.md). Le niveau de classe est le niveau du personnage dans une classe spécifique.
+R : (James Jacobs 27/04/10) Le niveau de personnage signifie le nombre total de niveaux d'un personnage : la somme de la totalité de ses niveaux de classes. Pour la plupart des PJ, ce nombre devrait être égal à celui de leurs [Dés de Vie](./../Ressources/DV.md). Le niveau de classe est le niveau du personnage dans une classe spécifique.
 - un [paladin](./Paladin.md) de 10ème niveau possède 10 niveaux de personnage consistant en 10 niveaux dans la classe de [paladin](./Paladin.md).
 - un [paladin](./Paladin.md) 5/[barde](./Barde.md) 5 possède 10 niveaux de classe décomposés en 5 niveaux de classe de [paladin](./Paladin.md) et 5 niveaux de classe de [barde](./Barde.md).
 
@@ -19,7 +19,7 @@ R : (James Jacobs 27/04/10) Le niveau de personnage signifie le nombre total de 
 
 R : (Jason Bulmahn) Les facultés de classe qui se réfèrent à un niveau le font toujours au niveau de cette classe particulière à moins qu'il ne soit expressément précisé le contraire.
 
-**Q : Les [domaines de prêtre](./Domaines.md), [lignages d'ensorceleur](./Lignages.md), [écoles de magicien](./../Golarion/Écoles de magie.md) et d'autres éléments de classes donne des pouvoir magiques qui ne sont pas basés sur des sorts. Quel est le niveau de sort effectif de ces capacités ?**
+**Q : Les [domaines de prêtre](./Domaines.md), [lignages d'ensorceleur](./Lignages.md), [écoles de magicien](./Écoles de magie.md) et d'autres éléments de classes donne des pouvoir magiques qui ne sont pas basés sur des sorts. Quel est le niveau de sort effectif de ces capacités ?**
 
 R : (Sean K. Reynolds - 08/07/2011) Le niveau de sort effectif de ces pouvoirs magiques est égal au niveau du sort de plus haut niveau qu'un personnage de cette classe pourrait lancer au niveau où cette capacité est obtenue.
 
@@ -144,20 +144,20 @@ R : (James Jacobs 08/03/2010) Un [objet fétiche](./Magicien.md#PACTEMAGIQUE) do
 R : (Jason Bulmahn) Il n'est pas nécessaire de savoir manipuler une arme pour l'utiliser en tant qu'[objet fétiche](./Magicien.md#PACTEMAGIQUE).
 
 ##### Projectile de force
-**Q : Est-ce que le [Projectile de force](./../Golarion/Écoles de magie.md#EVOCATION) d'un [magicien](./Magicien.md) touche automatiquement, comme le *[projectile magique](./Projectile magique.md)*? Et est-ce qu'une *broche de protection* (brooch of shielding) l'absorbe ?**
+**Q : Est-ce que le [Projectile de force](./Écoles de magie.md#EVOCATION) d'un [magicien](./Magicien.md) touche automatiquement, comme le *[projectile magique](./Projectile magique.md)*? Et est-ce qu'une *broche de protection* (brooch of shielding) l'absorbe ?**
 
 R : (Jason Bulmahn) Le [Projectile de force](./Évocation.md) fonctionne exactement comme un *[projectile magique](./Projectile magique.md)* concernant ce qu'il peut atteindre, les dégâts occasionnés et ce qui l'absorbe.
 
 ##### Main de l'apprenti
-**Q : J'ai un [magicien](./Magicien.md) agrandi qui souhaite utiliser sa [main de l'apprenti](./../Golarion/Écoles de magie.md#UNIVERSELLE). Est-ce que l'arme reste en sa possession (ie reste à la nouvelle taille du [magicien](./Magicien.md)) et ne revient pas à sa taille originelle ?**
+**Q : J'ai un [magicien](./Magicien.md) agrandi qui souhaite utiliser sa [main de l'apprenti](./Écoles de magie.md#UNIVERSELLE). Est-ce que l'arme reste en sa possession (ie reste à la nouvelle taille du [magicien](./Magicien.md)) et ne revient pas à sa taille originelle ?**
 
-R : [Main de l'apprenti](./../Golarion/Écoles de magie.md#UNIVERSELLE) dit : "Cette attaque est considérée comme une attaque à distance avec une arme de jet..." donc je dirais que l'arme revient à sa taille originelle lorsqu'elle est dans la [main de l'apprenti](./../Golarion/Écoles de magie.md#UNIVERSELLE). Il n'y a pas de différence avec une flèche tirée par un arc. Ce qui précède est déduit depuis cette ligne de la description du sort *[agrandissement](./Agrandissement.md)* : "Si elle (la créature agrandie) lâche l’un de ses objets agrandis (ce qui inclut projectiles et armes de jet), ce dernier recouvre sa taille normale instantanément. Les armes de jet et les projectiles infligent des dégâts normaux."
+R : [Main de l'apprenti](./Écoles de magie.md#UNIVERSELLE) dit : "Cette attaque est considérée comme une attaque à distance avec une arme de jet..." donc je dirais que l'arme revient à sa taille originelle lorsqu'elle est dans la [main de l'apprenti](./Écoles de magie.md#UNIVERSELLE). Il n'y a pas de différence avec une flèche tirée par un arc. Ce qui précède est déduit depuis cette ligne de la description du sort *[agrandissement](./Agrandissement.md)* : "Si elle (la créature agrandie) lâche l’un de ses objets agrandis (ce qui inclut projectiles et armes de jet), ce dernier recouvre sa taille normale instantanément. Les armes de jet et les projectiles infligent des dégâts normaux."
 
-**Q : Est-ce qu'une arme à deux mains utilisée avec une [main de l'apprenti](./../Golarion/Écoles de magie.md#UNIVERSELLE) inflige toujours 1.5 [For](./Force.md) dégâts ?**
+**Q : Est-ce qu'une arme à deux mains utilisée avec une [main de l'apprenti](./Écoles de magie.md#UNIVERSELLE) inflige toujours 1.5 [For](./Force.md) dégâts ?**
 
 R : Selon les termes des règles, il n'est pas possible d'avoir 1.5 [For](./Force.md) avec ce type d'arme, pas plus qu'il n'est possible d'avoir sa plage de critique normale : "Arme lancées : [...] On applique le modificateur de [Force](./Force.md) du personnage aux jets de dégâts des armes de jet (à l’exception des armes à impact). [...] Quelle que soit la nature de l’arme, un tel lancer donne un critique sur un 20 naturel et inflige des dégâts doublés en cas de critique confirmé."
 
-*Non officiel* : Je ne suis pas d'accord avec le fait qu'une limitation des quelques points dégâts gagnés par le 1.5 [For](./Force.md) soit inquiétant. Pas plus que les plages de critiques et leur multiplicateur doivent changer. Je pense qu'il n'est pas dangereux de dire que l'esprit des règles pour la [Main de l'apprenti](./../Golarion/Écoles de magie.md#UNIVERSELLE) n'était pas de renforcer ce type de règles.
+*Non officiel* : Je ne suis pas d'accord avec le fait qu'une limitation des quelques points dégâts gagnés par le 1.5 [For](./Force.md) soit inquiétant. Pas plus que les plages de critiques et leur multiplicateur doivent changer. Je pense qu'il n'est pas dangereux de dire que l'esprit des règles pour la [Main de l'apprenti](./Écoles de magie.md#UNIVERSELLE) n'était pas de renforcer ce type de règles.
 
 {s:REFERENCE|FAQCLASSEPALADINPRETRE}
 #### Paladin
@@ -264,7 +264,7 @@ R : (James Jacobs 04/03/2010) La description de ces deux classes est différente
 
 R : Il faut probablement considérer que le don [Incantation rapide](./Incantation rapide.md) (Métamagie) a été appliqué. Dans ce cas, seuls les sorts ayant une durée d'incantation d'un round ou moins peuvent être utilisés avec cette capacité. C'est la réponse la plus logique jusqu'à ce qu'une réponse officielle soit donnée.
 
-**Q : Un [ensorceleur](./Ensorceleur.md) peut-il ajouter des [dons de métamagie](./Dons.md#DONMETAMAGIE) à la capacité [Sortilège dévastateur](./Champion occultiste.md#SORTILEGEDEVASTATEUR) ? Si cela n'est pas possible parce qu'il faut que le sort ait une durée d'incantation d'une [action simple](./Action simple.md), un [ensorceleur](./Ensorceleur.md) de [lignage Profane](./lignage Profane.md) peut-il ajouter des effets métamagiques en utilisant sa capacité d'[Adepte de la métamagie](./lignage Profane.md) ? Et qu'en est-il d'un [magicien](./Magicien.md) [universaliste](./../Golarion/Écoles de magie.md#UNIVERSELLE) ?**
+**Q : Un [ensorceleur](./Ensorceleur.md) peut-il ajouter des [dons de métamagie](./Dons.md#DONMETAMAGIE) à la capacité [Sortilège dévastateur](./Champion occultiste.md#SORTILEGEDEVASTATEUR) ? Si cela n'est pas possible parce qu'il faut que le sort ait une durée d'incantation d'une [action simple](./Action simple.md), un [ensorceleur](./Ensorceleur.md) de [lignage Profane](./lignage Profane.md) peut-il ajouter des effets métamagiques en utilisant sa capacité d'[Adepte de la métamagie](./lignage Profane.md) ? Et qu'en est-il d'un [magicien](./Magicien.md) [universaliste](./Écoles de magie.md#UNIVERSELLE) ?**
 
 R : Considérant que la capacité [Sortilège dévastateur](./Champion occultiste.md#SORTILEGEDEVASTATEUR) fonctionne comme le [don de métamagie](./Dons.md#DONMETAMAGIE) [Incantation rapide](./Incantation rapide.md), alors la réponse est oui à toutes les questions posées, étant donné qu'il est possible d'appliquer plus d'un [don de métamagie](./Dons.md#DONMETAMAGIE) à un sort. Ainsi un [ensorceleur](./Ensorceleur.md) qui ne serait pas de [lignage Profane](./lignage Profane.md) peut ajouter un [don de métamagie](./Dons.md#DONMETAMAGIE) à la capacité [Sortilège dévastateur](./Champion occultiste.md#SORTILEGEDEVASTATEUR), de même qu'un [magicien](./Magicien.md).
 

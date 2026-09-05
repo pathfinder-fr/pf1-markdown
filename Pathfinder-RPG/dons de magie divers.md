@@ -34,7 +34,7 @@ Categories:
 |-
 | &emsp;[Bluff magique](./Bluff magique.md)<sup>um</sup> || 5 [rangs](./rang.md) en [Bluff](./Bluff.md) et en [Art de la magie](./Art de la magie.md) || Le personnage [bluffe](./Bluff.md) les autres lanceurs de sorts, ce qui augmente le [DD](./DD.md) pour identifier ses sorts
 |-
-| &emsp;[Science du contresort](./Science du contresort.md) || - || Capacité à [contrer un sort](./contresort.md) à l’aide d’un autre sort de la même [école](./../Golarion/Écoles de magie.md)
+| &emsp;[Science du contresort](./Science du contresort.md) || - || Capacité à [contrer un sort](./contresort.md) à l’aide d’un autre sort de la même [école](./Écoles de magie.md)
 |-
 | &emsp;&emsp;[Parade de sorts](./Parade de sorts.md)<sup>APG</sup> || [Art de la magie](./Art de la magie.md) 15 [rangs](./rang.md), [Science du contresort](./Science du contresort.md) || Renvoyer un sort contré vers le lanceur
 |- CLASS="premier"

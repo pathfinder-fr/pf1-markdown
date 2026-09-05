@@ -4,6 +4,7 @@ Title: don mythique
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Dons Mythiques
 ---
 
->>> Dons Mythiques
+>>> [Dons Mythiques](./Dons mythiques.md)

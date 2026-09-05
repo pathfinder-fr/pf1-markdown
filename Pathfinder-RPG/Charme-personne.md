@@ -54,7 +54,7 @@ Ce sort fonctionne sur le même principe que *[charme-personne](./Charme-personn
 **Durée** 1 heure/niveau
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
 ---
-Ce sort fonctionne comme *[charme-personne](./Charme-personne.md)*, excepté que *charme-personne de groupe* cible un nombre de créatures [humanoïdes](./type Humanoïde.md) dont le nombre [DV](./DV.md) combinés ne dépasse pas le double du niveau du personnage. S'il y a plus de cibles potentielles que le personnage ne peut en affecter, il les choisit une par une jusqu'à ce qu'il atteigne le maximum de DV qu'il peut affecter. Si le personnage lance *charme-personne de groupe* sur une seule créature, il ignore la limite de DV du sort.
+Ce sort fonctionne comme *[charme-personne](./Charme-personne.md)*, excepté que *charme-personne de groupe* cible un nombre de créatures [humanoïdes](./type Humanoïde.md) dont le nombre [DV](./../Ressources/DV.md) combinés ne dépasse pas le double du niveau du personnage. S'il y a plus de cibles potentielles que le personnage ne peut en affecter, il les choisit une par une jusqu'à ce qu'il atteigne le maximum de DV qu'il peut affecter. Si le personnage lance *charme-personne de groupe* sur une seule créature, il ignore la limite de DV du sort.
 
 ## [Charme-monstre de groupe](./Charme-monstre de groupe.md)
 **École** [Enchantement](./Enchantement.md) ([charme](./branche charme.md)) <nowiki>[</nowiki>[effet mental](./Registre.md)<nowiki>]</nowiki> ; **Niveau** [Bard](./Barde.md) 6, [Con](./Conjurateur.md) 6, [Hyp](./Hypnotiseur.md) 6, [Ens](./Ensorceleur.md)/[Mag](./Magicien.md) 8, [Occ](./Occultiste.md) 6, [Psy](./Psychiste.md) 8, [Sor](./Sorcière.md) 8
@@ -65,5 +65,5 @@ Ce sort fonctionne comme *[charme-personne](./Charme-personne.md)*, excepté que
 **Durée** 1 jour/[niveau](./niveau.md)
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
 ---
-Ce sort fonctionne sur le même principe que *[charme-monstre](./Charme-monstre.md)*, excepté le fait qu’il affecte un nombre de créatures dont le total de [DV](./DV.md) n’excède pas deux fois le [niveau](./niveau.md) du personnage, ou encore une créature, quels que soient ses [dés de vie](./dés de vie.md). Si il y a trop ce cible, le personnage les choisit une par une, jusqu’à ce qu’il atteigne la limite de [DV](./DV.md).
+Ce sort fonctionne sur le même principe que *[charme-monstre](./Charme-monstre.md)*, excepté le fait qu’il affecte un nombre de créatures dont le total de [DV](./../Ressources/DV.md) n’excède pas deux fois le [niveau](./niveau.md) du personnage, ou encore une créature, quels que soient ses [dés de vie](./dés de vie.md). Si il y a trop ce cible, le personnage les choisit une par une, jusqu’à ce qu’il atteigne la limite de [DV](./../Ressources/DV.md).
 )))

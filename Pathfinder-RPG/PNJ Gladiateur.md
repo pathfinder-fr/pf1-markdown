@@ -4,6 +4,7 @@ Title: Gladiateur
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Arène#GLADIATEUR
 ---
 
->>> Arène#GLADIATEUR
+>>> [Arène#GLADIATEUR](./Arène.md#GLADIATEUR)

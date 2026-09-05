@@ -28,7 +28,7 @@ Categories:
 
 **Jet de sauvegarde** [Volonté](./Volonté.md), [annule](./Présentation des sorts.md#JETSDESAUVEGARDE) ; **Résistance à la magie** oui
 
-Les gestes lents et l’incantation lancinante de ce sort permettent au personnage de capter l’attention des créatures proches, qui cessent leurs activités et le regardent d’un air hagard. Le personnage peut alors profiter de leur état pour leur présenter des suggestions ou des demandes. Le nombre total de [DV](./DV.md) de créatures affectées est déterminé en lançant 2d4. Les créatures possédant le moins de [DV](./DV.md) sont affectées en premier. Seules les créatures qui peuvent voir ou entendre le lanceur du sort sont hypnotisées ; il n’est cependant pas nécessaire qu’elles comprennent le personnage pour que la fascination prenne effet.
+Les gestes lents et l’incantation lancinante de ce sort permettent au personnage de capter l’attention des créatures proches, qui cessent leurs activités et le regardent d’un air hagard. Le personnage peut alors profiter de leur état pour leur présenter des suggestions ou des demandes. Le nombre total de [DV](./../Ressources/DV.md) de créatures affectées est déterminé en lançant 2d4. Les créatures possédant le moins de [DV](./../Ressources/DV.md) sont affectées en premier. Seules les créatures qui peuvent voir ou entendre le lanceur du sort sont hypnotisées ; il n’est cependant pas nécessaire qu’elles comprennent le personnage pour que la fascination prenne effet.
 
 Si ce sort est utilisé au combat, les sujets bénéficient d’un bonus de +2 au [jet de sauvegarde](./jet de sauvegarde.md). À l’inverse, s’il ne cible qu’une seule créature qui n’est pas en train de se battre, elle subit un malus de -2 à ce même jet.
 

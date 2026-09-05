@@ -129,7 +129,7 @@ compétences
 | [Magicien](./Magicien.md) || 2 + mod. d’Int*
 |}
 </center></div></div>
-Faites le décompte des niveaux de [compétences](./Compétences.md) que possède le personnage et répartissez-les normalement. Le nombre de rangs dans une compétence est toujours limité par le nombre de [DV](./DV.md) du personnage.
+Faites le décompte des niveaux de [compétences](./Compétences.md) que possède le personnage et répartissez-les normalement. Le nombre de rangs dans une compétence est toujours limité par le nombre de [DV](./../Ressources/DV.md) du personnage.
 
 Pour une méthode de génération plus simple, consultez la Table "[Nombre de compétences des PNJ](./Créer des PNJ.md#TABLENOMBRECOMPETENCESPNJ)" ci-contre afin de déterminer le nombre total de [compétences](./Compétences.md) auquel le personnage peut prétendre. Après avoir sélectionné ces [compétences](./Compétences.md), en majorité dans la liste des [compétences](./Compétences.md) de la classe de [PNJ](./PNJ.md) correspondante, attribuez un nombre de rangs dans chaque compétence égal au niveau du personnage.
 

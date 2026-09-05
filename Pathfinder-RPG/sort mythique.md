@@ -4,6 +4,7 @@ Title: sort mythique
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Sorts mythiques
 ---
 
->>> Sorts mythiques
+>>> [Sorts mythiques](./Sorts mythiques.md)

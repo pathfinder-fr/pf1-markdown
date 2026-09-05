@@ -4,6 +4,7 @@ Title: Déterminer les modificateurs
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Caractéristiques#DETERMINERLESMODIFICATEURS
 ---
 
->>> Caractéristiques#DETERMINERLESMODIFICATEURS
+>>> [Caractéristiques#DETERMINERLESMODIFICATEURS](./Caractéristiques.md#DETERMINERLESMODIFICATEURS)

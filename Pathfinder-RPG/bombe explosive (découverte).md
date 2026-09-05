@@ -4,6 +4,7 @@ Title: Bombe explosive (découverte)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: découvertes#BOMBEEXPLOSIVE
 ---
 
->>> découvertes#BOMBEEXPLOSIVE
+>>> [découvertes#BOMBEEXPLOSIVE](./découvertes.md#BOMBEEXPLOSIVE)

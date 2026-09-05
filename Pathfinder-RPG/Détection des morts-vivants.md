@@ -36,11 +36,11 @@ Grâce à *détection des morts-vivants*, le lanceur de sorts peut détecter les
 
 Premier [round](./round.md) : présence ou absence d’auras de [morts-vivants](./type Mort-vivant.md).
 
-Deuxième [round](./round.md) : nombre d’auras de [morts-vivants](./type Mort-vivant.md) dans la zone étudiée et intensité de l’aura la plus puissante. Si le lanceur de sorts est d’[alignement](./Alignement.md) Bon, si l’aura repérée est surpuissante (voir ci-dessous) et si la créature détectée possède un nombre de [DV](./DV.md) supérieur ou égal au double du [niveau du lanceur de sorts](./NLS.md), celui-ci est [étourdi](./Étourdi.md) pendant 1 [round](./round.md) et le sort prend fin immédiatement.
+Deuxième [round](./round.md) : nombre d’auras de [morts-vivants](./type Mort-vivant.md) dans la zone étudiée et intensité de l’aura la plus puissante. Si le lanceur de sorts est d’[alignement](./Alignement.md) Bon, si l’aura repérée est surpuissante (voir ci-dessous) et si la créature détectée possède un nombre de [DV](./../Ressources/DV.md) supérieur ou égal au double du [niveau du lanceur de sorts](./NLS.md), celui-ci est [étourdi](./Étourdi.md) pendant 1 [round](./round.md) et le sort prend fin immédiatement.
 
 Troisième [round](./round.md) : intensité et emplacement de chacune des auras. Si une aura se trouve en-dehors du champ de vision du lanceur de sorts, il apprend la direction dans laquelle elle se trouve mais pas son emplacement exact.
 
-**Intensité de l’aura.** La puissance de l’aura dépend du nombre de [DV](./DV.md) du [mort-vivant](./type Mort-vivant.md) dont elle émane :
+**Intensité de l’aura.** La puissance de l’aura dépend du nombre de [DV](./../Ressources/DV.md) du [mort-vivant](./type Mort-vivant.md) dont elle émane :
 
 <center>
 {| CLASS="tablo"

@@ -4,6 +4,7 @@ Title: Bond
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Bond (capacité)
 ---
 
->>> Bond (capacité)
+>>> [Bond (capacité)](./Bond (capacité).md)

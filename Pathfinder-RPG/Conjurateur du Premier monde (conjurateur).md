@@ -24,7 +24,7 @@ Au niveau 3, un conjurateur du Monde féerique ajoute les créatures suivantes 
 #### Eidolon
 À la place d’un extérieur, l’[eidolon](./Conjurateur.md#EIDOLON) d’un conjurateur du Monde féerique est une créature de type [fée](./type Fée.md) et de sous-type [extraplanaire](./sous-type extraplanaire.md). Voici les modifications à apporter au profil de cet eidolon :
 - **Dés de Vie.** d6 (au lieu de d10).
-- **BBA.** égal à la moitié des [Dés de Vie](./DV.md) de l’eidolon.
+- **BBA.** égal à la moitié des [Dés de Vie](./../Ressources/DV.md) de l’eidolon.
 - **Jets de sauvegarde forts/faibles.** toujours [Réflexes](./Réflexes.md) et [Volonté](./Volonté.md).
 - **Compétences.** les compétences de classe de l’eidolon sont [Acrobaties](./Acrobaties.md), [Artisanat](./Artisanat.md), [Bluff](./Bluff.md), [Connaissances](./Connaissances.md) (géographie), [Connaissances](./Connaissances.md) (nature), [Déguisement](./Déguisement.md), [Diplomatie](./Diplomatie.md), [Discrétion](./Discrétion.md), [Escalade](./Escalade.md), [Escamotage](./Escamotage.md), [Évasion](./Évasion.md), [Natation](./Natation.md), [Perception](./Perception.md), [Psychologie](./Psychologie.md), [Représentation](./Représentation.md), [Utilisation d’objets magiques](./UOM.md) et [Vol](./Vol.md).
 - **Sens.** l’eidolon remplace [vision dans le noir](./vision dans le noir (capacité).md) par [vision nocturne](./Vision nocturne (capacité).md). Le conjurateur peut octroyer la vision dans le noir jusqu’à 18 mètres à son eidolon pour 1 point d’évolution.

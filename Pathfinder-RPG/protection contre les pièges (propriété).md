@@ -6,6 +6,7 @@ Categories:
 - Objet mag propriété arme
 - Redirection
 - Src Recueil de la Société des Éclaireurs
+RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Protection contre les pièges
 ---
 
->>> Descriptions individuelles des propriétés spéciales des armures et des boucliers#Protection contre les pièges
+>>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Protection contre les pièges](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Protection contre les pièges)

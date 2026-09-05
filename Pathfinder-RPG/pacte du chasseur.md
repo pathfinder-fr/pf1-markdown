@@ -4,6 +4,7 @@ Title: pacte du chasseur
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Rôdeur#PACTEDUCHASSEUR
 ---
 
->>> Rôdeur#PACTEDUCHASSEUR
+>>> [Rôdeur#PACTEDUCHASSEUR](./Rôdeur.md#PACTEDUCHASSEUR)

@@ -20,7 +20,7 @@ Categories:
 |- CLASS="premier"
 | [École renforcée](./École renforcée.md)
 | CLASS="gauche" | -
-| CLASS="gauche" | +1 au [DD](./DD.md) des [jets de sauvegarde](./JDS.md) des sorts d’une [école](./../Golarion/Écoles de magie.md)
+| CLASS="gauche" | +1 au [DD](./DD.md) des [jets de sauvegarde](./JDS.md) des sorts d’une [école](./Écoles de magie.md)
 |-
 | &emsp;[Amélioration des créatures convoquées](./Amélioration des créatures convoquées.md)
 | CLASS="gauche" | [École renforcée](./École renforcée.md) ([Invocation](./Invocation.md))
@@ -48,7 +48,7 @@ Categories:
 |-
 | &emsp;[École supérieure](./École supérieure.md)
 | CLASS="gauche" | [École renforcée](./École renforcée.md)
-| CLASS="gauche" | +1 au [DD](./DD.md) des [jets de sauvegarde](./JDS.md) des sorts d’une [école](./../Golarion/Écoles de magie.md)
+| CLASS="gauche" | +1 au [DD](./DD.md) des [jets de sauvegarde](./JDS.md) des sorts d’une [école](./Écoles de magie.md)
 |-
 | &emsp;[Invocateur de squelettes](./Invocateur de squelettes.md)<sup>um</sup>
 | CLASS="gauche" | [École renforcée](./École renforcée.md) ([Nécromancie](./Nécromancie.md)), capacité à lancer *convocation de monstres*

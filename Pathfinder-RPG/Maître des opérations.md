@@ -18,4 +18,4 @@ Pour affecter un allié involontaire, le hobgobelin doit réussir un test d’[I
 
 {s:PU}
 #### Astuce martiale ([règles](./Endurance et Astuces martiales.md))
-Le personnage peut dépenser 5 points d’endurance pour utiliser ce don contre une créature dotée d’un maximum de 5 [DV](./DV.md) de plus que lui.
+Le personnage peut dépenser 5 points d’endurance pour utiliser ce don contre une créature dotée d’un maximum de 5 [DV](./../Ressources/DV.md) de plus que lui.

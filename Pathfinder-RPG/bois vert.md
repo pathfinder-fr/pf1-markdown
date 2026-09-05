@@ -4,6 +4,7 @@ Title: bois vert
 LastModified: 2020-03-21 18:46
 Categories:
 - Redirection
+RedirectTo: matériaux spéciaux#BOISVERT
 ---
 
->>> matériaux spéciaux#BOISVERT
+>>> [matériaux spéciaux#BOISVERT](./Matériaux spéciaux.md#BOISVERT)

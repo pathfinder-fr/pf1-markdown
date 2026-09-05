@@ -4,6 +4,7 @@ Title: abri partiel
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: ABRI#ABRIPARTIEL
 ---
 
->>> ABRI#ABRIPARTIEL
+>>> [ABRI#ABRIPARTIEL](./abri.md#ABRIPARTIEL)

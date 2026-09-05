@@ -4,6 +4,7 @@ Title: Vidé de son énergie
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: États préjudiciables#Vidédesonénergie
 ---
 
->>> États préjudiciables#Vidédesonénergie
+>>> [États préjudiciables#Vidédesonénergie](./États préjudiciables.md#Vidédesonénergie)

@@ -7,6 +7,7 @@ Categories:
 - Objet magique
 - Objet magique merveilleux
 - Redirection
+RedirectTo: Armures magiques#RAFALEDENUAGES
 ---
 
->>> Armures magiques#RAFALEDENUAGES
+>>> [Armures magiques#RAFALEDENUAGES](./Armures magiques.md#RAFALEDENUAGES)

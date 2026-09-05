@@ -14,7 +14,7 @@ Retour à la liste des [classes de prestige](./../Pathfinder-RPG/Classes de pres
 <li>[Le druide](./../Pathfinder-RPG/Druide.md) (*[compagnons animaux](./../Pathfinder-RPG/Compagnons animaux.md), [Domaines animaux et environnementaux](./../Pathfinder-RPG/Domaines animaux et environnementaux.md)*)</li>
 <li>[L'ensorceleur](./../Pathfinder-RPG/Ensorceleur.md) (*[lignages](./../Pathfinder-RPG/Lignages.md)*)</li>
 <li>[Le guerrier](./../Pathfinder-RPG/Guerrier.md) (*[groupes d'armes](./../Pathfinder-RPG/groupe darmes.md)*, *[entraînements avancés](./../Pathfinder-RPG/Entraînements avancés.md)*)</li>
-<li>[Le magicien](./../Pathfinder-RPG/Magicien.md) (*[écoles de magie](./../Golarion/Écoles de magie.md), [découvertes arcaniques](./../Pathfinder-RPG/Découvertes arcaniques.md)*)</li>
+<li>[Le magicien](./../Pathfinder-RPG/Magicien.md) (*[écoles de magie](./../Pathfinder-RPG/Écoles de magie.md), [découvertes arcaniques](./../Pathfinder-RPG/Découvertes arcaniques.md)*)</li>
 <li>[Le moine](./../Pathfinder-RPG/Moine.md) (*[voeux](./../Pathfinder-RPG/Voeux.md)*)</li>
 <li>[Le paladin](./../Pathfinder-RPG/Paladin.md)</li>
 <li>[Le prêtre](./../Pathfinder-RPG/Prêtre.md) (*[variantes de canalisation](./../Pathfinder-RPG/Variantes de canalisation.md)*) (*[domaines](./../Pathfinder-RPG/Domaines.md)*)</li>

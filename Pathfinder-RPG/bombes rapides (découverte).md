@@ -4,6 +4,7 @@ Title: Bombes rapides (découverte)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: découvertes#BOMBESRAPIDES
 ---
 
->>> découvertes#BOMBESRAPIDES
+>>> [découvertes#BOMBESRAPIDES](./découvertes.md#BOMBESRAPIDES)

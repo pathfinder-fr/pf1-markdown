@@ -13,7 +13,7 @@ Categories:
 
 **Catégorie.** [combat](./Dons.md#DONCOMBAT)
 
-**Conditions.** [École de magie](./../Golarion/Écoles de magie.md), [Science du combat à mains nues](./Science du combat à mains nues.md)
+**Conditions.** [École de magie](./Écoles de magie.md), [Science du combat à mains nues](./Science du combat à mains nues.md)
 
 **Avantage.** Quand le personnage obtient ce don, il choisit un pouvoir d’école qui affecte un seul adversaire. S’il réussit une attaque à mains nues contre un ennemi, il lui inflige les dégâts habituels et peut, en plus, utiliser une [action rapide](./Action rapide.md) pour lui attribuer les effets du pouvoir d’école choisi, sans provoquer d’[attaque d’opportunité](./attaque dopportunité.md).
 

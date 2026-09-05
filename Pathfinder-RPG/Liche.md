@@ -47,9 +47,9 @@ Categories:
 {s:BDTexte|**Organisation sociale** solitaire}
 {s:BDTexte|**Trésor** équipement de PNJ (*anneau de protection* +2, *bandeau d'intelligence* +2 <nowiki>[</nowiki>[Perception](./Perception.md)<nowiki>]</nowiki>, *bottes de lévitation*, *parchemin de domination*, *parchemin de téléportation*, *potion d'invisibilité*)}
 {s:BDSousTitre|Pouvoirs spéciaux}
-{s:BDTexte|**Emprise sur les morts-vivants (Sur).** Voir le pouvoir du [Nécromancien](./../Golarion/Écoles de magie.md#NECROMANCIE).}
-{s:BDTexte|**Perception de la vie (Sur).** Voir le pouvoir du [Nécromancien](./../Golarion/Écoles de magie.md#NECROMANCIE).}
-{s:BDTexte|**Toucher du tombeau (Mag).** Voir le pouvoir du [Nécromancien](./../Golarion/Écoles de magie.md#NECROMANCIE).}
+{s:BDTexte|**Emprise sur les morts-vivants (Sur).** Voir le pouvoir du [Nécromancien](./Écoles de magie.md#NECROMANCIE).}
+{s:BDTexte|**Perception de la vie (Sur).** Voir le pouvoir du [Nécromancien](./Écoles de magie.md#NECROMANCIE).}
+{s:BDTexte|**Toucher du tombeau (Mag).** Voir le pouvoir du [Nécromancien](./Écoles de magie.md#NECROMANCIE).}
 </div>
 
 </td><td><div>Voir l'[archétype](./Liche, archétype.md).

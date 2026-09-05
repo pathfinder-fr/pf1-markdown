@@ -5,6 +5,7 @@ LastModified: 2020-03-09 19:20
 Categories:
 - Propriété armure
 - Redirection
+RedirectTo: Descriptions individuelles des propriétés spéciales des armures et des boucliers#Résistance supérieure aux énergies destructives
 ---
 
->>> Descriptions individuelles des propriétés spéciales des armures et des boucliers#Résistance supérieure aux énergies destructives
+>>> [Descriptions individuelles des propriétés spéciales des armures et des boucliers#Résistance supérieure aux énergies destructives](./Descriptions individuelles des propriétés spéciales des armures et des boucliers.md#Résistance supérieure aux énergies destructives)

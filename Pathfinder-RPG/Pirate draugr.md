@@ -20,7 +20,7 @@ Categories:
 {s:BDtexte|**Init** +6 ; **Sens** [vision dans le noir](./vision dans le noir (capacité).md) à 18 m ; [Perception](./Perception.md) +7}
 {s:BDsoustitre|Défense}
 {s:BDtexte|**CA** 18, contact 12, pris au dépourvu 16 (armure +3, bouclier +1, Dex +2, naturelle +2)}
-{s:BDtexte|**pv** 22 (4 [DV](./DV.md) ; 3d8+1d8+5)}
+{s:BDtexte|**pv** 22 (4 [DV](./../Ressources/DV.md) ; 3d8+1d8+5)}
 {s:BDtexte|**Réf** +5, **Vig** +2, **Vol** +4}
 {s:BDtexte|**RD** 5/contondant ou tranchant ; **Immunités** [traits des morts-vivants](./Traits des morts-vivants (capacité).md) ; **Résistances** feu 10}
 {s:BDsoustitre|Attaque}

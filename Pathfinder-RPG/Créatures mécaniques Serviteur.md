@@ -6,6 +6,7 @@ Categories:
 - Monstre
 - Règle officielle
 - Src Bestiaire 3
+RedirectTo: Serviteur mécanique
 ---
 
->>> Serviteur mécanique
+>>> [Serviteur mécanique](./Serviteur mécanique.md)

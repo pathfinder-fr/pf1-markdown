@@ -4,6 +4,7 @@ Title: Maintenant que j’y repense (talent)
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Talents#MAINTENANTQUEJYREPENSE
 ---
 
->>> Talents#MAINTENANTQUEJYREPENSE
+>>> [Talents#MAINTENANTQUEJYREPENSE](./Talents.md#MAINTENANTQUEJYREPENSE)

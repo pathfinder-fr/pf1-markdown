@@ -2,6 +2,7 @@
 Name: Pathfinder-RPG.Coursier pesteux
 Title: Coursier pesteux
 LastModified: 2021-04-03 21:32
+RedirectTo: Cheval pestiféré
 ---
 
 <div class="description">
@@ -9,4 +10,4 @@ LastModified: 2021-04-03 21:32
 
 **Source à jour :** Bestiaire 5 p.46
 </div>
->>> Cheval pestiféré
+>>> [Cheval pestiféré](./cheval pestiféré.md)

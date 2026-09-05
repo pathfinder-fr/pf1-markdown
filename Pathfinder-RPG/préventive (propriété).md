@@ -6,6 +6,7 @@ Categories:
 - Objet mag propriété arme
 - Redirection
 - Src Recueil de la Société des Éclaireurs
+RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Préventive
 ---
 
->>> Descriptions individuelles des propriétés spéciales des armes#Préventive
+>>> [Descriptions individuelles des propriétés spéciales des armes#Préventive](./Descriptions individuelles des propriétés spéciales des armes.md#Préventive)

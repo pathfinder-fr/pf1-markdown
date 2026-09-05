@@ -4,6 +4,7 @@ Title: abri total
 LastModified: 2021-01-29 03:15
 Categories:
 - Redirection
+RedirectTo: Modificateurs de combat#abri total
 ---
 
->>> Modificateurs de combat#abri total
+>>> [Modificateurs de combat#abri total](./Modificateurs de combat.md#abri total)

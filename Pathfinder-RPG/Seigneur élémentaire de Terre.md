@@ -4,6 +4,7 @@ Title: Seigneur élémentaire de Terre
 LastModified: 2020-09-17 02:03
 Categories:
 - Redirection
+RedirectTo: Élémentaire de la Terre#_5
 ---
 
->>> Élémentaire de la Terre#_5
+>>> [Élémentaire de la Terre#_5](./Élémentaire de la Terre.md#_5)

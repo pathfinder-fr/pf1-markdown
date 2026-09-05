@@ -2,6 +2,7 @@
 Name: Pathfinder-RPG.Kyton Ostiarius
 Title: Kyton, Ostiarius (doublon)
 LastModified: 2021-04-06 00:33
+RedirectTo: Ostiarius
 ---
 
->>> Ostiarius
+>>> [Ostiarius](./Ostiarius.md)

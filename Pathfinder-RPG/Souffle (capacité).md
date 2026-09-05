@@ -4,7 +4,7 @@ Title: Souffle (Sur)
 LastModified: 2010-11-14 14:26
 ---
 
-Certaines créatures peuvent exhaler de l’énergie ou un autre effet magique sous la forme d’un cône, d’une ligne ou d’un nuage. Le plus souvent, les attaques de souffle infligent des dégâts d’un type d’énergie spécifique. Elles autorisent un jet de Réflexes pour réduire les dégâts de moitié (le [DD](./DD.md) est égal à 10 + la moitié du nombre de [DV](./DV.md) raciaux de la créature qui souffle + son modificateur de [Constitution](./Constitution.md) ; la valeur exacte est mentionnée dans la description).
+Certaines créatures peuvent exhaler de l’énergie ou un autre effet magique sous la forme d’un cône, d’une ligne ou d’un nuage. Le plus souvent, les attaques de souffle infligent des dégâts d’un type d’énergie spécifique. Elles autorisent un jet de Réflexes pour réduire les dégâts de moitié (le [DD](./DD.md) est égal à 10 + la moitié du nombre de [DV](./../Ressources/DV.md) raciaux de la créature qui souffle + son modificateur de [Constitution](./Constitution.md) ; la valeur exacte est mentionnée dans la description).
 
 Sauf mention contraire, les créatures sont immunisées contre leurs propres souffles. Certains souffles autorisent un jet de [Vigueur](./Vigueur.md) ou de [Volonté](./Volonté.md) au lieu d’un jet de [Réflexes](./Réflexes.md). Chaque souffle est accompagné d’indications précisant à quelle fréquence il peut être utilisé et/ou du nombre maximal d’utilisations quotidiennes possibles.
 

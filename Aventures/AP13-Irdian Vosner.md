@@ -5,6 +5,7 @@ LastModified: 2021-07-05 21:39
 Categories:
 - Campagne
 - PNJ
+RedirectTo: AP13-Idrian Vosner
 ---
 
->>> AP13-Idrian Vosner
+>>> [AP13-Idrian Vosner](./AP13-Idrian Vosner.md)

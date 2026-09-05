@@ -4,6 +4,7 @@ Title: objet à potentiel magique
 LastModified: 2025-12-26 18:39
 Categories:
 - Redirection
+RedirectTo: Règles relatives aux objets magiques#OBJETSAPOTENTIELMAGIQUE
 ---
 
->>> Règles relatives aux objets magiques#OBJETSAPOTENTIELMAGIQUE
+>>> [Règles relatives aux objets magiques#OBJETSAPOTENTIELMAGIQUE](./Règles relatives aux objets magiques.md#OBJETSAPOTENTIELMAGIQUE)

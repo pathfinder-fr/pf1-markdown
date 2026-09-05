@@ -4,6 +4,7 @@ Title: Detection de l’expertise
 LastModified: 2018-07-20 23:55
 Categories:
 - Redirection
+RedirectTo: Pathfinder-RPG.Détection de l'expertise
 ---
 
->>> Pathfinder-RPG.Détection de l'expertise
+>>> [Pathfinder-RPG.Détection de l'expertise](./Pathfinder-RPG-Détection-de-l'expertise.md)

@@ -44,7 +44,7 @@ Categories:
 {s:BDTexte|**Trésor** standard}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Absorption de la magie bienveillante (Sur).** Quand un sort du registre du [Bien](./Registre.md) prend pour cible un dévastateur ou l’inclut dans sa zone d’effet ou dans son effet, le lanceur doit réussir un test de [niveau de lanceur de sorts](./NLS.md) DD 38, sans quoi le dévastateur absorbe le sort qui reste sans effet et il gagne 5 [points de vie temporaires](./points de vie temporaires.md) par niveau de sort absorbé. Ces points de vie temporaires disparaissent au bout d’une heure.}
-{s:BDTexte|**Aura de corruption (Sur).** Les extérieurs Chaotiques Mauvais dotés de 15 [DV](./DV.md) ou plus et situés à 18 mètres ou moins d’un dévastateur gagnent un bonus d’altération de +10 à la [Force](./Force.md) et au [Charisme](./Charisme.md). De plus, leur [résistance à la magie](./RM.md) augmente de 5. S’ils n’avaient pas de résistance à la magie, ils gagnent une RM égale à 11 + leur [FP](./FP.md).}
+{s:BDTexte|**Aura de corruption (Sur).** Les extérieurs Chaotiques Mauvais dotés de 15 [DV](./../Ressources/DV.md) ou plus et situés à 18 mètres ou moins d’un dévastateur gagnent un bonus d’altération de +10 à la [Force](./Force.md) et au [Charisme](./Charisme.md). De plus, leur [résistance à la magie](./RM.md) augmente de 5. S’ils n’avaient pas de résistance à la magie, ils gagnent une RM égale à 11 + leur [FP](./FP.md).}
 {s:BDTexte|**Frappes abominables (Ext).** Toutes les attaques d’un dévastateur sont considérées comme des *armes [anarchiques](./anarchique (propriété).md) [impies](./impie (propriété).md) +5* qui infligent des dégâts contondants, perforants et tranchants.}
 
 </div>

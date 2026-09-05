@@ -62,7 +62,7 @@ LastModified: 2021-04-11 10:26
 - **Sorts.** Cernunnos lance des sorts comme un druide de niveau 20.
 
 </div>
-</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs empyréens](./../Golarion/Seigneurs empyréens.md).***</li><li>***Voir la description des [azatas](./Azata.md).***</li></ul>*Cet individu gracieux de grande taille a des traits elfiques, de majestueuses cornes de cerf et un regard perçant sans-âge.*
+</td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [Seigneurs empyréens](./Seigneurs empyréens.md).***</li><li>***Voir la description des [azatas](./Azata.md).***</li></ul>*Cet individu gracieux de grande taille a des traits elfiques, de majestueuses cornes de cerf et un regard perçant sans-âge.*
 
 Cernunnos est un puissant seigneur empyréen, incarnation de la force primitive de la nature ainsi que de son caractère sauvage.
 Il s’entoure de conseillers issus de toutes les races célestes. Bien qu’il prenne rarement des décisions hâtives, il lui arrive de laisser sa colère occulter son jugement et va parfois jusqu’à jurer de mener des vendettas personnelles contre des seigneurs-démons ou des archidiables particuliers. Chasseur et archer sans égal, quand Cernunnos traverse ces périodes vengeresses, il est tenté de se rendre aux Enfers ou dans les Abysses afin de prendre sa revanche personnellement.

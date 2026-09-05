@@ -7,6 +7,7 @@ Categories:
 - Objet mag propriété arme
 - Redirection
 - Src Ultimate Intrigue
+RedirectTo: Descriptions individuelles des propriétés spéciales des armes#Infaillible
 ---
 
->>> Descriptions individuelles des propriétés spéciales des armes#Infaillible
+>>> [Descriptions individuelles des propriétés spéciales des armes#Infaillible](./Descriptions individuelles des propriétés spéciales des armes.md#Infaillible)

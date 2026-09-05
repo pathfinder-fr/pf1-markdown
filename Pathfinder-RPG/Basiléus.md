@@ -42,7 +42,7 @@ Categories:
 {s:BDTexte|**Trésor** double}
 {s:BDSousTitre|Pouvoirs spéciaux}
 {s:BDTexte|**Forme terrifiante (Sur).** Tant qu'il utilise son pouvoir de regard, Basiléus manifeste entre un et cinq appendices monstrueux capables de porter des attaques de coup.}
-{s:BDTexte|**Regard (Sur).** Mort (si la cible possède 6 [DV](./DV.md) ou moins) ou 6d6 points de dégâts et [paniqué](./Paniqué.md) pendant 2d4 rounds (si la cible possède 7 [DV](./DV.md) ou plus), portée de 9 m, Volonté DD 25 annule la mort ou l'état paniqué. Ce [regard](./Regard (capacité).md) est un effet mental de peur qui fait en sorte que ses cibles voient Basiléus comme la chose la plus terrifiante qu'elle peuvent imaginer. Le DD du jet de sauvegarde est basé sur le Charisme.}
+{s:BDTexte|**Regard (Sur).** Mort (si la cible possède 6 [DV](./../Ressources/DV.md) ou moins) ou 6d6 points de dégâts et [paniqué](./Paniqué.md) pendant 2d4 rounds (si la cible possède 7 [DV](./../Ressources/DV.md) ou plus), portée de 9 m, Volonté DD 25 annule la mort ou l'état paniqué. Ce [regard](./Regard (capacité).md) est un effet mental de peur qui fait en sorte que ses cibles voient Basiléus comme la chose la plus terrifiante qu'elle peuvent imaginer. Le DD du jet de sauvegarde est basé sur le Charisme.}
 {s:BDTexte|**Voiles d'apparences (Sur).** Toutes les créatures voient Basiléus comme un membre séduisant de leur propre race. Tant qu'il utilise ce pouvoir, le pouvoir de regard de Basiléus est réprimé. Il peut activer ou désactiver ce pouvoir par une [action libre](./Action libre.md).}
 </div>
 </td><td><div><ul style="margin: 0 0 -10 0;margin-top: 6px;margin-bottom: 12px;"><li>***Voir la description des [diables](./Diable.md).***</li></ul>

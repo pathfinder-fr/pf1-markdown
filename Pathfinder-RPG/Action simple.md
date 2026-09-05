@@ -4,6 +4,7 @@ Title: Action simple
 LastModified: 2020-02-18 10:33
 Categories:
 - Redirection
+RedirectTo: Types dactions#SIMPLE
 ---
 
->>> Types dactions#SIMPLE
+>>> [Types dactions#SIMPLE](./Types dactions.md#SIMPLE)

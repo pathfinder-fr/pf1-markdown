@@ -70,6 +70,6 @@ existe des cas de mutation et les érudits spécialisés sur la mer
 et ses créatures ont noté que des fiélons sargasses ont atteint
 des tailles énormes, voire Colossales. On peut créer ces
 énormes fiélons sargasses peu en faisant évoluer les dés de
-vie du fiélon avec un minimum de 5 [DV](./DV.md) par catégorie de [taille](./taille.md)
+vie du fiélon avec un minimum de 5 [DV](./../Ressources/DV.md) par catégorie de [taille](./taille.md)
 supplémentaire.
 </div></td></tr></table>

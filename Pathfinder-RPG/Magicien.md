@@ -8,7 +8,7 @@ Categories:
 ---
 
 {s:MenuClasses}
-<div class="fright">***Voir aussi les [écoles de magie](./../Golarion/Écoles de magie.md) et les [familiers](./Familiers.md).***
+<div class="fright">***Voir aussi les [écoles de magie](./Écoles de magie.md) et les [familiers](./Familiers.md).***
 ***Voir aussi les [découvertes arcaniques](./Découvertes arcaniques.md).***
 ***Voir aussi la [liste des sorts de magicien](./Liste des sorts densorceleursmagiciens.md).***
 {s:PM0|magicien}**Voir les archétypes du magicien**&emsp;
@@ -378,7 +378,7 @@ Categories:
 | 4
 |}
 
-**Rôle.** Alors que les études des magiciens généralistes leur permettent de se préparer à n’importe quel type de danger, les magiciens spécialistes s’intéressent à des [écoles de magie](./../Golarion/Écoles de magie.md) qui les rendent particulièrement efficaces dans un domaine spécifique. Mais, quelle que soit la voie choisie, tous les magiciens sont des maîtres de l’impossible, capables d’aider leurs alliés à faire face à n’importe quelle menace.
+**Rôle.** Alors que les études des magiciens généralistes leur permettent de se préparer à n’importe quel type de danger, les magiciens spécialistes s’intéressent à des [écoles de magie](./Écoles de magie.md) qui les rendent particulièrement efficaces dans un domaine spécifique. Mais, quelle que soit la voie choisie, tous les magiciens sont des maîtres de l’impossible, capables d’aider leurs alliés à faire face à n’importe quelle menace.
 
 **Alignement.** Au choix.
 
@@ -427,11 +427,11 @@ Si un objet fétiche est endommagé, il revient à son maximum de points de vie 
 {s:ImageDroite|Illustrations/PNJ/Nyctessa.jpg|30%}
 {s:Reference|ECOLEDEMAGIE}
 #### École de magie
-Un magicien peut choisir de se spécialiser dans une [école de magie](./../Golarion/Écoles de magie.md) afin d’acquérir des sorts et des pouvoirs supplémentaires associés à cette école. Ce choix doit être fait au niveau 1 et ne peut être modifié par la suite. Si le magicien ne choisit aucune école, il reçoit les avantages liés à l’[école universelle](./../Golarion/Écoles de magie.md#ECOLEUNIVERSELLE).
+Un magicien peut choisir de se spécialiser dans une [école de magie](./Écoles de magie.md) afin d’acquérir des sorts et des pouvoirs supplémentaires associés à cette école. Ce choix doit être fait au niveau 1 et ne peut être modifié par la suite. Si le magicien ne choisit aucune école, il reçoit les avantages liés à l’[école universelle](./Écoles de magie.md#ECOLEUNIVERSELLE).
 
-Un magicien qui choisit de se spécialiser dans une des huit [écoles de magie](./../Golarion/Écoles de magie.md) standard doit sélectionner deux autres écoles qui deviennent ses écoles opposées et représentent les domaines de connaissances qu’il décide de sacrifier pour se concentrer sur son domaine de prédilection. Un magicien peut préparer un sort appartenant à une de ses écoles opposées mais il doit alors utiliser deux [emplacements de sort](./emplacement de sort.md) du même niveau.
+Un magicien qui choisit de se spécialiser dans une des huit [écoles de magie](./Écoles de magie.md) standard doit sélectionner deux autres écoles qui deviennent ses écoles opposées et représentent les domaines de connaissances qu’il décide de sacrifier pour se concentrer sur son domaine de prédilection. Un magicien peut préparer un sort appartenant à une de ses écoles opposées mais il doit alors utiliser deux [emplacements de sort](./emplacement de sort.md) du même niveau.
 
-*Par exemple, un magicien dont une des écoles d’opposition est l’[Évocation](./../Golarion/Écoles de magie.md#EVOCATION) doit utiliser deux emplacements de sort de 3e niveau pour préparer une *[boule de feu](./Boule de feu.md)*. De plus, le spécialiste subit un malus de -4 à tous les tests de compétence pour [fabriquer un objet magique](./Création dobjets magiques.md) dont la création nécessite un sort appartenant à une de ses écoles d’opposition.*
+*Par exemple, un magicien dont une des écoles d’opposition est l’[Évocation](./Écoles de magie.md#EVOCATION) doit utiliser deux emplacements de sort de 3e niveau pour préparer une *[boule de feu](./Boule de feu.md)*. De plus, le spécialiste subit un malus de -4 à tous les tests de compétence pour [fabriquer un objet magique](./Création dobjets magiques.md) dont la création nécessite un sort appartenant à une de ses écoles d’opposition.*
 
 Un magicien généraliste peut préparer des sorts de n’importe quelle école sans aucune restriction.
 
@@ -439,9 +439,9 @@ Les magiciens spécialistes reçoivent un certain nombre de pouvoirs d’école 
 
 {s:APG}**Les champs d'étude magiques.** Les magiciens qui se spécialisent dans une école de magie peuvent choisir de restreindre davantage encore leur domaine d’étude. Les magiciens qui choisissent un champ d’étude magique conservent les sorts en bonus de leur école de spécialisation et doivent toujours sélectionner deux écoles opposées mais certains de leurs pouvoirs d’école de magie sont modifiés ou remplacés. Ils doivent accepter toutes les modifications imposées par leur champ d’étude. Une fois un champ d’étude choisi, cette décision ne peut plus être modifiée.
 
-{s:APG}**Les écoles élémentaires.** Au lieu de se spécialiser dans l’une des huit écoles de magie standard, un magicien peut se focaliser sur l’étude d’une des quatre [écoles de magie élémentaires](./../Golarion/Écoles de magie.md#ECOLESELEMENTAIRES). Comme les écoles ordinaires, ces quatre nouvelles options octroient un certain nombre de pouvoirs d’école et un emplacement de sort en bonus pour chaque niveau de sorts auquel le magicien a accès (à partir du 1er niveau). Contrairement aux écoles ordinaires, une école élémentaire impose au magicien de choisir son élément opposé comme école d’opposition (l’Air contre la Terre, l’Eau contre le Feu). Le magicien ne doit pas choisir de seconde école d’opposition. Pour pouvoir préparer un sort appartenant à son école d’opposition, il doit utiliser deux emplacements de sort, conformément aux règles normales.
+{s:APG}**Les écoles élémentaires.** Au lieu de se spécialiser dans l’une des huit écoles de magie standard, un magicien peut se focaliser sur l’étude d’une des quatre [écoles de magie élémentaires](./Écoles de magie.md#ECOLESELEMENTAIRES). Comme les écoles ordinaires, ces quatre nouvelles options octroient un certain nombre de pouvoirs d’école et un emplacement de sort en bonus pour chaque niveau de sorts auquel le magicien a accès (à partir du 1er niveau). Contrairement aux écoles ordinaires, une école élémentaire impose au magicien de choisir son élément opposé comme école d’opposition (l’Air contre la Terre, l’Eau contre le Feu). Le magicien ne doit pas choisir de seconde école d’opposition. Pour pouvoir préparer un sort appartenant à son école d’opposition, il doit utiliser deux emplacements de sort, conformément aux règles normales.
 
-*Voir la [liste des écoles de magie](./../Golarion/Écoles de magie.md).*
+*Voir la [liste des écoles de magie](./Écoles de magie.md).*
 
 {s:Reference|TOURSDEMAGIE}
 #### Tours de magie
